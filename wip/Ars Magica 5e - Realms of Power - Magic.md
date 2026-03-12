@@ -1398,9 +1398,9 @@ It is, however, not very difficult to extend Hermetic magic to cover this case. 
 >
 >**Level 5:** Change the Form of a boundary or vestige. (Requisite)
 >
->**Level 10:**Associate a target with the Magic Realm, as if it had Magic Might of the same Form as this effect. This means it can affect things of that Form with other Magic Realm effects.
+>**Level 10:** Associate a target with the Magic Realm, as if it had Magic Might of the same Form as this effect. This means it can affect things of that Form with other Magic Realm effects.
 >
->**Level 15:**Cause a target in the Magic Realm to become perceptible as a vestige to travelers in the Twilight Void. Many features of the Magic Realm, but not all, have this property naturally. OR Cause a target in the Twilight Void to become visible as a vestige in the Magic Realm.
+>**Level 15:** Cause a target in the Magic Realm to become perceptible as a vestige to travelers in the Twilight Void. Many features of the Magic Realm, but not all, have this property naturally. OR Cause a target in the Twilight Void to become visible as a vestige in the Magic Realm.
 >
 >#### New Muto Spells
 >
@@ -1442,9 +1442,9 @@ Hermetic Magic can also reduce the strength of a boundary in the Magic Realm, ev
 >
 >**Level 5:** Destroy a vestige for the effect's duration. Destroyed vestiges can no longer be used for travel, either from or to.
 >
->**Level 10:**Remove a target to the Twilight Void for the duration, so long as it is in the Magic Realm or the caster has Magic Might associated with this Form.
+>**Level 10:** Remove a target to the Twilight Void for the duration, so long as it is in the Magic Realm or the caster has Magic Might associated with this Form.
 >
->**Level 15:**Permanently reduce the score of a boundary in the Magic Realm (of no greater than Level 1) by one level. Each additional magnitude increases the maximum level of the boundary or the amount by which it is reduced by 1.
+>**Level 15:** Permanently reduce the score of a boundary in the Magic Realm (of no greater than Level 1) by one level. Each additional magnitude increases the maximum level of the boundary or the amount by which it is reduced by 1.
 >
 >#### New Perdo Spells
 >
@@ -1474,9 +1474,9 @@ Hermetic Magic can also reduce the strength of a boundary in the Magic Realm, ev
 >
 >**Level 5:** Transport a target from one province into another. (Requisite)
 >
->**Level 10:**Reduce the length of a target's journey through the Twilight Void by one step. Each additional magnitude reduces the journey by another step.
+>**Level 10:** Reduce the length of a target's journey through the Twilight Void by one step. Each additional magnitude reduces the journey by another step.
 >
->**Level 35:**Transport a target instantly through a vestige or boundary, so long as the target is either in the Magic Realm or the caster has Magic Might associated with this spell's Form.
+>**Level 35:** Transport a target instantly through a vestige or boundary, so long as the target is either in the Magic Realm or the caster has Magic Might associated with this spell's Form.
 >
 >#### New Rego Spells
 >
@@ -7453,7 +7453,7 @@ Enrichment does not require a laboratory, but a magical procedure is necessary; 
 
 **Enrichment Total: Intelligence + Magic Lore + aura**
 
-> > **Enrichment Level: 9**
+**Enrichment Level: 9**
 
 Anyone who carries a Thing of Virtue on his person acquires a Virtue from its magic, providing the character has no Magic Resistance. Things of Virtue can be carried across magical wards, but their powers are suppressed by an Aegis of the Hearth of any level. The item must remain intact and undamaged to confer its Virtue.
 
@@ -7818,71 +7818,71 @@ It is possible to tame and train a kelpie to serve as a fearsome mount — or ev
 
 The kelpie described here is a magical creature associated with deep pools. However, similar faerie creatures may exist.
 
-#### Character Guide: A Kelpie
-
-**Magic Might:** 20 (Aquam) **Characteristics:**
-
+>#### Character Guide: A Kelpie
+>
+>**Magic Might:** 20 (Aquam) **Characteristics:**
+>
 > (Native form) Cun +1, Per +1, Pre 0, Com –2, Str +8, Sta +2, Dex +1, Qik –2 (Stallion form) Cun +1, Per +1, Pre +3, Com –2, Str +6, Sta +3, Dex +1, Qik –1
-
-**Size:** +3
-
-**Season:** Summer
-
-**Confidence:** 1(3) (attacking)
-
-**Virtues and Flaws:** Magic Thing; Ferocity, Lightning Reflexes, Tough; Magical Monster
-
-**Qualities and Inferiorities:** Greater Power; Improved Attack (x5), Improved Damage (x4), Improved Defense (x4), Improved Initiative (x2), Improved Soak (x3), Lesser Power (x2)
-
-**Personality Traits:** Fierce +3, Alluring +1 **Reputations:** Black horse on road 3 (local) **Combat:** (Native form)
-
-*Tentacles:* Init +4, Attack +10, Defense +11, Damage +8
-
-*Bite:* Init –2, Attack +13, Defense +3, Damage +20
-
-**Combat:** (Stallion form)
-
-*Kick:* Init –1, Attack +8, Defense +6, Damage +7
-
-**Soak:** +11
-
-**Fatigue Levels:** n/a.
-
-**Wound Penalties**: –1 (1-8), –3 (9-16), –5 (17-24), Incapacitated (25-32), Dead (33+)
-
-**Abilities:** (Area) Lore 2 (roads), Athletics 5 (galloping), Awareness 3 (roads), Brawl 5 (bite), Charm 3 (travelers), Hunt 5 (tracking), Stealth 3 (at night), Swim 3 (ambush)
-
-**Powers:**
-
-*Equine metamorphosis*, 3 points, Init –5, Aquam
-
-R: Per, D: Sun, T: Ind
-
-The kelpie ejects itself from its pool and in mid-flight the mass of slimy tentacles transforms into a glistening black stallion. The kelpie may at will return to its native form without an additional expenditure of Might, but if the kelpie is completely saturated with water while in its stallion form, a Stamina Roll against an Ease Factor of 9 must be made, otherwise it reverts to its native form.
-
-MuAq(An) 25 (Base 10, +2 Sun, + 1 Complex effect): Lesser Power (25 levels)
-
-*Equine charisma*, 2 points, Init –7, Imaginem R: Sight, D: Sun, T: Ind
-
-The kelpie makes itself alluring to its victim. This is automatically successful if the victim has a Cunning characteristic, but if the victim has an Intelligence characteristic then an Intelligence Roll against an Ease Factor of 9 will resist the effect (penalties for Fatigue apply, which makes weary travelers particularly susceptible). A victim with Cunning will follow the lead of a kelpie that it finds alluring, while an Intelligent victim will usually attempt to ride or capture the kelpie. This power may only be used while the kelpie is in stallion form.
-
-CrIm 40 (Base 5, +3 Sight, +2 Sun, +2 Complex effect): Greater Power (40 levels, –2 cost)
-
-*Fleet of Foot*, 0 points, Constant, Animal:
-
-R: Per, D: Constant, T: Ind
-
-When in its stallion form, the kelpie can travel at about three times the speed of a normal horse (it can carry a rider about 100 miles in a day).
-
-MuAn 15 (Base 4, +2 Sun, +1 Constant effect): Lesser Power (15 levels, –2 cost)
-
-**Equipment:** None.
-
-**Encumbrance:** 0
-
-**Vis:** 4 pawns of Aquam in the blood of the kelpie.
-
-**Appearance:** In native form the kelpie is a black, amorphous, and distended mass covered with an array of muscular tentacles, mouths, beaks, and sensory organs. It usually dwells at the bottom of a deep, shaded pool. In stallion form the kelpie appears to be a large, powerful, black horse as might be ridden into battle by a wealthy knight.
+>
+>**Size:** +3
+>
+>**Season:** Summer
+>
+>**Confidence:** 1(3) (attacking)
+>
+>**Virtues and Flaws:** Magic Thing; Ferocity, Lightning Reflexes, Tough; Magical Monster
+>
+>**Qualities and Inferiorities:** Greater Power; Improved Attack (x5), Improved Damage (x4), Improved Defense (x4), Improved Initiative (x2), Improved Soak (x3), Lesser Power (x2)
+>
+>**Personality Traits:** Fierce +3, Alluring +1 **Reputations:** Black horse on road 3 (local) **Combat:** (Native form)
+>
+>*Tentacles:* Init +4, Attack +10, Defense +11, Damage +8
+>
+>*Bite:* Init –2, Attack +13, Defense +3, Damage +20
+>
+>**Combat:** (Stallion form)
+>
+>*Kick:* Init –1, Attack +8, Defense +6, Damage +7
+>
+>**Soak:** +11
+>
+>**Fatigue Levels:** n/a.
+>
+>**Wound Penalties**: –1 (1-8), –3 (9-16), –5 (17-24), Incapacitated (25-32), Dead (33+)
+>
+>**Abilities:** (Area) Lore 2 (roads), Athletics 5 (galloping), Awareness 3 (roads), Brawl 5 (bite), Charm 3 (travelers), Hunt 5 (tracking), Stealth 3 (at night), Swim 3 (ambush)
+>
+>**Powers:**
+>
+>*Equine metamorphosis*, 3 points, Init –5, Aquam
+>
+>R: Per, D: Sun, T: Ind
+>
+>The kelpie ejects itself from its pool and in mid-flight the mass of slimy tentacles transforms into a glistening black stallion. The kelpie may at will return to its native form without an additional expenditure of Might, but if the kelpie is completely saturated with water while in its stallion form, a Stamina Roll against an Ease Factor of 9 must be made, otherwise it reverts to its native form.
+>
+>MuAq(An) 25 (Base 10, +2 Sun, + 1 Complex effect): Lesser Power (25 levels)
+>
+>*Equine charisma*, 2 points, Init –7, Imaginem R: Sight, D: Sun, T: Ind
+>
+>The kelpie makes itself alluring to its victim. This is automatically successful if the victim has a Cunning characteristic, but if the victim has an Intelligence characteristic then an Intelligence Roll against an Ease Factor of 9 will resist the effect (penalties for Fatigue apply, which makes weary travelers particularly susceptible). A victim with Cunning will follow the lead of a kelpie that it finds alluring, while an Intelligent victim will usually attempt to ride or capture the kelpie. This power may only be used while the kelpie is in stallion form.
+>
+>CrIm 40 (Base 5, +3 Sight, +2 Sun, +2 Complex effect): Greater Power (40 levels, –2 cost)
+>
+>*Fleet of Foot*, 0 points, Constant, Animal:
+>
+>R: Per, D: Constant, T: Ind
+>
+>When in its stallion form, the kelpie can travel at about three times the speed of a normal horse (it can carry a rider about 100 miles in a day).
+>
+>MuAn 15 (Base 4, +2 Sun, +1 Constant effect): Lesser Power (15 levels, –2 cost)
+>
+>**Equipment:** None.
+>
+>**Encumbrance:** 0
+>
+>**Vis:** 4 pawns of Aquam in the blood of the kelpie.
+>
+>**Appearance:** In native form the kelpie is a black, amorphous, and distended mass covered with an array of muscular tentacles, mouths, beaks, and sensory organs. It usually dwells at the bottom of a deep, shaded pool. In stallion form the kelpie appears to be a large, powerful, black horse as might be ridden into battle by a wealthy knight.
 
 >##Story Seed: To Break a Kelpie
 >
@@ -8844,5 +8844,6 @@ Wolves are greatly feared by commoners. They are hunted with large hounds becaus
 The Flaws above reflect the medieval perception of the wolf as a wanton, bloodthirsty killer. Individual wolves, such as the Animal Companion of a player character, may substitute another Personality Flaw in place of the Compulsion. A wolf Animal Companion that goes around killing livestock could be disruptive to stories. Regardless of such a wolf's actual personality, mundanes are likely to treat it with a great deal of fear and suspicion.
 
 The leader of a wolf pack has the additional Ability, Leadership 5 (wolves). A pack may fight as a trained group when its leader is present. A wolf pack is extremely dangerous.
+
 
 
