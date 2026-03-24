@@ -1,4 +1,16 @@
+# Hedge Magic (Revised Edition)
+A sourcebook for Ars Magica 5th Edition.
+
+> *Open License Markdown version by YairRezek & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
+> 
 > *[Completion state: Whole book manually fixed. Remaining: Heading style homoginzation (including virtues & spells), sidebar location editing, TOC, Premeable (including handling current end-text), Another pass + Review]*
+> 
+> *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
+
+Hermetic magi believe themselves to be the undisputed masters of magic in Mythic Europe. Certainly, there are a few hedge wizards, but their numbers and powers are surely negligible compared to the might of the Order of Hermes.
+Those “hedge wizards” would beg to differ.
+
+Hedge Magic Revised Edition provides you with all the information needed to play a hedge wizard from any of six different traditions, or to introduce them as allies or antagonists for a Hermetic covenant. The Mathematici are scholarly magicians who cluster in universities, while folk witches ply their trade in the villages. Elementalists control the building blocks of reality, while gruagachan deal out curses and blessings in the interests of justice. Nightwalkers leave their bodies to ﬁ ght for the prosperity of their homes, while in the vasts of the north, vitkir rune wizards patiently wait.
 
 # Credits
 
