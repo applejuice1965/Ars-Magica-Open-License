@@ -3,7 +3,7 @@ A guide to the Corrupted Lands of Italy for Ars Magica™ 3rd Edition
 
 > *Open License Markdown version by YR7 & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 >
-> *[Completion state: Whole book manually fixed. Remaining: Another pass + Review]*
+> *[Completion state: Whole book manually fixed.]*
 >
 > *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
@@ -15,13 +15,13 @@ The heart of an Empire. The birth place of Christianity. The nexus of the Order 
 
 The Tribunals of Hermes: Rome™ is the second in a series of Ars Magica™ 3rd edition setting supplements. This book provides extensive detail on the magical and mundane realms of Mythic Europe's Italian peninsula. Here players and Storyguides will find everything needed to tell a horrific Saga or startling tale in a land remembered for its glory, now renowned for its corruption.
 
-### CREDITS
+### Credits
 
 Writing: Shannon Appel and Chris Frerking
 
-**Development:** Ken Cliffe
+Development: Ken Cliffe
 
-**Editing:** Alara Rogers
+Editing: Alara Rogers
 
 Art Direction: Richard Thomas
 
@@ -31,23 +31,19 @@ Production Assistance: Kathleen Ryan
 
 Cover: Michael Weaver Logo: Richard Thomas
 
-Interior Art: Eric Hotz, William O'Connor, Joshua Gabriel
-
-**Timbrook**
+Interior Art: Eric Hotz, William O'Connor, Joshua Gabriel Timbrook
 
 Cartography: Brian Blume Back Cover: Michelle Prahler
 
-Ars Magica™ was originally created by Jonathan Tweet
-
-and Mark Rein•Hagen
+Ars Magica™ was originally created by Jonathan Tweet and Mark Rein•Hagen
 
 Cartographic Elements are copyright by Brian Blume, 1993.
 
-© 1993 by White Wolf. All rights reserved. Reproduction without written permission of the publisher is expressly denied, except for the purpose of reviews. Ars Magica, Deadly Legacy, Malfecium, Shamans Hidden Path, Pax Dei, Tribunals of Hermes Iberia, Tribunals of Hermes: Rome, The Wizard Grimiore, Mistridge, Covenants, Mythic Europe, Mythic Places, and the Last Italian Faerie Forest are all trademarks and copyrights of White Wolf.
+© 1993 by White Wolf. All rights reserved. Reproduction without written permission of the publisher is expressly denied, except for the purpose of reviews. Ars Magica, Deadly Legacy, Malfecium, Shamans Hidden Path, Pax Dei, Tribunals of Hermes Iberia, Tribunals of Hermes: Rome, The Wizard Grimoire, Mistridge, Covenants, Mythic Europe, Mythic Places, and the Last Italian Faerie Forest are all trademarks and copyrights of White Wolf.
 
 Disclaimer: The characters and events described in this book are fictional, any resemblance between the characters and any person; living or dead, is purely coincidental.
 
-#### SPECIAL THANKS
+#### Special Thanks
 
 To the whole damn White Wolf game studio. There are 20 damn people here now, dammit, and that's too many to come up with joke names for every damn month. So I'm not doing a damn Special Thanks. Dammit.
 
@@ -55,7 +51,7 @@ Tribunals of Hermes: Rome
 
 Digital Edition Version 1.0 Copyright © 2006 Trident, Inc. d/b/a Atlas Games. All rights reserved.
 
-### AUTHORS' DEDICATION
+### Author's Dedication
 
 This book is dedicated to the members of Berkeley's Roman Tribunal Saga. Many of the ideas in this book were originally presented in those stories. Thanks to Philip Brown, Billy Filios, Scott Gier, Philip Gross, Donald Kubasak, Doug Lampert, Dave Martin, Doug Orleans, Don Petrovich, Dave Pickering, Eric Rowe, Matt Seidl, John Tomasetti, Chris Van Horn, Dave Woo, Kevin Wong and everyone else who played.
 
@@ -83,7 +79,7 @@ Appendix: Roman Vocations
 
 "When finally I met with Insatella, she was studying an agreement left by a merchant. By that time, I had no real want to talk with her, for I had all the information I needed. I simply presented my credentials as a Quaesitor, and asked for permission to use a Hermes Portal to pass on to Magvillus. I was again astounded, this time when Insatella said no. After considerable debate I finally convinced her that I was on important Quaesitor business, and she allowed me to pass. I could not believe that Mercere would have so little respect for a Quaesitor, particularly one performing his duties.
 
-"Harco was overwhelming, for it shattered many of my illusions, but even Harco's realities could not prepare me for Magvillus. Despite my credentials an the fact that my master passed his apprentice's Gauntlet at Magvillus itself, I was not allowed into the Covenant's inner sanctum. When I inquired as to why, I was told certain matters were still being clarified. I suspect those within knew the true purpose of my visit and had something terrible to hide.
+"Harco was overwhelming, for it shattered many of my illusions, but even Harco's realities could not prepare me for Magvillus. Despite my credentials and the fact that my master passed his apprentice's Gauntlet at Magvillus itself, I was not allowed into the Covenant's inner sanctum. When I inquired as to why, I was told certain matters were still being clarified. I suspect those within knew the true purpose of my visit and had something terrible to hide.
 
 "So, I am unhappy to report that I was unable to gain the aid we hoped for at Magvillus. Instead, I was kept even from learning the true state of affairs within the Covenant's walls. I fear great machinations of power go on there, maybe to do with the Duresca scrolls of ages past. I recommend that an organization of supporters, outside Rome, move for an investigation of Magvillus, Quaesitoris' so-called home.
 
@@ -143,11 +139,11 @@ Appendix: Roman Vocations
 
 # Chapter One: Introduction
 
-The Tribunals of Hermes: Rome is meant for use with the Ars Magica 3rd edition storytelling game. This game supplement is intended for players and Storyguides alike, exploring that region which Hermetic Magi call the Roman Tribunal, a span of land encompassing the Italian peninsula, Corsica, Sardinia, Sicily, the southern Alps and northern Africa. This is a land of intrigue, doubledealing, backstabbing, machination and Infernal corruption. Trust in Rome is a rare luxury and valued commodity. Anyone who blunders carelessly into relations with an inhabitant of the Roman Tribunal, be that person mortal or mystical, may wind up cheated of his hopes and robbed of his life. Indeed, even the Tribunal's Magi are often beneath contempt for they would double-cross fellow wizards, not only in Hermetic politics, but in competition for muchsought-after raw vis. Although much of the magic inherent to the Roman Tribunal is gone — given the influence of the Dominion and squandering since the days of Mercury — the place is no less dangerous. The maliciousness and sin of the Tribunal's citizens easily compensates for the dangers that magic and nature could present. It is in the Roman Tribunal, then, that humanity is proven the Order of Hermes' greatest enemy.
+The Tribunals of Hermes: Rome is meant for use with the Ars Magica 3rd edition storytelling game. This game supplement is intended for players and Storyguides alike, exploring that region which Hermetic Magi call the Roman Tribunal, a span of land encompassing the Italian peninsula, Corsica, Sardinia, Sicily, the southern Alps and northern Africa. This is a land of intrigue, doubledealing, backstabbing, machination and Infernal corruption. Trust in Rome is a rare luxury and valued commodity. Anyone who blunders carelessly into relations with an inhabitant of the Roman Tribunal, be that person mortal or mystical, may wind up cheated of his hopes and robbed of his life. Indeed, even the Tribunal's Magi are often beneath contempt for they would double-cross fellow wizards, not only in Hermetic politics, but in competition for much sought-after raw vis. Although much of the magic inherent to the Roman Tribunal is gone — given the influence of the Dominion and squandering since the days of Mercury — the place is no less dangerous. The maliciousness and sin of the Tribunal's citizens easily compensates for the dangers that magic and nature could present. It is in the Roman Tribunal, then, that humanity is proven the Order of Hermes' greatest enemy.
 
 To investigate the dangers of humanity in the Roman Tribunal, this book details not only mundane and Hermetic history, but mundane and Hermetic politics. Not only can the corruption and duplicity of the land be found in its past, but in its present — the 13th century — and in the very way it is governed: by threat, plot and bribe. Given the Tribunal's heritage and culture, it's in the city that life thrives, and it's the city upon which this book concentrates. As centers of a different kind of human society, all the Tribunal's Covenants are presented as well, in all their defiled glory. The Tribunals of Hermes: Rome paints a sullied portrait of Mythic Italy, a land willingly given up to damnation.
 
-## OVERVIEW
+## Overview
 
 This book expands upon information provided in previous Ars Magica supplements. Indeed, it follows in the tradition of Tribunals of Hermes: Iberia, and sets the tone for Tribunal sourcebooks to come. Where Mythic Europe establishes a basis for life and activity in Italy, that book is inclined toward the history and geography of the land, offering a foundation upon which to set stories. This book goes beyond Mythic Europe, delving into the mystery, corruption, fantasy and just plain strange side of Italy. After all, members of the Order of Hermes are by no means ordinary, and the land and people they choose to deal with are, by default, unusual.
 
@@ -159,11 +155,11 @@ Even if your Saga is set outside Rome, in another Tribunal or even beyond Mythic
 
 The theme of the Roman Tribunal is conflict. Conflict underlies both the Tribunal's chaotic past and turbulent present, both mundane and magical. Conflict defines what the Tribunal is. In the mundane world, conflict has proliferated the past millennium, since the dissolution of the Roman Empire. Constant invasions, centuries of dispute between Church and Holy Roman Empire, and Infernal corruption have left and leave their mark on Italian society.
 
-By the same token, the Roman branch of the Order has, since its inception, unwaveringly descended into a downward spiral of political manipulation and betrayal, which may one day spell the Tribunal's doom. Since Rome's magic began to fade, given its abuse and corruption, conflicts over raw vis and magical resources have steadily mounted, and those are the conflicts waged over tangible prizes. There are far mystical more battles fought over prizes much more esoteric, and for reasons more unfathomable than mere sin or greed.
+By the same token, the Roman branch of the Order has, since its inception, unwaveringly descended into a downward spiral of political manipulation and betrayal, which may one day spell the Tribunal's doom. Since Rome's magic began to fade, given its abuse and corruption, conflicts over raw vis and magical resources have steadily mounted, and those are the conflicts waged over tangible prizes. There are far more mystical battles fought over prizes much more esoteric, and for reasons more unfathomable than mere sin or greed.
 
 The only feeble measure that currently preserves the Tribunal from itself is an outdated document known as the Treaty of the Roman Tribunal. How long this bureaucratic relic can be held over Magi's heads is uncertain. When that law has no hold, all hell will break loose, in the very place where the Order of Hermes has its roots.
 
-## INTRODUCTION TO THE ROMAN TRIBUNAL
+## Introduction to the Roman Tribunal
 
 Before moving on to the history of the Roman Tribunal, it's important to understand the basic geography of Italy. In many ways, the physical and political geography of the land combine to create the conflicts that underlie the Tribunal.
 
@@ -173,7 +169,7 @@ At first glance, Italy seems an isolated, confined land (see the *Italy* map for
 
 South of the Po Valley are the Apennines, another range of mountains, forming a natural border to the Po, as if in a misdirected attempt to keep the valley's corruption from spreading to other lands. The Apennines rise in northwest Italy, running down the entire length of Italy. Moving inward from the east and west coasts of Italy, toward the Apennines, the land gradually grows hilly. In the southernmost reaches of Italy, where the land seem desperate to break itself from the rest of Mythic Europe, the Gulf of Taranto clefts the land, separating the peninsula into distinct western and eastern portions. Maybe it is actually the sea that seeks to overtake the peninsula, washing its corruption from the face of the world. The western of the divided lands is Calabria, and the eastern is Apulia.
 
-Italy is bound by seas on three sides, pinning the land's prisoners against the looming Alps. The western sea is the harsh Tyrrhenian, the eastern is the wild Adriatic Sea, and the southern is the pirated Ionic Sea. Even further south is the Mediterranean Sea. The Tyrrhenia is bound to the west by Corsica and Sardinia, and to the southby Sicily. Although these islands are all hilly, Sicily is considered one of the most fertile places in the entire Mediterranean, maybe by virtue of Infernal contract.
+Italy is bound by seas on three sides, pinning the land's prisoners against the looming Alps. The western sea is the harsh Tyrrhenian, the eastern is the wild Adriatic Sea, and the southern is the pirated Ionic Sea. Even further south is the Mediterranean Sea. The Tyrrhenia is bound to the west by Corsica and Sardinia, and to the south by Sicily. Although these islands are all hilly, Sicily is considered one of the most fertile places in the entire Mediterranean, maybe by virtue of Infernal contract.
 
 ### Political Geography
 
@@ -187,13 +183,13 @@ Between Sicily to the south, the states to the north, and the Holy Roman Empire 
 
 ### Hermetic Geography
 
-Fight recognized Covenants make up the Roman Tribunal. To the northwest, on the edge of the Alps, is the Covenant ofHarco, Domus Magnus ofMercere. Nearby, in the war-torn lands ofLombardy, is the newly founded Covenant of Luctatio. Further south is Literatus, on the outskirts of Bologna. On the eastern Italian coast is the Covenant of Postestas, home of the scheming Tremere.
+Eight recognized Covenants make up the Roman Tribunal. To the northwest, on the edge of the Alps, is the Covenant ofHarco, Domus Magnus ofMercere. Nearby, in the war-torn lands ofLombardy, is the newly founded Covenant of Luctatio. Further south is Literatus, on the outskirts of Bologna. On the eastern Italian coast is the Covenant of Postestas, home of the scheming Tremere.
 
-The remaining Covenants of the Tribunal are all well hidden, far from mundane society. Verdi, the Domus Magnus of Verditius, is located in a secret valley on Sardinia. Rellantali is sequestered on Asinara, a small island just north of Sardinia. On the mainland, Magvillus, Domus Magnus of House Quaesitor, is located in the mountains of southern Italy. The Covenant farthest removed from the entire Roman Tribunal is Sansaron, built in the ruins of the ancient city of Carthage, on the northern coast of Africa. Political interactionbetween these Covenants, and with those beyond the Roman Tribunal, is explored in Chapter Five.
+The remaining Covenants of the Tribunal are all well hidden, far from mundane society. Verdi, the Domus Magnus of Verditius, is located in a secret valley on Sardinia. Rellantali is sequestered on Asinara, a small island just north of Sardinia. On the mainland, Magvillus, Domus Magnus of House Quaesitor, is located in the mountains of southern Italy. The Covenant farthest removed from the entire Roman Tribunal is Sansaron, built in the ruins of the ancient city of Carthage, on the northern coast of Africa. Political interaction between these Covenants, and with those beyond the Roman Tribunal, is explored in Chapter Five.
 
 True to the chaos of the land and its society ofMagi, there are also two independent Covenants in Italy — Feritel and Vardian's Tomb — divested from the Tribunal. They have existed for years and, strangely, have not been marked for destruction by official Covenants. The economic, mystical and political power these outsider Covenants wield may be what keeps them alive.
 
-## ROMAN SAGAS
+## Roman Sagas
 
 Establishing a Saga in the Roman Tribunal can be tricky since the land is already overcrowded. Characters can create their own Covenant or join an existing one. Founding a Covenant is no easy task, especially given the land's lack of vis and untouched, remote areas. What's more, older Covenants rarely accept new members. What are young, enterprising characters to do in the Roman Tribunal? The following are some suggestions for getting your Roman Saga underway.
 
@@ -215,7 +211,7 @@ If Magi want to start a new Covenant, Sicily is the most likely location. The la
 
 Although limited, other possibilities for new Covenants in the Roman Tribunal do exist. Although the surroundings are harsh and mundane support would be nonexistent, a Covenant might be founded deep in the Alps, but not so deep that the Tribunal of the Greater Alps in infringed upon. Then again, maybe the Roman Tribunal sets Magi up there to spy on the Greater Alps.
 
-## BIBLIOGRAPHY
+## Bibliography
 
 <u>Italy: A Short History</u>, by Harry Hearder, 1990
 
@@ -257,7 +253,7 @@ The foundation of Rome was the first step in Italy's great rise to power. The ci
 
 Carthage had once been a Phoenician trading post, but through the ages built up a sizable empire. When the young Republic first challenged it, in the third century B.C., Carthage controlled much of the Mediterranean, including Corsica, Sardinia, and Sicily. Yet, somehow, the Republic of Rome beat its adversary in the three Punic Wars. When the third war ended, 100 years after the first had begun, the Empire of Carthage was obliterated. Over 50,000 had been killed in the final siege of Carthage, and the survivors were enslaved. It was a brutal act of conflict which set Italy's tone of violence for centuries to come.
 
-Perhaps, in their final death throes, the Carthagenians cursed their victors to endless war, never allowing them peace after such a terrible massacre. Some Hermetic Magi, deeply obsessed with the diabolic, believe the Republic of Rome was only able to break Carthage with Infernal aid. They point to the final slaughter and say it was actually an act of Infernal sacrifice. According to these Magi, the Dark One foresaw the coming of Christianity and personally made pacts with Romans to forever taint the Italian peninsula. One of these magical researchers, Terith of Jerbiton, has wandered the Tribunal for 30 years, looking for evidence of this diabolic pact. He hopes to destroy its power, thereby freeing the land to find its true destiny.
+Perhaps, in their final death throes, the Carthaginians cursed their victors to endless war, never allowing them peace after such a terrible massacre. Some Hermetic Magi, deeply obsessed with the diabolic, believe the Republic of Rome was only able to break Carthage with Infernal aid. They point to the final slaughter and say it was actually an act of Infernal sacrifice. According to these Magi, the Dark One foresaw the coming of Christianity and personally made pacts with Romans to forever taint the Italian peninsula. One of these magical researchers, Terith of Jerbiton, has wandered the Tribunal for 30 years, looking for evidence of this diabolic pact. He hopes to destroy its power, thereby freeing the land to find its true destiny.
 
 For a century after the Punic Wars, the laws of the Rome stood; the Republic was sound. Indeed, 30 years before the birth of Christ, Octavian, nephew of Julius Caesar, was given the title Augustus, and the Roman Empire was officially begun. For a time it seemed Rome was the great light of civilization in a barbaric western world. And yet, the corruption of the Punic Wars put its mark upon the Empire. As the years passed, Rome's light faded, as did the Roman Empire.
 
@@ -329,7 +325,7 @@ However, several others took advantage of the Empire's relatively liberal attitu
 
 The greatest of scholars to arise during this Germanic "enlightenment" was Gerbert of Aurillac, who became Pope Sylvester II. Some say he, above all others, was thepawn of the Dark.
 
-## Pore SYLVESTER II
+## Pope Sylvester II
 
 Gerbert is not only known for his work in the Church. In the city of Toledo, he first came upon the great art of magic. In that place, he also gained the Brazen Head, a great prophetic device that some say was Infernal, sent to corrupt Gerbert given his coming greatness. In the years before his Pontification, in 999, Gerbert became known as one of the greatest scholars of the world, tutor to even Otto III, the German Emperor. Of course, it might only be coincidence that Gerbert possessed an allegedly Infernal device and that Otto III was killed in a Roman revolt, after which his body was never found. (In fact, Otto III was last seen with the wife of a rebel, a woman whom he had suddenly developed an obsessive lust for.) At the least, it seems likely that Gerbert andhis Brazen Head motivated Otto toward the enlightenment that arose in the Empire. Gerbert undoubtedly sought to make possible the re-emergence of diabolism that occurred during the period, perhaps that he might become its leader.
 
@@ -545,7 +541,7 @@ Having eliminated a Pope, the French eventually take command of the Papacy itsel
 
 
 | Year         | Event                                                                                        |
-| -------------- | ---------------------------------------------------------------------------------------------- |
+| ------------ | -------------------------------------------------------------------------------------------- |
 | 753 B.C.     | Foundation of Rome                                                                           |
 | 509          | Foundation of the Roman Republic                                                             |
 | 264 to 241   | The First Punic War                                                                          |
@@ -617,7 +613,7 @@ Modern accounts tell of great meetings of Mercurians in the great city of Rome i
 
 Most of what is now known of the Cult of Mercury comes from stories and legends. Tales tell of Hasophis, said to be a founder of the Cult, and his burial site somewhere in the southern Alps, allegedly full of Mercurian magic. Tales also tell of the Great Iron Tree, enchanted by one hundred Mercurians for some mysterious task. Occasionally, a Magus of the Order stumbles upon an ancient secret, but such discoveries are rare. Much knowledge of the Mercurians is still out there, waiting for Magi to discover and decipher it, but much more may be lost forever.
 
-### THE FALL OF THE CULT
+### The Fall of the Cult
 
 The fall of the Cult of Mercury seems to closely reflect the fall of the Roman Empire. After the first century, the Cult began to stagnate. Since expansion beyond the Italian peninsula became sporadic, following only where the Roman Empire went, new ideas ceased to come in and new learning stopped. During this time, Christianity was also made the official religion of the Empire. The worship of Mercury and the other old gods was made illegal. By that time, it was clear that the Cult of Mercury did not have long to live.
 
@@ -637,7 +633,7 @@ Finding the truth behind the fall of the Cult of Mercury is a great task for alm
 
 In the end, although the Cult was gone, some of its members and its way of magic lived on and would eventually be inspiration for Hermetic magic.
 
-## The Ase of Chaos
+## The Age of Chaos
 
 For the first time since before the rise of Rome, the wizards of Italy were without hierarchy or law. What resulted was chaos. The hunt for new magical knowledge ended, and for 350 years Italian sorcerers lived in fear of each other. Most of their lives turned to mere contests for survival. Some sorcerers slowly began to develop new magicks, less powerful than what had come before, but still strong in their own right, allowing quick, spontaneous spells. Epic battles were then fought, where flame and light filled the sky. Eventually one or both sorcerers would fall, killed by the powers cast between them.
 
@@ -659,7 +655,7 @@ While some hedge wizards joined the Order, and many more died, other Italian hed
 
 Varator, the demon to which the wizards are tied, has goals of his own. He is a demon of vengeance, fueling the fires of the wizards' sin. When the wizards move across Italy, they will attack those who worship other Infernal powers, thus increasing the areas that Varator may control. In turn, those conquered lands will be offered revenge, resulting in anarchy and the absolute power of Varator.
 
-## EARLY CONFLICTS
+## Early Conflicts
 
 As the 9th century began, peace descended upon the Magi of Italy. In the mundane world there were still squabbles for land and there were still invasions, but for the most part Magi were able to turn from these things, concentrating on knowledge. Indeed, it seemed for a time that the Roman Tribunal was destined to become a place of great learning. In the growing Covenant of Verdi, magic items were created, broadening the limits of Hermetic magic. In the nearby Covenant of Auctus. followers of Bonisagus, Criamon and Merinita joined together, hoping to create a new theory of magic as Bonisagus had before them. In Harco, a great library of cartography was created. At Magvillus, the first books on Hermetic law were written. By the middle of the 9th century, more Covenants were founded. Newly arriving Magi spoke of joining the Renaissance of magic occurring within Italy, and they were welcomed by existing Covenants. Rellantali and Calabria were both accepted during this period. Friendship and comradery reigned. Then, in the latter part of the 9th century, prosperity came to a crashing halt.
 
@@ -739,7 +735,7 @@ Even in the 13th century there are many independent Magi in Italy, plying their 
 
 
 | Year        | Event                                                                             |
-| ------------- | ----------------------------------------------------------------------------------- |
+| ----------- | --------------------------------------------------------------------------------- |
 | c. 700 B.C. | Greek Cult of Hermes comes to Italy                                               |
 | c. 600      | Foundation of the Roman Cult of Mercury                                           |
 | c. 150      | Roman Cult of Mercury at its height                                               |
@@ -758,7 +754,7 @@ Even in the 13th century there are many independent Magi in Italy, plying their 
 | 951         | Sansaron is founded                                                               |
 | 1001        | Literatus is founded                                                              |
 | 1014        | Vardian's Tomb is founded                                                         |
-| 1061        | Iernilus of Quaesitor comes to the<br>Roman Tribunal                              |
+| 1061        | Iernilus of Quaesitor comes to the Roman Tribunal                                 |
 | 1068        | The Treaty of the Roman Tribunal is signed                                        |
 | 1095        | Independent Magi estimated to out-number Covenant members                         |
 | 1172        | Luctatio is founded                                                               |
@@ -831,7 +827,7 @@ Each of these areas is examined here, to provide background and story ideas for 
 
 The city-republics are undoubtedly among the chief forces contributing to the political turbulence of northern and central Italy in the 13th century. Indeed, the city-republics are among the greatest cities of Mythic Europe, and their structures and struggles shape northern Italy.
 
-### STRUCTURE
+### Structure
 
 The political organization of the city-republics, though always changing in minor ways, evolved into its current multi-level form. Urban governments consist of a consulate, several councils and a general assembly of citizens. Unlike most other forms of government, that of the city-republics involves a wide range of people. Everyone from wealthy merchants and powerful nobles, to ordinary citizens and craftsmen partake in commune governments.
 
@@ -854,10 +850,7 @@ The Podesta, a solitary position, usually offers the powers of the consulate (wh
 - the Podesta cannot be from the city over which he or she presides. This rule is almost universal, designed to ensure that the Podesta is neutral in city matters. This rule is also usually extended to all relatives of the Podesta, meaning the appointed cannot have relatives in the city. What most do not realize is that an appointed Podesta is likely to favor diabolists in the city.
 - the Podesta is required to bring a number of judges to the city as part of his or her retinue. This is intended to ensure that the city is provided with impartial judges. However, the rule also allows for a Podesta to travel with his or her diabolist followers and not be suspect.
 - the Podesta cannot dine, drink, walk or have any social contact with any consuls or citizens of the city all the better for the Podesta to hide corrupt activities.
-- the Podesta cannot leave the city during term of office without the consent of the council (see below). With the Infernal supporting him or her, the Podesta can probably dupe
-
-others into granting right to leave, or might magically conjure a doppelganger to take his or her place.
-
+- the Podesta cannot leave the city during term of office without the consent of the council (see below). With the Infernal supporting him or her, the Podesta can probably dupe others into granting right to leave, or might magically conjure a doppelganger to take his or her place.
 - the Podesta is required to remain within the city for a period of time after stepping down, so any charges of corruption can be raised. Of course, if the Podesta has been careful, all of his or her enemies are dead, souls lost in Hell, by the end of office.
 - the Podesta cannot engage in trade during time in office. However, just as Magi have trade with mundanes coordinated through aides, so too can the Podesta, thereby acquiring the base things that perpetuate sin.
 
@@ -971,7 +964,7 @@ Milan has the oldest and richest archbishopric in Lombardy. The Church in Milan 
 
 Characters may journey to Milan for many reasons. Perhaps they believe a Divine *regio* has settled around the Church in Milan, or that the ritual of Saint Ambrose bears aspects of Mercurial ritual. A Grog or Companion might be a relative of either the Della Torre or Visconti families, and begs aid from the Covenant for his family. Magi may want to search through archives left from the time when Milan was the capital of the Western Roman Empire, looking for information on the Cult of Mercury. While in Milan, characters could get involved in any number of conflicts, from the war between the two great families to that against the Empire.
 
-### The Commune of Pavia
+## The Commune of Pavia
 
 Pavia was founded by the Papirian tribe. Pavia first reached prominence at the end of the 6th century, when it became the Lombard capital under King Albion. In 774, Pavia fell to Charlemagne, ending Lombard rule. Since 1112, Pavia has been ruled by consuls.
 
@@ -991,13 +984,13 @@ Magi may visit Pisa for the same reasons as they would Genoa. It is a great trad
 
 Although it lies near the lands of Lombardy, the republic of Venice has traditionally stayed free of the Imperialist-Papal conflict. Venice is an old republic, going back to the time of the fall of Rome. Now Venice is a chaotic city, home to many Magi of the Roman Tribunal.
 
-#### GEOGRAPHY
+#### Geography
 
 Venice is one of the oddest cities in all of Italy. Several rivers empty into a shallow, marshy lagoon on the northeast coast. Numerous islands occupy that lagoon, and it is upon the largest of these that Venice rests. Lying just inches above the high tide mark, Venice plays a dangerous game with the elements. And yet, the city has somehow survived for ages.
 
 For the location of Venice, see *The Roman Tribunal* map. For the layout of the republic, see the *Venice* map.
 
-#### HISTORY
+#### History
 
 Venice was founded in A.D. 452, at the time of the Huns' invasion. Refugees of Padus, Treviso, Vicenza, Verona and other great cities of Venetia all fled to the islands that would become Venice. By the time the Lombards invaded Italy, Venice had become a republic.
 
@@ -1011,7 +1004,7 @@ It is likely that Hermetic factionalism grows worse during the two years that th
 
 Under the influence of Doge Dandolo, the Fourth Crusade never reaches the Holy Lands. Instead, Venetians and crusaders capture both Zara and Constantinople, capital of the Eastern Roman Empire. The crusaders are excommunicated, but Pope Innocent III recognizes them again when their attack upon Constantinople reunites the two halves of the Church. Magi may be excited by the results of the Fourth Crusade, for it returns the intellectual works of the Greeks and Byzantines to the western world. Magical lore of the two cultures is brought back by victorious crusaders and the Magi who accompany them.
 
-### MUNDANE POLITICS OF VENICE
+### Mundane Politics of Venice
 
 By 1197, the republic of Venice has a multi-leveled political structure. A Doge sits at the head, with a Grand Council below him, which he consults. To a large extent, the Grand Councilors are the true rulers of the republic. Four hundred and eighty members make up the group, elected on the last day of every September. (It may be mere coincidence that this day is also the anniversary of a local coven of diabolists.) The same people are usually elected again and again, and their children after them, perpetuating Infernal activity within the city government.
 
@@ -1019,13 +1012,13 @@ A body of judges also exists in Venice. These judges are usually independent, ir
 
 Below all of these groups is the General Assembly of Venice, which meets in Saint Mark's square to loudly shout acceptance or refusal of various proposals. This group, composed of common citizens, is given only marginal power, being a bone thrown to the power-hungry masses.
 
-### THIEVES OF VENICE
+### Thieves of Venice
 
 There is a group of thieves in Venice, brought together long ago by the Magi of Rellantali. The thieves act secretly, moving through Venice by way of a web of tunnels beneath the city, which empty into the canals. Most of the thieves are burglars; Rellantali feels burglary is the least attention-getting of crimes. Venetian thieves also act in several nearby cities. In those places, Rellantali allows more violent and obvious thefts to occur.
 
 As Hermetic conflicts have increased in Venice, the city's thieves have been hired by Magi from various Covenants. These thieves are usually asked to steal some trinket of an opposing Magus, which might be used an an Arcane Connection or as leverage to buy some favor from the victim. Since Rellantali's thieves provide that Covenant with a cut on all such activity, Rellantali allows other Magi to buy the thieves, unless a thief is bought to take action against Rellantali itself.
 
-### HERMETIC POLITICS IN VENICE
+### Hermetic Politics in Venice
 
 Each Covenant of the Roman Tribunal has a townhouse in Venice. Venetian townhouses are places where Covenants receive information and deal with each other on a social level. Since the Treaty of the Roman Tribunal, townhouses have become centers of intrigue as well. Many Roman Magi reside in Venice rather than their home Covenants. There they deal with each other, trading information, hatching plots and making plans. Hermetic alliances are constantly made and broken in Venice.
 
@@ -1037,11 +1030,11 @@ Spies abound in Venice, as Magi seek to learn who other Covenants deal with. For
 
 Occasionally, a Venetian spy learns too much or is found out by his victims. A month does not go by without a spy being killed, left dead before the townhouse of the Magi who hired him. Most Venetian Magi have learned to take these deaths in stride, as part of city politics.
 
-### GANGS IN VENICE
+### Gangs in Venice
 
 Most Covenants in the Roman Tribunal station nearly a fifth of their Grogs in Venice, to protect Magi there and to watch over other Covenants in the city. Many of these Grogs have befriended Venetian locals, and roam the streets in mortal gangs or allow mortals to join their Covenant gangs. Thus, Grogs fight in mortal conflicts, and mortals get involves in Covenant feuds. Indeed, occasional brawls break out between Covenant toughs. Sometimes full melees ensue, usually resulting in a few deaths and the flight of all combatants. The judges of Venice have recently begun full inquiries into Covenant street rivalries, but they have done little so far, and citizens are afraid to name Grog combatants.
 
-### THE LIFE OF A MAGUS IN VENICE
+### The Life of a Magus in Venice
 
 Covenant townhouses in Venice are decadent in their luxury. Every Covenant townhouse maintains an extremely high standard of living, each determined to prove themselves better off than the others. Given the luxury found in Venice, Covenants have no problem finding members willing to take up residence there. For most Covenants, the Magi that live in Venice rotate, but each townhouse has at least one Magus in residence at all times. The only exception is the Covenant of Sansaron. Their townhouse lies empty.
 
@@ -1055,7 +1048,7 @@ Many of the cities within the Papal States are relatively independent. Rome, for
 
 Each of the cities of Rome, Florence and Bologna is examined in turn.
 
-#### THE CITY OF ROME
+#### The City of Rome
 
 Rome is the greatest city of Mythic Europe. It is not, however, like any other impressive cities, such as Venice,
 
@@ -1131,11 +1124,11 @@ It's also in Bologna that Magi of Literatus can be found. These Magi have a grea
 
 Of all of the lands of Italy, the most politically stable is the Kingdom of Sicily, spanning the entire island of Sicily and all of Italy south of the Papal States. Since the Norman conquest of Sicily, the island has been the center of great culture, possibly the greatest in all of Mythic Europe. In fact, the kingdom's intellectual climate may attract many Magi.
 
-### THE PEOPLE
+### The People
 
 The lands of southern Italy blend a strange mixture of people not seen anywhere else in Italy. The oldest residents of the southern peninsula are descendents of the Greeks. The Byzantines also have a cultural influence upon the land, as do the Saracens who occupy it for a time, even being accepted as part of southern society. Finally, there are the blond-haired, blue-eyed Normans, who came from the north as mercenaries and became rulers of the land. The speech of the south is a strange one, a combination of Italian, Norman, Arabic and Spanish.
 
-### PALERMO
+### Palermo
 
 At the center of the Kingdom of Sicily, Palermo has always been one of the great intellectual lights of the west. From Palermo, numerous Greek and Arabic translations come, providing Mythic Europe with important Classical works. Several good libraries are found in the city, inspiring Church officials and Magi to travel to Sicily to consult them. As in Florence and Bologna, Auras of Reason have arisen on the sites of these libraries. When clergy and Magi do research in the city, they do not realize that they carry with them the means of their own ruin. New thought discovered at Palermo's libraries means a movement away from faith and magic, toward science and logic.
 
@@ -1207,7 +1200,7 @@ Although the majority of Covenants in the Tribunal are vis poor, there is one Co
 
 ## Harco
 
-Symbol: A pointed red cap with a band around the base anda triangle on the band
+Symbol: A pointed red cap with a band around the base and a triangle on the band
 
 Season: Autumn
 
@@ -1221,13 +1214,13 @@ Members: 11; Insatella, Aldero, Antho, Elegans, Frederick, Harstein, Iris, Pipio
 
 Number of Grogs: 40 Armaments: Superior
 
-Library Art Scores: Creo 3, Intéllego 8, Muto 3, Perdo 4, Rego 9, Animal 3, Aquam6, Auram 6, Cérporem 2, Herbam 0, Ignem 3, Imágonem 0, Mentem 4, Terram 3, Vim 8.
+Library Art Scores: Creo 3, Intéllego 8, Muto 3, Perdo 4, Rego 9, Animal 3, Aquam6, Auram 6, Córporem 2, Herbam 0, Ignem 3, Imágonem 0, Mentem 4, Terram 3, Vim 8.
 
 Library Ability Scores: Hermes History 6, Geography 8, Mythic Europe Lore 5, Hermes Lore 6, Schism War Lore 7, TravelLore 5, Roman Tribunal Lore 7, Various Language Texts 4 (average), Magic Theory 3, Trade Policies 5
 
 The center of one of the most respected Houses of the Order, Harco is a name spoken with much reverence in faraway places. Unfortunately, reality rarely matches reputation. Although the Magi of Harco still perform their duties with pride, they are also at the center of a vast mercantile empire. To some denizens of Harco, wealth and trading have become as important as obligations to House Mercere and the Order of Hermes.
 
-### HISTORY
+### History
 
 Harco was founded by Mercere shortly after the founding of the Order ofHermes. A reasonably secluded site was chosen, one centrally located within the reaches of the Order (which at the founding included Italy, France and southern Germany), not too far from trade routes and old Roman roads. The Covenant spent its first centuries providing excellent service to the Order, training Redcaps and developing expedient systems by which to deliver messages. During the building of the Order, Harco was able to secure numerous Hermes Portals, uniting each of the Tribunals, assemblea sizable collection of maps, keep accurate records of events throughout Mythic Europe, and build a shining reputation throughout the Order.
 
@@ -1239,7 +1232,7 @@ During the crusades, Harco was able to use its magical ships, as well as, in ver
 
 Over the past century, Harco has managed to remain neutral in most conflicts of the Roman Tribunal. It has also managed to increase its profits and increase the scale of its mercantile operations. By providing services to both Magi and mortals, Harco has become one of the wealthiest Covenants in the Order, and one of the best connected. There is some worry that Harco's wealth and connections in the mundane world may attract undue attention from the mundanes. The Quaesitoris of Magvillus are investigating the possible dangers of Harco's mundane relations.
 
-### LOCATION
+### Location
 
 Harco is located in the hills of Piedmont, on a wooded hillside overlooking a village which bears the Covenant's name. Although the region was originally sparsely populated, mundane numbers have increased in recent times, and there are several villages within easy hiking distance of the Covenant.
 
@@ -1249,7 +1242,7 @@ In addition to its hillside location, Harco owns several buildings and a shelter
 
 The location of Harco is illustrated on both *The Roman Tribunal* and *Harco* maps.
 
-### FORTRESS
+### Fortress
 
 The members of Harco live in the luxury that the Covenant's huge income allows. The main Covenant building is a large square villa, surrounding a beautiful central courtyard. A winding trail leads up from Harco village, past orchards and vineyards, through a small wood that surrounds the Covenant, to the large bronze doors which have served as entrance to Harco since its foundation. As Harco has always maintained reasonably friendly relations with its neighbors, the Covenant is not particularly well-fortified, and has numerous spacious balconies which offer a commanding view of the woods, vineyards and village below.
 
@@ -1261,7 +1254,7 @@ Harco's wealth has allowed it to hire and train excellent Grogs, who serve as gu
 
 For the layout of Harco proper, see the Harco map.
 
-### INHABITANTS
+### Inhabitants
 
 Harco is home to the Primus and several of the most important members of House Mercere. Mercere is a highly structured House; its members are not usually attached to any particular Covenant. Instead, they are assigned to areas according to their rank within the House. The highest ranking members of House Mercere, as well as their assistants and servants, are generally assigned to Harco, where they concentrate on the administration of Mercere. There are currently 11 members of Harco, including the Prima, Insatella.
 
@@ -1301,7 +1294,7 @@ Insatella only finds true enjoyment in the mercantile world. She loves bargainin
 >
 > Spell Casting Speed: 3
 >
-> **Twilight Points: 12**
+> Twilight Points: 12
 >
 > Effects of Twilight: Painful Magic and Arthritis are both due to Twilights
 >
@@ -1345,7 +1338,7 @@ The youngest of the Redcaps of Mercere, and lacking magical skills, Antho carrie
 >
 > Other Combat Totals: Dodge Defense +0 (6 Action), Soak +3 (9 Action), Fatigue +1
 
-### OUTSIDE RELATIONS
+### Outside Relations
 
 At first glance, Harco appears harmless. Speaking with members, they give the impression of impartiality in the political machinations of the Tribunal. To mundanes, members of the Covenant appear as a wealthy group of merchants, though nearby mortals know the truth. Ironically, mundanes have a more accurate perspective on the Covenant than do foreign Magi.
 
@@ -1359,7 +1352,7 @@ Within the mundane world, Harco maintains a vast web of important connections. M
 
 There is some concern felt by those who study the Tribunal. They fear that Harco's mundane relations will lead to disaster for the Order. Harco is very careful to avoid making enemies, and avoids attracting the attention of mundane authorities. Ultimately, Harco's "illicit" activities are trivial compared to those of other Roman Covenants, and foreigners trying to realign the Roman Tribunal will undoubtedly focus on Harco last.
 
-### MAGICAL ATTRIBUTES
+### Magical Attributes
 
 Harco's magical resources are considerable, in spite of the Covenant's weak Magic Aura. Obtaining raw vis is easier for Harco than most other Roman Covenants, by importing it from other regions of the Order. The Covenant also possesses numerous magical devices, most of which are useful for travel and healing.
 
@@ -1375,7 +1368,7 @@ Since there are few "true" Magi at Harco, the Covenant has little need for raw v
 
 Harco's Aegis of the Hearth is of moderate power, operating at Level 20. The Aegis functions only at the Covenant itself, not at the institution's seaside holdings.
 
-### MUNDANE RESOURCES
+### Mundane Resources
 
 Harco's mundane resources are vast. The Covenant is one of the wealthiest in the Order, and maintains all its members in luxury. The connections and trade maintained by Harco allow the Covenant access to most mundane items that members desire.
 
@@ -1383,13 +1376,13 @@ Additionally, Harco maintains the finest collection of maps to be found in Mythi
 
 Though Harco has a very limited mundane library, they have excellent archives detailing the politics of the Order and the mundane world back to the founding of the Order. These records contain copies of all notices sent throughout the Order, and lists of members of all Covenants of the Tribunal. The archives also include a large amount of material concerning the politics of the various factions involved in the Schism War. Indeed, these are probably the best resources on the war.
 
-### OBLIGATIONS
+### Obligations
 
 Running House Mercere, as well as a merchant empire, is no small task. The members of Harco spend almost all their time administering the affairs of their Covenant and House. Almost no time is spent studying. The magic-using members of the Covenant are allowed a little more time for study than the others, but not much. Magi at Harco are allowed three Seasons every two years to pursue their art.
 
 Harco is responsible for seeing that vital information is spread throughout the Order. This is a great task and a tremendous obligation.
 
-### OUTLOOK
+### Outlook
 
 - Independents — A valuable asset, if only they could be brought together. The information they could provide, since so many live among the mundanes, might be great.
 - Literatus — A good Covenant, trying to bring peace to the Tribunal. They understand the value of information.
@@ -1401,7 +1394,7 @@ Harco is responsible for seeing that vital information is spread throughout the 
 - Vardian's Tomb — Although independent, the Tomb has considerable power, so often receives the messages we deliver to official Covenants of the Tribunal. The Covenant is disorganized, but for the most part appears to be made up of good people.
 - Verdi — A valuable Covenant. Not only do they provide us with useful magic items, they are another Domus Magnus and should be supported.
 
-### STORY IDEAS FOR HARCO
+### Story Ideas for Harco
 
 - Members of your Covenant may need to travel quickly. Perhaps they have a Redcap friend who can provide them access to the Hermes Portals of Harco, for a price.
 - A valuable item which your Covenant was expecting to be delivered by Redcaps never arrives. Perhaps your characters must travel to Harco to determine what happened.
@@ -1429,7 +1422,7 @@ Literatus is a large and active Covenant which has, for 200 years, dedicated its
 
 Privately, many Magi of the Covenant cherish Infernal power as well, and have since Literatus' founding under the diabolical Pope Sylvester II. True, there are burgeoning Magi in the Covenant who know nothing of their home's true origins, but even they are the targets of demonic corruption, whether they know it or not. Perhaps the Covenant's efforts to unite magic and mortals is actually an effort on the Infernal's part to undermine the foundations of the Order of Hermes.
 
-### HISTORY
+### History
 
 Literatus was founded in A.D. 1001 by House Jerbiton, in conjunction with Pope Sylvester II. Sylvester had gained magical understanding while in Spain, when he came into possession of the infamous Brazen Head, a supposedly Infernal tool of scrying. Whether Sylvester was corrupted by the head, and what happened to it after his death are matters of conjecture. However, a group of diabolists has been encountered in Rome in the past, and this group has proven to have knowledge which Sylvester also demonstrated. Perhaps this group still exists and has the Brazen Head, or maybe Sylvester was their leader and still is (his death is still shrouded in mystery).
 
@@ -1451,7 +1444,7 @@ At times, Magi of Literatus have virtually alluded to their true, diabolical int
 
 Literatus' fear was that the foreign Quaesitor might uncover the Covenant's Infernal ties. Having some influence over other Magi of the Tribunal, Literatus is less worried about discovery by Roman Quaesitoris. However, concerns have recently arisen that Quaesitoris of Magvillus may suspect Literatus of questionable activity. Indeed, Magi of Literatus speculate that the Treaty of the Roman Tribunal was partly organized by Magvillus, in an attempt to gain power over the Tribunal, to test Literatus. To ensure its continued protection, Literatus still moves to arbitrate disagreements between Covenants of the Tribunal.
 
-### LOCATION
+### Location
 
 In 1180, Literatus moved out of Bologna to a newly-constructed manor house on the Covenant's fief of land, about a half day's travel southwest of the city. The addition of new members and new apprentices made the old building too cramped. The Covenant has retained its old building in the city, which is now used mostly by apprentices studying at the University of Law.
 
@@ -1463,7 +1456,7 @@ The Covenant also keeps a small townhouse in Venice, as do most other Covenants 
 
 For the Italian location of Literatus, see The Roman Tribunal map.
 
-### FORTRESS
+### Fortress
 
 The old Covenant, within the city of Bologna, is housed within a single large building off a side-street in the students' quarter, about a hundred meters from the city's cathedral. The building is two stories high, and surrounds a small inner courtyard. It has the appearance of a wealthy residence, and though sturdily constructed provides little defense should the need arise. There is space within the old building to comfortably house four or five Magi, their apprentices and a few servants. After the move to the manor house, the building now houses no more than one or two Magi, three or four apprentices and half a dozen servants. A small library is kept within the old building for use by remaining Magi and apprentices. There are currently no labs in the old building.
 
@@ -1517,9 +1510,9 @@ Should Amberitus ever be challenged for the title of Arch-Mage, he gives his opp
 >
 > Techniques and Forms: Creo 10, Intéllego 23, Muto 9, Perdo 8, Rego 12, Animál 11, Aquam 10, Auram 8, Córporem 20, Herbam 11, Ignem 5, Imágonem 15, Mentem 19, Terram 5, Vim 10
 >
-> **Spell Casting Speed: 4**
+> Spell Casting Speed: 4
 >
-> **Twilight Points: 6**
+> Twilight Points: 6
 >
 > Effects of Twilight: None
 >
@@ -1533,7 +1526,7 @@ Should Amberitus ever be challenged for the title of Arch-Mage, he gives his opp
 >
 > Other Combat Totals: Dodge Defense +0 (6 Action), Soak +0 (6 Action), Fatigue +0
 
-### OUTSIDE RELATIONS
+### Outside Relations
 
 Literatus has always had good relations with mundanes, and has gone to great lengths to maintain these relations. Within the city of Bologna, the Covenant has connections among the consuls and nobility, and even in the Church. Mundane authorities are (largely) unaware that the Magi of Literatus are anything more than respected scholars.
 
@@ -1543,7 +1536,7 @@ The Magi of Literatus enjoy their freedom to interact closely with the mundane w
 
 Beyond the need to disguise their diabolical ways, Magi of Literatus have political difficulties in the Order as a whole, as many are disturbed by their mundane ties. Magi of Literatus do little to allay these fears (preferring to distract outsiders with such paltry concerns, keeping them from the Dark truth). However, Literatus' Magi are quick to point out that it is becoming increasingly difficult for Magi to avoid such contact.
 
-### MAGICAL ATTRIBUTES
+### Magical Attributes
 
 The Magic Aura of Literatus' old Covenant, within Bologna, is gone, overpowered by the growing Dominion and Rational Auras in the city. The manor house, outside the city, has areas with a +2 Magical Aura (which are limited to subterranean labs). Otherwise, the countryside Covenant has a +4 Aura of Reason, arising from its intellectually enlightened texts and pursuits.
 
@@ -1553,7 +1546,7 @@ training apprentices, but has no high level books devoted to any Art.
 
 Like other Covenants in the Roman Tribunal, Literatus lacks a constant supply of raw vis. What little supply it has is either bought at extremely high prices, or acquired from other Magi in return for access to the Covenant's mundane library. Due to its lack of raw vis, the Covenant maintains no Aegis of the Hearth, and most of the Magi put off use of Longevity potions for as long as possible.
 
-### MUNDANE RESOURCES
+### Mundane Resources
 
 Although Literatus' mundane library is not quite as huge as the one at Doissetep, it does provide a huge variety of subjects. There is very little that is not covered at levels useful for teaching apprentices and students. The library occupies all three floors of the large central section of the manor house, and contains well over 10,000 volumes. Needless to say, the library contains copies of manuscripts which can be found nowhere else. There is extensive material from Mythic European, Greek, Hebrew, and even Arab sources, on nearly any topic of mundane interest. The Covenant also possesses a considerable collection of maps, and a number of scrolls from distant parts of the world, written in languages unknown to the Order.
 
@@ -1561,11 +1554,11 @@ The library is well protected by numerous spells which prevent the books from be
 
 Literatus' income derives from the considerable fief of land granted to the Magi by Sylvester II. Additional money comes from the high wages many of the Covenant's members command for their services as teachers in Bologna. All in all, the Covenant has no lack of money, allowing Magi to live comfortably and pay for the mundane education of numerous apprentices.
 
-### OBLIGATIONS
+### Obligations
 
 The Magi of Literatus have, for the most part, placed the burden of running their estate on their servants. The Overseer takes care of managing the fief, and the Autocrat takes care of the day-to-day details of running the Covenant. The single greatest obligation Magi have is their teaching. Each Magus at Literatus is expected to have an apprentice at all times. Additionally, in order to generate revenue and to preserve their reputations, many Magi take mundane apprentices in Bologna.
 
-### OUTLOOK
+### Outlook
 
 - Harco — Useful servants who understand the power of the mundane world.
 - Independents — Magi who may show us the future of the Order, where Magi will live among mundanes. Such isolated individuals are particularly susceptible to corruption.
@@ -1577,7 +1570,7 @@ The Magi of Literatus have, for the most part, placed the burden of running thei
 - Vardian's Tomb  — They shall not find peace in the Tribunal until they find peace with themselves. Perhaps we shall help them, or force our own brand of peace upon them.
 - Verdi  — A Covenant born of arrogance, uncaring of those they harm. Restraints must be put upon them. Maybe the Tribunal's shortage of vis can be used as a tool to lure them to sin and the Dark.
 
-### STORY IDEAS
+### Story Ideas
 
 - One way to bring Literatus into your game is to create a character who was apprenticed at the Covenant. Since Literatus keeps in touch with its former apprentices, it's easy tobring the Covenant into your stories no matter where in the Order your characters are located. The former apprentice might be a bright young scholar, anxious to share her knowledge with other Magi of the Order. Or perhaps she is an aloof academic, bent on showing that all other Magi are intellectually inferior. Or perhaps the Magus is tormented by demons who seek to corrupt her completely, making her a true apprentice of Literatus.
 - If there is ever any mundane information that characters seek, a trip to Literatus might be necessary. In return for information, Amberitus might require the performance of some obscure task, perhaps the acquisition of some book lost in a ruined Italian city. Alternatively, pledges of friendship and peace might be required. Or characters may be presented with a contract which requires their signatures and nothing more. . .
@@ -1613,13 +1606,13 @@ Library Ability Scores: Hermetic Law 12, Hermetic Lore 8, Hermes History 10, Mag
 >
 > — Simprim of Quaesitor, speech to the Seven of Magvillus
 
-### HISTORY
+### History
 
 As Domus Magnus of House Quaesitor, Magvillus has always played an important role in the Order. Since the Order's founding, Quaesitor has been responsible for enforcing the Code, and since it was founded, Magvillus has been central to that effort.
 
 Magvillus was established shortly after the death of Guernicus, at a central location where the results of investigations could be examined, and decisions on the Code made and recorded. Over the centuries, records of nearly all official investigations carried on throughout the Order have been kept at Magvillus.
 
-### LOCATION
+### Location
 
 Magvillus lies on the peninsula in a remote mountainous region of the Kingdom of Sicily (for the Covenant's precise locale, see *The Roman Tribunal* map). Isolated from the mundane world, and accessible only via steep paths, the Covenant receives few visitors from outside of the Order.
 
@@ -1629,7 +1622,7 @@ Magvillus' location is rather dry as most rainfall runs off quickly. The region 
 
 The slopes around the Covenant are bare of trees, but grasses grow in abundance. As the land is useless for most agriculture, the Covenant uses it to graze sheep and goats. Most other food is imported.
 
-### FORTRESS
+### Fortress
 
 Magvillus' defenses are very impressive. With its steep slopes, limited accessibility, and clear view of the surrounding land, the Covenant is easy to defend. Added to this are the Covenant's massive walls and impressive design. An attacker has to breach the outer wall, surrounding the guests' ward, the wall surrounding the Covenant ward, and the high wall of the inner ward before reaching the massive keep where the Magi make their home. Added to these mundane defenses are magical ones designed to prevent even powerful Magi from mounting an attack. An Aegis of the Hearth, Level 20, protects the Covenant from magical assaults.
 
@@ -1641,7 +1634,7 @@ The best defended area of Magvillus is the inner ward and keep, which may only b
 
 For the layout of the Covenant's locale and interior, see the Magvillus map.
 
-### INHABITANTS
+### Inhabitants
 
 Magvillus is the Domus Magnus of House Quaesitor. The official seven Quaesitoris who serve here are among the most respected of their House. When one of their number passes away, the remaining select a new member from their House to assume the position. It is among the highest honors of House Guernicus to be asked to join Magvillus.
 
@@ -1691,7 +1684,7 @@ As for the Roman Tribunal, Arliandus feels Magvillus should take control, mainta
 >
 > Spell Casting Speed: 6
 >
-> **Twilight Points: 7**
+> Twilight Points: 7
 >
 > Effects of Twilight: None
 >
@@ -1735,7 +1728,7 @@ If met on the road, Verox is very sure of himself, explaining that he is a membe
 >
 > Techniques and Forms: Creo 16, Intéllego 8, Muto 5, Perdo 6, Rego 11, Animál 5, Aquam 7, Auram 5, Córporem 10, Herbam 7, Ignem 12, Imágonem 6, Mentem 8, Terram 5, Vim 12
 >
-> **Twilight Points: 5**
+> Twilight Points: 5
 >
 > Effects of Twilight: Attracts fire. Hit by all of his own Targeted Ignem spells if he Botches.
 >
@@ -1749,7 +1742,7 @@ If met on the road, Verox is very sure of himself, explaining that he is a membe
 >
 > Other Combat Totals: Dodge Defense +0 (6 Action), Soak +10 (16 Action), Fatigue +3
 
-### OUTSIDE RELATIONS
+### Outside Relations
 
 Outside the Roman Tribunal, Magvillus is one of the most respected Covenants of the Order. The Quaesitoris of Magvillus are seen as defenders of the Code, responsible for keeping the Order together. Two great powers from beyond the Roman Tribunal give Magvillus much support. The first is the conclave of Arch-Magi, which helps Magvillus in return for a certain task that Magvillus performs (see *The Graveyard of the Arch-Magi*, in Chapter Six). The second is the Hopolites, a group of warrior Magi, many of whom are Arch-Magi of Flambeau who enforce the rulings of the Quaesitoris. Officially, the non-Quaesitor associate members of Magvillus are both Hopolites, but most of the group are much more powerful than those who reside at Magvillus.
 
@@ -1759,7 +1752,7 @@ Magvillus keeps very close track of all other Covenants in the Roman Tribunal an
 
 Magvillus' remote location allows it little contact with the mundane world. This situation pleases most Magi at the Covenant, who believe close contact with mundanes has the potential to bring great harm to the Order, so should be avoided.
 
-### MAGICAL RESOURCES
+### Magical Resources
 
 Magvillus has few magical resources of its own, but still manages to prosper. Magi who bring cases before Magvillus, or who have specific investigations they wish carried out, are expected to pay for services in raw vis. Magvillus therefore has no great shortage of vis.
 
@@ -1769,19 +1762,19 @@ It is also rumored that the Seven may possess a scrying device of ancient origin
 
 The Covenant's Aegis of the Hearth is Level 20.
 
-### MUNDANE RESOURCES
+### Mundane Resources
 
 Magvillus, though not a particularly wealthy Covenant, has always been able to sell raw vis or charge for services in gold to meet its expenses. The Magi and covenfolk of Magvillus, though they have few luxuries, never suffer for lack of equipment. Most of the Covenant's income is used to keep up its massive defenses, and to pay its numerous servants.
 
 The mundane libraries at Magvillus are poor, except in matters of law. Magvillus has vast archives detailing various investigations and legal questions. Additionally, there are good sources on Occult Lore (accumulated to conduct investigations into Literatus). Most of the material focuses on the Order and its internal affairs; there is almost nothing touching on the mundane world.
 
-### OBLIGATIONS
+### Obligations
 
 Magvillus exists to serve the needs of the Order. The Magi of Magvillus are responsible for enforcing the Code, and investigating those who may have broken it. Though they usually do not conduct investigations themselves, the Magi of Magvillus keep track of investigations in progress throughout the Order. This duty is a tremendous burden on the time of Magi, who spend at least two Seasons each year on their assignments.
 
 Keeping up mundane and magical defenses is also a great burden on the Covenant. Though such strong defenses may seem unnecessary, the Magi of Magvillus view them as very important. They argue that heavy defenses are required for the preservation of the Order's center of law. In truth, Magi of Magvillus fear that members of the Roman Tribunal might one day rise against them.
 
-### OUTLOOK
+### Ooutlook
 
 - Harco - A Covenant too deeply involved in mundane affairs. Their mercantile activities may one day ruin the Tribunal. They're useful, however, being diligent in the work their founder accepted centuries ago.
 - Independents - Mostly Magi too closely caught up in the mundane world. They must be brought closer to the Order.
@@ -1793,7 +1786,7 @@ Keeping up mundane and magical defenses is also a great burden on the Covenant. 
 - Vardian's Tomb - Mostly harmless independents, incapable of agreeing sufficiently to pose a true danger. Perhaps when our order is imposed upon the Tribunal this Covenant can be officially recognized.
 - Verdi - Arrogant toymakers who skirt the edge of the Code, constantly escaping our wrath by the narrowest of margins. One day we will catch them and make them pay.
 
-### STORY IDEAS FOR MAGVILLUS
+### Story Ideas for Magvillus
 
 - Characters acting as associate members of Magvillus can provide an interesting (if somewhat violent) Saga. Maybe characters are tricked into service to Magvillus, or forced into duty to avoid Hermetic punishment.
 - The characters become involved in an investigation carried out by Magvillus. Are the characters being investigated? Are they helping the Quaesitoris? Are there political motives behind the investigation?
@@ -1823,7 +1816,7 @@ At a first glance, Rellantali seems composed of a group of violent isolationists
 >
 > Library Ability Scores: Venetian Geography 9, Hermes Lore 2, Hermes History 3, Venice Lore 7, Church Lore 4, Church Knowledge 6, Humanities 3, Arabic Instruction 3, Mercantile Instruction 3
 
-### HISTORY
+### History
 
 In 838, the Magi who would form Rellantali first came to the Roman Tribunal, to join what seemed a rebirth of magic in Italy. They set up on the island of Asinara, hoping that their proximity to the Covenants of Auctus and Verdi would allow them to participate in new magical learning. Unfortunately, proximity to Verdi soon caused problems.
 
@@ -1837,13 +1830,13 @@ Fortunately, one of Rellantali's Tremere came up with a very innovative idea. In
 
 For over a hundred years Rellantali has survived on the sins of others. If other Magi of the Tribunal learn the neutral city of Venice has been compromised, Rellantali could be undone. However, what Rellantali's Magi do not realize is that they are already doomed. By thriving upon others' crimes, the Magi have sacrificed their immortal souls, and all are bound for Hell. Though Rellantali's Magi and servants have not outwardly made pacts with the Dark, they unwittingly deal with its agents, who pose as thieves and fences, leading Rellantali's people further down the sullied path.
 
-### LOCATION
+### Location
 
 Rellantali is officially located on the island of Asinara, just north of Sardinia (as indicated on *The Roman Tribunal* map). When Pisans and Genoese began attacking the Saracens on Italy's western islands in the early 11th century, several Tytalus and Flambeau of Rellantali helped the Italian mundanes. In their gratitude the mundanes officially granted the land around Rellantali to the Magi as a fief. By and large, the Covenant of Rellantali is accepted as a fortress ruled by enigmatic lords. Nearby peasants do not realize Rellantali is a magical place, but still avoid it all the same.
 
 In reality, Rellantali's Asinaran fortress is virtually abandoned. A few covenfolk remain to keep up appearances. Only a single Magus, Idus of Flambeau, stays there for any extended periods of time. Another Magus only occasionally steps through the Hermes Portal that links Asinara to Venice, to do magical work. For the most part, however, the Magi of Rellantali reside in Venice.
 
-### FORTRESS
+### Fortress
 
 Rellantali's Asinaran fortress is well-fortified. (For the layout of the place, see the Rellantali Covenant map.) Four tall walls surround the Covenant and there's a tower at each junction. A solid iron gate protects the one entrance to the Covenant, which is located in the southern wall. A large rectangular building takes up a good portion of the center of Rellantali. It once housed the Magi and the council room. Now only a few labs are maintained here. The rest of the place is empty and deserted.
 
@@ -1917,7 +1910,7 @@ Ultimately, Mercatora puts her own good before her Covenant's. She saw how short
 >
 > Other Combat Totals: Dodge Defense -6 (0 Action), Soak +8 (14 Action), Fatigue -6
 
-### OUTSIDE RELATIONS
+### Ooutside Relations
 
 Rellantali has poor relations with the majority of the Roman Tribunal and the Order as a whole. The Covenant's Magi refuse to allow others into their Asinaran fortress (so its abandoned state is not discovered), and demand that all Tribunal correspondences go through their official townhouse in Venice.
 
@@ -1927,7 +1920,7 @@ Additionally, Rellantali keeps a very close eye on Verdi. Rellantali's Magi awai
 
 Rellantali has little contact with the mundane world. Rellantali's force of thieves is really the only group which the Magi have any dealings with, and, in truth, much of that interaction is accomplished through the Merchant's Associate.
 
-### MAGICAL ATTRIBUTES
+### Magical Attributes
 
 Rellantali's magical resources are relatively poor. The labs in Asinara are maintained at a high level of quality, but there are only two of them. Additionally, the Covenant's Magical Aura is poor, as it has faded along with much of the other magic of the Tribunal. Furthermore, the Covenant's holdings in Venice, as part of a city under God, suffer from the Dominion Aura which pervades that city.
 
@@ -1935,7 +1928,7 @@ Rellantali's only great artifact is a Hermes Portal which connects Venice to Asi
 
 Rellantali has an arcane library which is adequate, and which, due to trade with Al Arama, brings in a fair amount of raw vis.
 
-### MUNDANE RESOURCES
+### Mundane Resources
 
 Relantali would be quite wealthy if not for the exorbitant amount of money its Magi spend on raw vis. Still, the Magi all live comfortably, and fine items occasionally pass amongst them.
 
@@ -1945,11 +1938,11 @@ Over the last century, Rellantali has collected a huge number of maps of Venice,
 
 Rellantali possesses a number of sailing vessels, which it uses for trade between the Levant and Venice. Rellantali acknowledges ownership of these vessels, and they occasionally provide board and passage for Redcaps and other Magi. Such service has gone far to increase the Covenant's reputation within the Tribunal.
 
-### OBLIGATIONS
+### Obligations
 
 Although the Magi of Rellantali have no standing obligations, all are expected to provide whatever help that the Covenant requires. Usually, when new Magi are welcomed, a contributing role is chosen for them. That role is made clear at once, so that Magi are not surprised by occasional tasks that come their way.
 
-### OUTLOOK
+### Outlook
 
 - Harco - An overly nosy Covenant wanting to know too much about our affairs. They are useful, however.
 - Independents - Likely our allies, if we could convince them to engage in the Tribunal's politics.
@@ -1961,7 +1954,7 @@ Although the Magi of Rellantali have no standing obligations, all are expected t
 - Vardian's Tomb - Verdi manipulates them terribly. They don't seem to realize that they too shall be cast aside when they're no longer useful. It would be grand to free them from Verdi's control. Until we do, they are our enemies.
 - Verdi — The worst of all the Covenants of the Tribunal, the fiends who tried to destroy us in the past. We shall avenge ourselves upon them, not resting until their walls have been torn down and Magi scattered. Perhaps their entire House shall follow.
 
-### STORY IDEAS FOR RELLANTALI
+### Story Ideas for Rellantali
 
 - The Magi of Rellantali could decide to expand their thieving empire beyond the city of Venice, into a town or city near the characters' Covenant. Grogs or Companions might be forced to investigate this new wave of crime. Tracing the thieves' chain of command, the covenfolk discover who's really behind matters and the Covenant's Magi might get involved. What do characters do with their discoveries? Frame Rellantali? Blackmail the Covenant? Or demanda piece of the action?
 - Rellantali hears word of an ancient magic item, made by Verditius himself, located in a place near the characters' Covenant. Rellantali's Magi contact the characters and ask them to excavate it, with compensation of course, to spite their old enemies. What happens when characters find themselves in the middle of the ancient conflict between the two Covenants? What if the item is powerful and the characters want it for themselves? Whatif the lost item proves useless and Rellantali accuses the characters of sabotage or alliance with Verdi?
@@ -2006,7 +1999,7 @@ Library Ability Scores: Legend Lore 4, Fantastic Beast Lore 3, Hermes Lore 5, He
 > | Strawberry Tree Wood | +2 to bring about contentment  |
 > | Wild Grape Vines     | +7 to bring about charity      |
 
-### HISTORY
+### History
 
 After Verditius studied with Bonisagus for several years, trying to learn the secrets of spell casting, he returned to his native Italy, ready to teach apprentices in both his own arts, and those taught by Bonisagus. Verditius wanted to be sure that mundanes would not interfere in his magical efforts, so sought out a magical site deep in the wilds of Sardinia. There Verditius and his first apprentice built a hut with their own hands, and Verditius began to teach the art of magic.
 
@@ -2020,7 +2013,7 @@ Throughout the centuries, Verdi has managed to remain hidden from the mundane wo
 
 Recently, Verdi succeeded in having Luctatio, to the north, recognized as a Covenant of the Roman Tribunal. Magi of Verdi think the young Covenant's official status will be a great boon in the future, particularly for Verdi itself. Luctatio, however, has its own ideas about its debts to Verdi, and doesn't plan to honor them in the least. To the magi of Luctatio, it's all part of a grand game.
 
-#### LOCATION
+#### Location
 
 Located in a valley hidden in the eastern mountains of Sardinia, Verdi is quite isolated. Even if it were not magically warded, only a very diligent or lucky explorer would happen upon the Covenant. The Covenant's valley is further protected by the heavy vegetation that surrounds it. Evergreens, such as the cork oak, grow heavily in areas furthest from the Covenant, while olive trees have been cultivated on the hills nearer Verdi.
 
@@ -2032,7 +2025,7 @@ Magi's Covenant dwellings, and also protect Verdi from floods and other natural 
 
 For the location of the Covenant see *The Roman Tribunal* map and, for its surrounding lands, the *Verdi* map.
 
-#### FORTRESS
+#### Fortress
 
 The physical dwellings of Verdi are relatively unimpressive. In the middle of the valley rises a single tower, created long ago with the *Conjuring the Mystic Tower* (Creo Terram, Level 50) Ritual. The tower is said to be located exactly where Verditius' original hut once stood, and has always been the dwelling of the Primus of Verditius. The ground floor is devoted to a meeting place of Magi, while the two upper floors are devoted to the Primus' living quarters and sanctum.
 
@@ -2044,7 +2037,7 @@ However, Verdi does not let its seeming invulnerability lull it into a false sen
 
 For the layout of the Covenant, see the Verdi map.
 
-### INHABITANTS
+### Inhabitants
 
 Six full Magi form the core membership of Verdi. As it has always been, the leader of Verdi is the Primus of House Verditius. The current Primus is Imanitosi, a reclusive woman who is quite pleased with Verdi's seclusion from the world.
 
@@ -2136,7 +2129,7 @@ When he has been allowed Seasons of study and creation, Steris has invented the 
 >
 > Other Combat Totals: Dodge Defense -1 (5 Action), Soak +0 (6 Action), Fatigue +0
 
-### OUTSIDE RELATIONS
+### Outside Relations
 
 At first glance Verdi seems idyllic, almost a magical paradise. However, when examining Verdi's political history, one realizes Verdi's Eden is built upon centuries of conflict, that the Covenant's success is due to the death of at least one other Covenant. Long ago, Auctus was destroyed by Verdi, and nearby Rellantali nearly followed. In the centuries since, Verdi has blocked many new Covenants from becoming members of the Roman Tribunal. As a result, those Covenants were never formed, or arose as independents, outside the Order and therefore vulnerable to unjustified attack.
 
@@ -2144,20 +2137,18 @@ Today, Verdi is just as guilty of the mercantilism that damages the Tribunal as 
 
 Despite its conflicts, Verdi has many allies in the Order. Harco and Magvillus both support the Covenant, recognizing Verdi's position as Domus Magnus of its House. Others respect the Covenant as they have business dealings with it.
 
-Beyond the Roman Tribunal, Verdi is known far and wide, usually as a magical mecca. Verdi's strongest ties outside Italy are with the Covenant of Al Arama, in the Levant. A constant
-
-flow of magic items and silver goes out to the Levant, with raw vis shipped back in return.
+Beyond the Roman Tribunal, Verdi is known far and wide, usually as a magical mecca. Verdi's strongest ties outside Italy are with the Covenant of Al Arama, in the Levant. A constant flow of magic items and silver goes out to the Levant, with raw vis shipped back in return.
 
 > #### Magical Items of Verdi
 >
-> The following are just some of the magical inventions that can be found at or in the vicinity of Verdi.
+>The following are just some of the magical inventions that can be found at or in the vicinity of Verdi.
 >
-> - The Potent Pot of Tasty Tea This unique magic item was created a few decades ago by an apprentice named Aratol. It is a brass tea pot, enchanted with a simple spell. When the tea pot is tipped up to pour, a cup of perfectly seasoned tea spills forth (Conjuration of the Tasty Tea, Creo Aquam 5, Herbam Requisite, unlimited uses). Unfortunately, the apprentice was experimenting when he created this item, so the enchantment has a slight side effect. The tea is intoxicating as if it were a light wine. Of course, since no vis is used, the tea is not filling and the intoxication disappears at the next sunrise or sunset, whichever comes first. For a time, Aratol's tea pot was quite popular among Verdi's Grogs.
-> - Gabricon's Doormat of Welcoming This magic item takes the form of a simple woven door mat with the word, "Salve!," etched across it. Two spells have been enchanted into it. The first is an informational spell, which senses the name of one who steps upon the mat (Sense the Mortal's Name, Intéllego Mentem 10, unlimited uses), while the second loudly and clearly announces that name (Announce the Name of the Approaching Visitor, Creo Imágonem 10, unlimited uses). The first spell is triggered by a person stepping on the door mat, and the second spell is triggered by the first. Little do the Magi at Verditius realize that the device would also reveal the True Name of any demon that stepped on the mat.
-> - Geran's Iron Pick Long ago, Verdi owned a small mine in the hills to the northwest. It has since been mined out, but when it was being used, several of the Covenant's Magi made magic items to help increase production. Geran's Iron Pick is a lesser enchanted item. When two lines of verse are sung, and the pick swung, about 20 pounds of rock is destroyed (Obliterate the Stone Walls, Perdo Terram 15, unlimited uses). Only plain stone is destroyed, so that valuable metals being mined for are not damaged, and enchanted walls cannot be scratched. Since the mines have closed, Geran's Pick has been stored away in the tower. The pick might be invaluable to a prison break, in which prison walls can be easily felled.
-> - Verdi Light The rumored Pious Magus, Nerius, is said to have once visited Verdi Covenant and destroyed an Infernal talisman that even the greatest of Magi there could not undo. It is said that Verdi Light, the everburning torch that lights the main hall of the Covenant, was a result of Nerius' blessing, testament to the eternal power of the Lord. Whether the light source kept at the Covenant is actually Divine in nature has never been proven, and Covenant Magi are closed-mouthed on the subject.
+>- The Potent Pot of Tasty Tea This unique magic item was created a few decades ago by an apprentice named Aratol. It is a brass tea pot, enchanted with a simple spell. When the tea pot is tipped up to pour, a cup of perfectly seasoned tea spills forth (Conjuration of the Tasty Tea, Creo Aquam 5, Herbam Requisite, unlimited uses). Unfortunately, the apprentice was experimenting when he created this item, so the enchantment has a slight side effect. The tea is intoxicating as if it were a light wine. Of course, since no vis is used, the tea is not filling and the intoxication disappears at the next sunrise or sunset, whichever comes first. For a time, Aratol's tea pot was quite popular among Verdi's Grogs.
+>- Gabricon's Doormat of Welcoming This magic item takes the form of a simple woven door mat with the word, "Salve!," etched across it. Two spells have been enchanted into it. The first is an informational spell, which senses the name of one who steps upon the mat (Sense the Mortal's Name, Intéllego Mentem 10, unlimited uses), while the second loudly and clearly announces that name (Announce the Name of the Approaching Visitor, Creo Imágonem 10, unlimited uses). The first spell is triggered by a person stepping on the door mat, and the second spell is triggered by the first. Little do the Magi at Verditius realize that the device would also reveal the True Name of any demon that stepped on the mat.
+>- Geran's Iron Pick Long ago, Verdi owned a small mine in the hills to the northwest. It has since been mined out, but when it was being used, several of the Covenant's Magi made magic items to help increase production. Geran's Iron Pick is a lesser enchanted item. When two lines of verse are sung, and the pick swung, about 20 pounds of rock is destroyed (Obliterate the Stone Walls, Perdo Terram 15, unlimited uses). Only plain stone is destroyed, so that valuable metals being mined for are not damaged, and enchanted walls cannot be scratched. Since the mines have closed, Geran's Pick has been stored away in the tower. The pick might be invaluable to a prison break, in which prison walls can be easily felled.
+>- Verdi Light The rumored Pious Magus, Nerius, is said to have once visited Verdi Covenant and destroyed an Infernal talisman that even the greatest of Magi there could not undo. It is said that Verdi Light, the everburning torch that lights the main hall of the Covenant, was a result of Nerius' blessing, testament to the eternal power of the Lord. Whether the light source kept at the Covenant is actually Divine in nature has never been proven, and Covenant Magi are closed-mouthed on the subject.
 
-### MAGICAL ATTRIBUTES
+### Magical Attributes
 
 For centuries, Magi of Verdi have used their inventive skills to make their lives and studies more comfortable. At the bottom of Verdi's lake sits an iron anchor which was enchanted long ago with a spell to keep the water forever clean and fresh. Some of the lake's water flows through a stone basin to the east, which has been enchanted with a minor Ignem spell. Those who insist upon bathing, despite the dangers, find the basin's water at a constant, comfortable temperature. Strange tales are told of those who often bathed in the basin, tales of how the magic eventually warped them.
 
@@ -2175,17 +2166,17 @@ A good Aegis, of the fifth magnitude, is constantly maintained at Verdi. In the 
 
 The great Magical Aura that once surrounded Verdi has since faded, and most of Sardinia's native vis supplies long ago dried up. However, through the sale of magic items, Verdi still manages to bring in many rooks of vis every year. Nuraghi, curious structures found throughout Sardinia, also provide Verdi with raw vis. These Nuraghi are made of undressed stones, laid in cone shapes without mortar. Raw vis is usually found embedded in the structures' walls or floors. Unfortunately, Verdi has problems with other Magi sneaking on to the island to steal the vis from these structures. Lately it's been a constant struggle for Verdi to maintain control over this particular vis source.
 
-### MUNDANE RESOURCES
+### Mundane Resources
 
 Verdi has as little contact with the mundane world as possible. When Magi do deal with mundanes, relations are never established on their native island of Sardinia, but in Venice via the Covenant's Hermes Portal. There Verdi quietly sells magic items to bring in silver. This sale is performed through intermediaries. Those people represent Verdi's only real contacts to the mundane world.
 
 The mundane library at Verdi is almost nonexistent. Scattered amongst the tomes of Hermetic Lore are a few books on the legends of peoples throughout Mythic Europe. These are kept only to point the way to any long-lost magic items.
 
-#### OBLIGATIONS
+### Obligations
 
 One Season a year, all Magi of Verdi are required to make a magic item for the Covenant. The raw vis is provided, so that only a Magus' time is spent. These items, usually of lesser quality since they're made on demand, are sold to Al Arama and the mundanes of Venice. Verdi's Verditius usually spend the other Seasons of the year making magic items for themselves, though many of these are also sold, for personal rather than Covenant profit.
 
-#### OUTLOOK
+### Outlook
 
 - Harco A very useful Covenant, providing us with many services. We are able to sell many magic items to them, for many of them lack the Gift.
 - Independents Although they are not recognized by the Order, these wizards are valuable because they often purchase devices from us when they find the money. We should defend the independents if any militant group ever seeks to wipe them out.
@@ -2197,7 +2188,7 @@ One Season a year, all Magi of Verdi are required to make a magic item for the C
 - Sansaron Isolated hedge wizards who want little to do with our Tribunal. They have always been ignored because they care so little about the politics of our Tribunal.
 - Vardian's Tomb Harmless Magi, not dangerous to us in the least. They're easily manipulated, helping us to bring about our own goals.
 
-### STORY IDEAS FOR VERDI
+### Story Ideas for Verdi
 
 - The Verdi competitions which are to occur in 1199 and 1217 can be a great source for story ideas. Perhaps a young Verditius character brings her item to the competition, and finds herself caught up in a web of plots, designed to assure a certain Magus victory. Does the young Verditius go along with her elders, helping to steal or even destroy other magic items which may be in the way of victory, or does she reveal the conspiracy?
 - Perhaps a boatload of Magi headed to the competition never arrives. All the Magi of the Roman Tribunal could be called into action, to find the missing Magi before word of the embarrassing incident escapes the Italian peninsula. The search could be extremely competitive as the Magi of different Covenants seek to discover their lost brethren, and thus gain respect and recognition.
@@ -2208,7 +2199,7 @@ One Season a year, all Magi of Verdi are required to make a magic item for the C
 
 Aside from the larger, older Covenants of the Roman Tribunal, there are several smaller, younger ones. Some of these Covenants are not even officially recognized by the Tribunal, but are allowed to exist because recognized Magi are too preoccupied with their own plots. Otherwise they might crush the independents, to seize their power. Although smaller Covenants, even the recognized ones, have less power than their elders, they are no less dangerous. Most still wield the political and magical influence that allowed them to form in the first place.
 
-### LUCTATIO
+### Luctatio
 
 Symbol: A spider web Season: Spring
 
@@ -2230,7 +2221,7 @@ The Tytalus of Luctatio are among the most competitive of their House, thriving 
 
 Within the Tribunal, Luctatio plays other Covenants against each other, gaining power as the intensity of conflicts rise between them; Luctatio almost always allies with the winning side. Helping other Covenants in their plots, Luctatio is popular in the Tribunal and respected as an ally by most. Only Magvillus is opposed to Luctatio, mainly because the Magi of Luctatio use popular dislike for Quaesitoris as a tool in their manipulations.
 
-### POSTESTAS
+### Postestas
 
 Symbol: A clenched fist over a wave
 
@@ -2256,7 +2247,7 @@ The interior of Postestas is separated into two tiers. The outer tier, located s
 
 The members of Postestas plot to seize control of the Roman Tribunal. Over the years, many schemes and plans have put Postestas' Magi on good terms with other Covenants of the Tribunal; little do the others know the Covenant's true intentions. In fact, many Roman Magi owe Postestas favors for good deeds done in the past. Postestas hopes to turn the good will it has fostered to carefully engineer the overthrow of the Tribunal, putting Rome firmly in the hands of House Tremere. Until that happens, the conniving Magi wait.
 
-### SANSARON
+### Sansaron
 
 Symbol: A mountain standing over a desert
 
@@ -2282,7 +2273,7 @@ Sansaron is interesting on two counts. Its Magi have discovered scrolls and item
 
 On these second count, some of Sansaron's Grogs secretly follow hedge wizards who live further inland. The Grogs and wizards are plotting revenge against the Order and plan to use Sansaron as a stepping stone. Diabolism is at the bottom of this plot, and could mean the end of the Roman Tribunal.
 
-### VARDIAN'S TOMB
+### Vardian's Tomb
 
 Symbol: None Season: Spring
 
@@ -2306,7 +2297,7 @@ Once the existence of Vardian's Tomb was discovered by other Magi of the Tribuna
 
 Since the time of the necromancers' arrival, Vardian's: Tomb has been a fractured place. The necromancers and Jerbiton rarely see eye to eye on any issue, and both seek to have the others ousted from the "Covenant" and Tribunal. In many ways, the conflicts of Vardian's Tomb are a microcosm of the struggles of the Tribunal itself. As Vardian's Tomb slowly weakens, so does the Tribunal, and if neither body can resolve : its differences, both may eventually perish.
 
-### FERITEL
+### Feritel
 
 Symbol: None Season: Spring
 
@@ -2332,7 +2323,7 @@ Feritel Magi would have liked to have formed an official Covenant, but politics 
 
 The Magi of Feritel live the life of nobility. When they can, they use their arts to help the people of Genoa. Occasionally, Genoa has called upon Feritel to engage in certain tasks, and the Magi have almost always been happy to oblige. Long ago, the Magi of Feritel made it clear what they legally can and cannot do for mundanes (trying to abide by the Code ofHermes even though it is not officially binding). So far mundanes have not made excessive demands upon the Magi (although desperate nobility could one dayprove quite demanding, forcing Feritel's Magi to choose between hope of Tribunal recognition or destruction at the hands of mortal armies).
 
-## INDEPENDENT MAGI
+## Independent Magi
 
 There are several independent Magi in the Roman Tribunal. These Magi and wizards (some belong to magical traditions outside the Order of Hermes) generally belong to two different groups: naturalistic Magi, who live in scant forests and plentiful hill lands; and sociable Magi, who live among mundanes . : and labworkers, selling items to the nobility. Wizards working in Italy's wild lands often do so because their roots are there, - either in the Cult of Mercury or in some other more obscure - tradition. Wizards working in mortal lands often do so because they appreciate the rewards offered, or seek the protection of mundane steel.
 
@@ -2406,7 +2397,7 @@ In the 13th century, the inhabitants of Italy avoid the area to the southeast of
 >
 > Vis: 20 Córporem, body
 
-#### POLYPHEMUS' HOME
+#### Polyphemus' Home
 
 Hundreds of years ago, the Cyclopes of eastern Sicily left their land behind. Perhaps mankind was growing too near them, or perhaps they simply faded, as the magic of land did. When the other Cyclopes disappeared, one was still left behind, Polyphemus.
 
@@ -2416,7 +2407,7 @@ At the foot of the cliff is a herd of sheep fenced by walls of stone. Next to th
 
 For the location of Polyphemus' cave, see the map of his lands.
 
-#### STORY IDEAS
+#### Story Ideas
 
 - Magi may stumble across a reference to Polyphemus that indicates his great knowledge of Sicily. If they are trying to research an item or creature said to be in Sicily, characters are wise to search out and question Polyphemus. Of course, if the Magi's source simply called Polyphemus "the Blind Seer," they may be in for quite a surprise.
 - If Polyphemus is befriended, he might ask characters to help him find a new eye. Perhaps he knows of a creature from which an appropriate eye can be taken, such as a gryphon or a magical wolf. Alternatively, he might suggest a magical means to restore his vision. Verdi might have an appropriate device. If Polyphemus' sight is restored, he offers information on a nearby hoard.
@@ -2435,7 +2426,7 @@ After that pact was signed, the Senators passed the way of all men. Each was pla
 
 Since their revival, the six creatures have done their best to rule Rome from their tomb. In the 13th century, they have spies among all classes in the city. Several decisions of great import can be traced to the Shadow Senate, most recently the ascension of Pope Innocent III to the papacy. However, for the most part the Shadow Senate has not gained as much control as its members would like. Several of the Senators now grow desperate, afraid that their time will end and they will lapse back into eternal damnation before restoring Rome.
 
-### THE TOMB
+### The Tomb
 
 The tomb of the Shadow Senate can now be entered through the house of Pietro, a rich merchant whose family has obeyed the Shadow Senate for many generations. When a tapestry in Pietro's bedroom is pulled aside, a large iron-shod door is revealed. The ancient key which opens the door is worn around Pietro's neck. Beyond the door is an old shaky ladder which leads down to the tomb.
 
@@ -2475,7 +2466,7 @@ For the layout of the tomb, see the *Tomb of the Shadow* Senate map.
 >
 > Vis: 5 Mentem each, skulls
 
-#### STORY IDEAS
+#### Story Ideas
 
 - Through their Infernal rituals, the Shadow Senate may learn the characters' Covenant will eventually foil some of their carefully laid plans. The Senators therefore pit their Infernal agents against the Covenant. First they try to corrupt the characters, bringing them into the Senate's circle of power. If that fails, more destructive techniques are devised. In the end the characters may still foil some great plan of the Senate, as the ritual had predicted, perhaps because the Senate assaulted the characters in the first place.
 - The Shadow Senate could learn of some genuine threat to the City of Rome. Perhaps there's a new barbarian invasion or a heresy that could overtake the whole Church. Through intermediaries, Magi might be convinced to help stop this new threat. What might the rewards that the Shadow Senate offers be? What do characters do if they discover the true nature of their benefactors?
@@ -2488,7 +2479,7 @@ Once upon a time, Faerie forests covered the entirety of Italy. As time passed a
 
 Italy's last Faerie forest is a great, rambling place. Although it touches many parts of southern Italy, its very borders seem to shift from year to year. Even if an expedition had the resources to map such a large area, the effort would fail. Only those with the blood of the Fay may traverse the forest without becoming confused by its changes. Within the forest, there are a number of spots of interest, some of which are noted below. Without faerie blood, but knowledge of faerie rituals (the magic of Merinita, as imparted by the +1 Faerie Magic Virtue), reliable routes to the forest's sites may be found. Otherwise, visitors are helpless in the hands of the Fay. There are many regio within the forest. According to rumor, there may even be an entrance to Arcadia itself.
 
-### THE THREE PROTECTORS
+### The Three Protectors
 
 The main reason for the survival of the last Italian Faerie forest lies with its protectors. There are three forces that keep Magi and mundanes from destroying this unique wood. The first of these protectors is Silva Ambages, a Magus of Merinita. She is an independent Magus, recently arrived in Italy. With subtle spells of confusion and trickery, she is able to keep outsiders from harming the forest. Silva is also the healer of the forest, coming to the aid of those forest residents who have been harmed. She has even been known to help forest intruders, but only those who have proven good intentions for the wood.
 
@@ -2498,7 +2489,7 @@ The last protectors of the forest are a group of seven werewolves. They call the
 
 The leader of the werewolves is an old warrior. In mortal tongue, his name is Antonio. He has fought the incursions of passes on, he hopes the next pack leader will be as vehement in resisting incursions as he. Antonio has been blessed with the power to sense beings of corruption, such as demons and those tainted by diabolic pact.
 
-### SITES OF INTEREST
+### Sites of Interest
 
 As mentioned above, there are many places of interest within the Faerie forest. These places tend to shift location. Perhaps to successfully find the half-glade, visitors have to dance naked around a fire and eat a certain type of leaf. To find the werewolves' glen, people might have to follow a very circuitous route, involving circling certain types of trees.
 
@@ -2522,7 +2513,7 @@ There are several places of darkness within the Faerie forest. Ancient evils liv
 
 In a fit of anger, Shen might exile characters into a dark place, or he might ask them to kill an old evil. Groves full of rotted trees, old dank caves and areas devoid of vegetation are some of the things that mark dark places. Ogres, demons, drakes and wyrms are some of the creatures that might be found within.
 
-### STORY IDEAS
+### Story Ideas
 
 Although the land of Sicily is officially owned by Magvillus, no concentrated effort has ever been made to collect all its vis. Thus, the island is the best place in the Roman Tribunal to found a new Covenant. Magvillus could be convinced to give up rights to land in the Faerie forest in return for promises of vis, or if the new Covenant swears allegiance to Magvillus.
 
@@ -2535,13 +2526,13 @@ Although the land of Sicily is officially owned by Magvillus, no concentrated ef
 
 Perhaps a hundred years after the formation of the Order, when the founders' apprentices were finally coming into their own, the first meeting of the Arch-Magi was held. It was a meeting of great decisions, where much of the Order's future was plotted out. One of those who spoke at the meeting was the Criamon Crantel. He convinced the others that a graveyard should be built for the Arch-Magi, where each could be taken after passing from the world. That graveyard was to be a place of protection, so that when the souls ofMagi traveled on, their bodies wouldbe forever safe. It was also proposed asa place of respect, where the names of the great would always be known. To this day, the graveyard still stands, a place of final rest for the most powerful of the Order.
 
-### TRADITIONS OF THE GRAVEYARD
+### Traditons of the Graveyard
 
 Whenever an Arch-Mage dies, his body is taken by the other Arch-Magiof the Order. After appropriate ceremonies of farewell are completed by the Magus' home Covenant, Arch-Magi come to collect the body. Sometimes, the late Arch-Mage's closest friends are invited to attend the ceremonies at the graveyard. These people must swear to preserve the secret ofthegraveyard's location. Ifthat vowisbroken, the vastpower of all the Order's Arch-Magi would be arrayed against the offender.
 
 The graveyard of the Arch-Magi is protected by the Covenant of Magvillus. The leader of that Covenant, currently Arliandus, has always known of the graveyard. If there is ever a threat to it, Arliandus will dispatch his associate members to deal with the problem. If that fails, he could bring all of the power of House Quaesitor to bear against violators.
 
-### THE HIDDEN TOMB
+### The Hidden Tomb
 
 A day north of Magvillus, hidden in the Apennines, is the graveyard of the Arch-Magi (see The Roman Tribunal map). The mountain is a very secluded one, approachable only by a narrow, winding path. Parts of that path are further obstructed by ancient Imágonem rituals, embodied within Waiting Spells. If any unknowing person is to try and ascend the path, he or she might, unless careful or powerful, rapidly plunge to his or her death.
 
@@ -2567,7 +2558,7 @@ Past the cavities, passages begin to open to the right and left. Each leads into
 
 Each tomb has an individual protector. For every tomb that is desecrated, the protector of that tomb haunts the desecrator, until all that was stolen is returned. Consider the victim to have the -2 Supernatural Flaw, Haunted.
 
-### STORY IDEAS
+### Story Ideas
 
 - When an Arch-Mage dies, his friends the characters are invited to bring his body to the Arch-Mage's graveyard. Unfortunately, the Arch-Mage had certain enemies who do not want his body to reach its final resting place.
 - An enemy of Magvillus learns of the Arch-Magi's graveyard and wants to embarrass Magvillus. The characters are told of the place, duped into penetrating it, and maybe even helped to bypass some of its defenses. Unfortunately, the characters might not be told of some of the graveyard's defenses.
@@ -2581,7 +2572,7 @@ As centuries passed, the gods grew tired of the world and each sought out their 
 
 In northern Italy there seems to be a place that is the center of war and fighting. Investigation reveals a strange burial ground beneath the spot. It's speculated that this could be the sleeping place of a great war deity, such as the Roman Mars.
 
-### HISTORY
+### History
 
 The Resting Place of Mars is located upon the plains of Lombardy, about 10 miles northwest of Milan (see *The Roman Tribunal* map). Traditionally, many armies have met on this spot. The ground is stained with the blood of thousands. When the Magi of Luctatio came to Lombardy, in 1162, they thought the history of the place a good one, so chose it as the site of their Covenant. The Magi were quite surprised when, several weeks after construction had begun, a huge army marched upon Milan. For a day the army stopped at the site of Luctatio and destroyed the Covenant's foundation, killing many workers and peasants. The great army then continued on toward its intended destination. The Magi of Luctatio thus decided that the tales of the land were dangerously true, so moved their Covenant slightly closer to Milan, away from the supposed resting place of the Old Ones.
 
@@ -2605,7 +2596,7 @@ One may also slip into the higher regio by sitting on the hill and meditating up
 >
 > — Arch-Mage Infamitus, The True Origins of the Magical Traditions
 
-## THE MAGICAL REGIO (5)
+## The Magical Regio (5)
 
 As one moves into the Magical regio level, the ruins slowly fade until the hill is utterly free of any works of man. The grass is much taller, coming to a person's waist, as if no man ever marched across it. In the center of the hill, a great block appears, weighing perhaps a ton. On all four sides of the block, seven identical words are written. Unfortunately, those words are in some ancient language, utterly incomprehensible to even powerful Intéllego spells.
 
@@ -2621,7 +2612,7 @@ Weapons taken from the tomb are not without their curse. Anyone who takes a weap
 
 Any lab work, concerning inventing, enchanting or learning spells of war and death, conducted within the tomb receives a +5 bonus. Characters might learn of this benefit through the writings of some ancient Magus, or through a sufficiently powerful Intéllego Vim spell (Level 20+). However, every Season spent working in the tomb either increases one of the Magus' warlike Personality Traits (or Passions), or decreases one of the Magus' peaceful Traits (or Passions) by one, permanently.
 
-### SOLUTIONS
+### Sokutions
 
 There's no telling what secrets might lie behind the Resting Place of Mars. If it really is the tomb of an Old One, it might contain vast magic, and as a result might radically alter the direction of your Saga. You are invited to decide the truth of the place as best suits your storytelling tastes. Here are some possibilities:
 
@@ -2634,7 +2625,7 @@ There's no telling what secrets might lie behind the Resting Place of Mars. If i
 >
 > The ghostly swordsmen appear as insubstantial people wearing full chain and carrying great swords (in combat they may be treated as substantial foes). Any who took a weapon from the Resting Place of Mars, on the next new moon, wakes to find a swordsman above him. The swordsman motions toward the character's armor and weapons, and waits until the character is adequately armed and The swordsmen then initiates a fight, not stopping unless the stolen weapon is given to him, returned to the Resting Place of Mars, or until the victim is defeated (Incapacitated is sufficient). Unless the swordsman is defeated, or the weapon is returned, he appears again with every new moon. During any combat, no one else is able to see the swordsman or affect him in any way. If the swordsman is defeated, he slowly fades away into nothingness and never returns.
 
-### STORY IDEAS
+### Story Ideas
 
 - A visitor to the Magi's Covenant might be found dead in his room on the night of the new moon, killed by a great sword. Characters might eventually discover that he was killed by a ghostly swordsman.
 - The Magi of Luctatio could trick characters into exploring the Resting Place of Mars, advising them to each take one of the great weapons, but not giving any warning of the dire consequences that follow.
@@ -2650,7 +2641,7 @@ In the 1st century, the Jewish tentmaker Aquila and his wife were forced to leav
 
 About 200 years ago, the Church of Saint Aquila was built, after a young priest received visions while lodging near the old house of Aquila. Currently, only Angelo, the current priest, knows of the foundations on which the Church of Saint Aquila is built, as he too has received visions. (See *The Roman Tribunal* map for the location of the church.)
 
-### THE MUNDANE REGIO
+### The Mundane Regio
 
 For the layout of the church, see *The Church of St. Aquila* map.
 
@@ -2662,7 +2653,7 @@ interior of the church is almost always dark, lit by only a few candles and dim 
 
 Saint Aquila is a poor church, in poor repair. Angelo, the resident priest, is an old man well into his 70s, but still able to oversee the needs of the church. After 40 years of work at Saint Aquila, he has learned that silence is often the best means to serve visitors. Unless they make a nuisance of themselves, or are openly irreverent (which brings down Angelo's wrath), Angelo does not disturb those who visit the church.
 
-### The Divine Regio(7)
+### The Divine Regio (7)
 
 Visitors to Saint Aquila, who devote their time to silent prayer and contemplation, may cross over into the Divine regio that covers the entire church. Though the Divine regio is physically identical to the mundane level, it has a much different atmosphere. Those who enter the Divine regio experience a serenity found no where in the mundane world. They are surrounded by absolute peace and silence. The directions of their lives, and paths they may take toward salvation, are laid out them. While within the Divine regio, visitors have no need of rest nor sustenance. They need only contemplation and prayer.
 
@@ -2670,7 +2661,7 @@ Those who enter the Divine *regio* by means other than prayer, or those who have
 
 Of course, Angelo understands the Divine nature of his church, but does not brag about it. He greets those who enter the "upper" level, dividing his time between the two realms. For those on the mundane level of the *regio*, it might be disconcerting that penitent Christians, just nearby, suddenly disappear, and that others who entered just before characters are nowhere to be found.
 
-### STORY IDEAS
+### Story Ideas
 
 - When several Grogs leave the Covenant for religious reasons, Magi might grow suspicious and investigate the church.
 - Magi might be seeking some object rumored to be buried in the old house where Aquila once lived. Seeking it through the Divine *regio* might prove very unpleasant and possibly dangerous, tempting Divine wrath.
@@ -2683,7 +2674,7 @@ Although some specifics about these Vocations, such as the languages that they s
 
 ## Grog Vocations
 
-#### GANG MEMBER
+#### Gang Member
 
 "Excuse me, do you know who you're dealing with?"
 
@@ -2711,7 +2702,7 @@ WEAPONS& ARMOR: Shortsword, Full Leather ENCUMBRANCE: 0
 
 Growing up in a northern Italian city, you naturally fell into a gang. The cities have always been factionalized between patties, a condition which grows worse of late. Throughout your youth you had free run of the city, taking what you wanted. Recently you were offered employment by people identifying themselves as Magi. You didn't think twice before accepting their offer; you've never put much faith in the Church. Now you're one of the wizards' trusted warriors, ready to show them the right way to do things. And if you ever get in trouble, there are always your old friends to fall back on.
 
-#### IALIAN SAILOR
+#### Italian Sailor
 
 "I never seen a Magus turn quite that shade of green, sir."
 
@@ -2741,7 +2732,7 @@ ENCUMBRANCE: 0
 
 Your father was a fisherman; you've been on the sea since childhood. When you grew old enough, you decided to leave the peasant life behind. You headed to Venice and got a job aboard one of the city's merchant ships. Since that time life has been hard, but you've done well. Now you've moved on to a ship owned by Magi. It's not socially acceptable, like your previous positions, but the pay sure is a damned lot better.
 
-#### LOMBARD WARRIOR
+#### Lombard Warrior
 
 "If you want a tough job done, I'll do it, sir. I'm not worried about them other soldiers getting the better of me. I swear, I could take two of them with one hand tied behind my back."
 
@@ -2753,21 +2744,21 @@ Strength +3 Dexterity 0
 
 Stamina +4 Quickness 0
 
-**AGE:** 18
+AGE: 18
 
 VIRTUES AND FLAWS: Reckless +1, Tough +1, Bad Reputation -1, Hired Sword -1
 
-**ABILITIES:** Speak Italian 4, Speak German 3, Alertness 1, Dodge 2, Survival 1, Brawl 1, Drinking 2, Intimidation 1, Intrigue 1, War Maul Attack 4, War Maul Parry 3, Area Lore — Lombardy 2
+ABILITIES: Speak Italian 4, Speak German 3, Alertness 1, Dodge 2, Survival 1, Brawl 1, Drinking 2, Intimidation 1, Intrigue 1, War Maul Attack 4, War Maul Parry 3, Area Lore — Lombardy 2
 
 CONFIDENCE: 3
 
-**REPUTATION:** Cruel 2
+REPUTATION: Cruel 2
 
 PERSONALITY TRAITS: Brave +2, Reckless +3
 
 WEAPONS & ARMOR: War Maul, Ring Mail Hauberk
 
-#### ENCUMBRANCE: 1
+ENCUMBRANCE: 1
 
 For centuries your ancestors have been warriors, fighting the constantly changing battles that have plagued the Italian peninsula. For a few years you acted as a mercenary in your native Lombardy. Now you've moved on, and are serving the Magi of a Covenant. You're not *custos* yet, but you're sure you will become so soon. The Magi are already impressed by your skills as a warrior.
 
@@ -2783,25 +2774,25 @@ Strength -3 Dexterity +1
 
 Stamina 0 Quickness +3
 
-**AGE:** 17
+AGE: 17
 
 VIRTUES AND FLAWS: Social Contacts (town guards) +1, Versatile Sleeper +1, Well-Known +1, Favors -1, Small Frame -2
 
-**ABILITIES:** Speak Italian 4, Brawl 1, Dagger Attack 2, Dodge 3, Athletics 4, Survival 2, Ride 2, Bargain 1, Diplomacy 2, Drinking 1, Etiquette 1, Folk Ken 2
+ABILITIES: Speak Italian 4, Brawl 1, Dagger Attack 2, Dodge 3, Athletics 4, Survival 2, Ride 2, Bargain 1, Diplomacy 2, Drinking 1, Etiquette 1, Folk Ken 2
 
 CONFIDENCE: 3
 
-**REPUTATION:** Honest Messenger 2
+REPUTATION: Honest Messenger 2
 
 PERSONALITY TRAITS: Brave +1, Loyal +2, Honest +2
 
 WEAPONS & ARMOR: Dagger
 
-**ENCUMBRANCE: 0**
+ENCUMBRANCE: 0
 
 Like most Covenants in the Roman Tribunal, yours has interests spread across Italy. There's the Covenant itself, the townhouse in Venice and a huge number of other locations of interest. Messages are constantly delivered from one place to another, and that's where you come in. It isn't the most glamorous job but it's a safe and easy one. Perhaps one day the Covenant will recognize your loyalty and raise you to the status of *custos*.
 
-#### VENETIAN THIEF
+#### Venetian Thief
 
 "No, I don't know what happened to the meat meant for the Magi's dinner."
 
@@ -2817,13 +2808,13 @@ AGE: 16
 
 VIRTUES & FLAWS: Light Sleeper +1, Lithe +1, Social Contacts (underworld) +1, Missing Ear -1, Over-Confident -2
 
-**ABILITIES:** Speak Italian 4, Brawl 1, Dagger Attack 2, Dodge 3, Disguise 1, Pick Locks 3, Stealth 2, Charm 3, Guile 2, Subterfuge 2, Area Lore — Venice 1
+ABILITIES: Speak Italian 4, Brawl 1, Dagger Attack 2, Dodge 3, Disguise 1, Pick Locks 3, Stealth 2, Charm 3, Guile 2, Subterfuge 2, Area Lore — Venice 1
 
 CONFIDENCE: 3
 
 REPUTATION: None
 
-**PERSONALITY TRAITS:** Honest -2, Cruel +1
+PERSONALITY TRAITS: Honest -2, Cruel +1
 
 WEAPONS & ARMOR: Dagger, Leather Cuirass
 
@@ -2833,7 +2824,7 @@ You grew up on the streets of Venice, and from your earliest days were forced to
 
 ## Companion Vocations
 
-#### BOLOGNA SCHOLAR
+#### Bokonga Scholar
 
 Intelligence +4 Presence 0
 
@@ -2843,7 +2834,7 @@ Strength -2 Dexterity -4
 
 Stamina -2 Quickness 0
 
-**AGE:** 30
+AGE: 30
 
 VIRTUES & FLAWS: Arcane Lore +1, Educated +1, Training +2, Very Knowledgeable +3, Fragile Constitution -1, Poor Equipment -1, Soft Hearted -1, Clumsy -2, Over-Confident -2
 
@@ -2886,7 +2877,7 @@ Several Covenants in the Roman Tribunal have their own ships. They use them to t
 
 "I'm quite sure I can find some rare Egyptian crystals for you,for the right price of course."
 
-#### ROMAN SCRIBE
+#### Roman Scribe
 
 Intelligence +1 Presence -2
 
@@ -2916,7 +2907,7 @@ You are the second son of a scribe in Rome. For his entire life, your father has
 
 "What a beautiful library!"
 
-#### REBELLIOUS SON
+#### Rebellious Son
 
 Intelligence -1 Presence +1
 
@@ -2926,27 +2917,27 @@ Strength +2 Dexterity -2
 
 Stamina +2 Quickness -2
 
-**AGE:** 22
+AGE: 22
 
 VIRTUES & FLAWS: Educated +1, Inspirational +1, Social Contacts (nobles) +1, Rebel Passion +2, Superior Armaments +2, Black Sheep -1, Deep Sleeper -1, Delusion (not cast out from family) -1, Enemies -1, Fury (insults) -3
 
-**ABILITIES:** Speak Italian 5, Bastard Sword Attack 4, Kite Shield Parry 3, Athletics 2, Charm 3, Drinking 2, Etiquette 2, Intrigue 2, Leadership 3, Area Lore — Milan 2, Humanities 1
+ABILITIES: Speak Italian 5, Bastard Sword Attack 4, Kite Shield Parry 3, Athletics 2, Charm 3, Drinking 2, Etiquette 2, Intrigue 2, Leadership 3, Area Lore — Milan 2, Humanities 1
 
 CONFIDENCE: 3
 
-**REPUTATIONS:** Rebel 2
+REPUTATIONS: Rebel 2
 
-**PERSONALITY TRAITS:** Arrogant +2, Crude +1, Loyal -1
+PERSONALITY TRAITS: Arrogant +2, Crude +1, Loyal -1
 
 WEAPONS & ARMOR: Bastard Sword, Kite Shield, Chain Mail Hauberk
 
-**ENCUMBRANCE:** 5
+ENCUMBRANCE: 5
 
 A member of an established northern family, you were groomed from youth to be one of your town's rulers. You never thought much of the position, so left the city behind. Although you insist otherwise, your family has turned its back on you. Lately you've been selling your talents as a warrior, for your family trained you well in those arts. It's been a good, exciting life, much better than the one that was planned for you.
 
 "The commune? Pah! I would never return to that cesspool, even if my very own mother was before me, begging for my return."
 
-#### VENETIAN SPY
+#### Venetian Spy
 
 Intelligence 0 Presence 0
 
@@ -2956,21 +2947,21 @@ Strength -4 Dexterity +2
 
 Stamina -4 Quickness +2
 
-**AGE: 20**
+AGE: 20
 
 VIRTUES & FLAWS: Light Touch +1, Greed Passion +1, Social Contacts (merchant) +1, Social Contacts (noble) +1, Strong-Willed +1, Lightning Reflexes +2, Bad Reputation -1, Favors -1, Small Frame -2, Noncombatant -3
 
-**ABILITIES:** Speak Italian 5, Dagger Attack 2, Dodge 2, Alertness 2, Scan 2, Search 2, Climb 2, Guile 1, Pretend 2, Subterfuge 2, Forgery 2, Legerdemain 2, Pick Locks 2, Stealth 2, Intrigue 2
+ABILITIES: Speak Italian 5, Dagger Attack 2, Dodge 2, Alertness 2, Scan 2, Search 2, Climb 2, Guile 1, Pretend 2, Subterfuge 2, Forgery 2, Legerdemain 2, Pick Locks 2, Stealth 2, Intrigue 2
 
 CONFIDENCE: 3
 
-**REPUTATION:** Untrustworthy 2
+REPUTATION: Untrustworthy 2
 
 PERSONALITY TRAITS: Brave -2, Loyal +1, Curious +1
 
 WEAPONS & ARMOR: Dagger
 
-**ENCUMBRANCE:** 0
+ENCUMBRANCE: 0
 
 Venice is a city of intrigue. Scores of people are constantly sneaking around, hoping to discover rivals' secrets. It's a nasty job, living by deception, lies and back-stabbing, but someone has to profit from it. For several years you've been offering your services to the highest bidder. You've had to stay on your toes, lest other spies get the upper hand, but you've managed to do all right. People are so easy to manipulate that you've never had trouble getting what you want.
 
@@ -2978,7 +2969,7 @@ Venice is a city of intrigue. Scores of people are constantly sneaking around, h
 
 ## Magus Vocations
 
-#### COMMUNE MERCENARY (TYTALUS)
+#### Commune Mercenary (Tytalus)
 
 Intelligence +2 Presence -2
 
@@ -2988,7 +2979,7 @@ Strength +2 Dexterity +1
 
 Stamina +2 Quickness -2
 
-**AGE:** 26
+AGE: 26
 
 VIRTUES & FLAWS: Gentle Gift +1, Knack (swords) +1, Mastered Spells +1, Magical Affinity (making magic weapons and armor) +2, Subtle Magic +2, Highly Skilled +3, Bad Reputation -1, Weak Writer -1, Incomprehensible -2, Lack of Control -2, Minor Magic Deficiency (Intéllego) -4
 
@@ -2996,13 +2987,13 @@ ABILITIES: Speak Italian 5, Speak Latin 5, Scribe Latin 3, Magic Theory 5, Herme
 
 CONFIDENCE: 3
 
-**REPUTATION:** Icy-Hearted Mercenary 2
+REPUTATION: Icy-Hearted Mercenary 2
 
-**PERSONALITY TRAITS:** Brave +2, Loyal -2, Calculating +2
+PERSONALITY TRAITS: Brave +2, Loyal -2, Calculating +2
 
 WEAPONS & ARMOR: Morning Star, Knight's Shield, Ring Mail Hauberk
 
-**ENCUMBRANCE: 2**
+ENCUMBRANCE: 2
 
 TECHNIQUES & FORMS: Creo 1, Intéllego 0, Muto 10, Rego 2, Perdo 0, Animál 3, Aquam 0, Auram 0, Córporem 10, Herbam 0, Ignem 0, Imágonem 0, Mentem 0, Terram 5, Vim 5
 
@@ -3012,7 +3003,7 @@ Your master taught you long ago that it was a mistake to use flashy magicks amon
 
 "I warn you. I am the best soldier in all of Italy."
 
-#### INDEPENDENT REBEL (TREMERE)
+#### Independent Rebel (Tremere)
 
 Intelligence +2 Presence +1
 
@@ -3022,21 +3013,21 @@ Strength -2 Dexterity -2
 
 Stamina +2 Ouickness -2
 
-**AGE:** 22
+AGE: 22
 
 VIRTUES & FLAWS: Learn From Mistakes (Certámen) +1, Vengeance Passion +1, Knack (Certámen) +2, Self-Confident +3, Highly Skilled +3, Blatant Gift -1, Dark Secret -1, Infamous Master -1, No Sigil -1, Obsessed (Power) -1, Stingy Master -1, Minor Magic Deficiency (Creo) -4
 
-**ABILITIES:** Speak Italian 4, Speak Latin 5, Scribe Latin 3, Magic Theory 5, Hermes Law 1, Hermes Lore 2, Hermes History 2, Parma Magica 3, Certámen 6, Finesse 1, Penetration 2, Guile 2, Intimidation 2, Intrigue 1, Leadership 2, Subterfuge 2
+ABILITIES: Speak Italian 4, Speak Latin 5, Scribe Latin 3, Magic Theory 5, Hermes Law 1, Hermes Lore 2, Hermes History 2, Parma Magica 3, Certámen 6, Finesse 1, Penetration 2, Guile 2, Intimidation 2, Intrigue 1, Leadership 2, Subterfuge 2
 
 CONFIDENCE: 6
 
-**REPUTATION:** Trouble Maker 2
+REPUTATION: Trouble Maker 2
 
-**PERSONALITY TRAITS:** Brave -1, Liar +3, Back-Stabber +3
+PERSONALITY TRAITS: Brave -1, Liar +3, Back-Stabber +3
 
 WEAPONS & ARMOR: None
 
-**ENCUMBRANCE:**0
+ENCUMBRANCE: 0
 
 TECHNIQUES & FORMS: Creo 4, Intéllego 0, Muto 0, Perdo 0, Rego 7, Animál 6, Aquam 0, Auram 0, Córporem 6, Herbam 0, Ignem 7, Imágonem 1, Mentem 6, Terram 0, Vim 0
 
@@ -3046,7 +3037,7 @@ When your master came to the Roman Tribunal long ago, he was full of hope, ready
 
 "Certámen!"
 
-#### LITERATUS STUDENT (JERBITON)
+#### Literatus Student (Jerbiton)
 
 Intelligence +3 Presence +2
 
@@ -3056,13 +3047,13 @@ Strength -2 Dexterity -3
 
 Stamina 0 Quickness -1
 
-**AGE:** 28
+AGE: 28
 
 VIRTUES FLAWS: Book-Learner + 1, Educated + 1, The Gentle Gift + 1, Very Knowledgeable + 3, Magical Affinity (Intéllego) + 4, Deep Sleeper - 1, Clumsy - 2, Noncombatant - 2, Major Magic Deficiency (Perdo) - 5
 
 ABILITIES: Speak Italian 4, Speak Latin 5, Scribe Arabic 2, Scribe Greek 2, Scribe Latin 3, Magic Theory 5, Hermes Law 2, Hermes Lore 2, Hermes History 3, Magic Affinity — Intéllego 3, Parma Magica 2, Concentration 1, Finesse 1, Charisma 2, Charm 2, Debate 2, Diplomacy 2, Folk Ken 2, Teaching 1, Area Lore — Bologna 2, Church Knowledge 2, Humanities 2, Theology 2
 
-**CONFIDENCE: 3**
+CONFIDENCE: 3
 
 REPUTATION: None
 
@@ -3070,9 +3061,9 @@ PERSONALITY TRAITS: Curious +2, Good Natured +1
 
 WEAPONS & ARMOR: None
 
-**ENCUMBRANCE:** 0
+ENCUMBRANCE: 0
 
-**TECHNIQUES & FORMS:** Creo 2, Intéllego 10, Muto 3, Perdo 2, Rego 2, Animál 2, Aquam 0, Auram 0, Córporem 8, Herbam 1, Ignem 0, Imágonem 2, Mentem 8, Terram 0, Vim 1
+TECHNIQUES & FORMS: Creo 2, Intéllego 10, Muto 3, Perdo 2, Rego 2, Animál 2, Aquam 0, Auram 0, Córporem 8, Herbam 1, Ignem 0, Imágonem 2, Mentem 8, Terram 0, Vim 1
 
 SPELLS: The Chirurgeon's Healing Touch (Creo Córporem 20), The Inexorable Search (Intéllego Córporem 20), Eyes of the Past (Intéllego Imágonem 20), Thoughts Within Babble (Intéllego Mentem 25), Peering into the Mortal Mind (Intéllego Mentem 30), Enchantment of Detachment (Muto Mentem 15), Aura of Rightful Authority (Rego Mentem 20)
 
@@ -3080,7 +3071,7 @@ It was your good fortune to be an apprentice at Literatus, one of the most schol
 
 "A man in Rome was selling the most beautiful illuminated text. I'm sure we could afford it, perhaps by fasting for a few days. It would be worth it."
 
-## NECROMANCER (Ex MISCELLANEA)
+#### Necromander (Ex Miscellanea)
 
 Intelligence +4 Presence -3
 
@@ -3088,7 +3079,7 @@ Perception +1 Communication -2
 
 Strength 0 Dexterity -1 Stamina +2 Quickness -1
 
-**AGE:** 24
+AGE: 24
 
 VIRTUES & FLAWS: Cautious Sorcerer (ghosts and corpses) +1, Exceptional Talent +1, Extra Arts +1, Magical Affinity (ghosts and corpses) +1, Special Circumstances (someone dying nearby) +1, Ghostly Warder +3, Bad Reputation -1, The Blatant Gift -1, Haunted -2, Susceptibility to Divine Power -4
 
@@ -3096,15 +3087,15 @@ ABILITIES: Speak Italian 4, Speak Latin 5, Scribe Latin 3, Magic Theory 5, Herme
 
 CONFIDENCE: 3
 
-**REPUTATION:** Necromancer 2
+REPUTATION: Necromancer 2
 
 PERSONALITY TRAITS: Morbid +3, Uncaring +1
 
 WEAPONS & ARMOR: None
 
-**ENCUMBRANCE:**0
+ENCUMBRANCE: 0
 
-**TECHNIQUES & FORMS:** Creo 0, Intéllego 0, Muto 2, Perdo 0, Rego 10, Animál 3, Aquam 0, Auram 0, Córporem 9, Herbam 0, Ignem 0, Imágonem 0, Mentem 8, Terram 0, Vim 5
+TECHNIQUES & FORMS: Creo 0, Intéllego 0, Muto 2, Perdo 0, Rego 10, Animál 3, Aquam 0, Auram 0, Córporem 9, Herbam 0, Ignem 0, Imágonem 0, Mentem 8, Terram 0, Vim 5
 
 SPELLS: Charm Against Putrefaction (Creo Córporem 5), Awaken the Slumbering Corpse (Rego Córporem 20), Whispers Through the Black Gate (Intéllego Córporem 15), The Walking Corpse (Rego Córporem 25), Incantation of Summoning the Dead (Rego Mentem 25), Summon the Haunting Spirit (Rego Mentem 25), Coerce the Spirits of the Night (Rego Mentem 35)
 
@@ -3112,7 +3103,7 @@ For 15 years you lived in the catacombs of Vardian's Tomb, where your master tau
 
 "I saw the most wonderful corpse being buried in that last town. Why don't we wait here a few days so I can dig it up? Really, I'm sure no one will notice, and if they do, we can deal with them."
 
-# MAGiC ITEM MERCHANT (VERDITIUS)
+#### Magic Item Merchant (Verditius)
 
 Intelligence +4 Presence -3
 
@@ -3138,7 +3129,7 @@ WEAPONS & ARMOR: Quarterstaff
 
 ENCUMBRANCE: 0
 
-TECHNIQUES & FORMS: Creo 10, Intéllego 4,Muto 5, Perdo 1, Rego 5, Animal 0, Aquam 0, Auram 0, Cérporem 2, Herbam 0, Ignem 0, Imágonem 8, Mentem 0, Terram 0, Vim 5
+TECHNIQUES & FORMS: Creo 10, Intéllego 4,Muto 5, Perdo 1, Rego 5, Animal 0, Aquam 0, Auram 0, Córporem 2, Herbam 0, Ignem 0, Imágonem 8, Mentem 0, Terram 0, Vim 5
 
 SPELLS:Phantasmal Animal (Creo Imágonem 20),Phantasm of the Human Form (Creo Imágonem 25), Notes of a more expensive than that, good sir." Delightful Sound (Muto Imágonem 10), ImagePhantom (Muto Imágonem 20), Invisibility of the Standing Wizard (Perdo Imágonem 15), Sense the Nature of Vis (Intéllego Vim 10), Scales of the Magical Weight (Intéllego Vim 15), Perceive the Magical Scent (Intéllego Vim 20), Gather the Essence of the Beast (Muto Vim 15)
 
