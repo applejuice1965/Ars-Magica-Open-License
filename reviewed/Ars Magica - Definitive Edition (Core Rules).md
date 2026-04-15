@@ -6,7 +6,7 @@ The extensively revised and expanded deluxe version of Ars Magica 5th Edition.
 
 Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License
 
-*[Completion state: As good as all text and formatting manually fixed and reviewed at length. Definitive Edition is now in excellent readable format including TOC and Index links - and it's likely content complete. Remaining: Full pass review by others; Minor details such as Stat Blocks and Bestiary and a few more sections have fully corrected text/headings/tables but retains simple formatting that could be improved with br's, italic, bold etc; Character Sheet will likely not be done in markdown (lol); The Ability links do not work - until we rewrite all of the Abilities to use headings; The Traditional Index with direct links is not yet completely done - working on it!]*
+*[Completion state: Done. All text and formatting manually fixed and reviewed at length. Definitive Edition is now in excellent readable format including complete TOC/Virtues list/Flaws list/Ability list/Spells Index/Bestiary Index/Traditional Index links. It should be content complete with several fixes (see below). Remaining: Full pass review by others; Minor details such as Stat Blocks and Bestiary and a few more sections have fully corrected text/headings/tables but retains simple formatting that could be improved with br's, italic, bold etc; Character Sheet will likely not be done in markdown (lol)]*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings (except headings denoting spell LEVEL sections)*
 
@@ -51,6 +51,7 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - p263: Casting Tablets" section is weird have the table within the text (fixed)
 - p275: Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading, David Chart: "The heading got taken into the insert, and not replaced in the main text.", flow problem is fixed in the markdown)
 - p325: Creo Auram Guidelines: Bottom bullet points are indented under Level 25 (fixed)
+- Inconsistent use of "unravelling" (British spelling) and "unraveling" (American spelling). Three of each throughout the book (not fixed, but we probably should due to linkage)
 
 Found Index Issues (p558-568):
 - Arcane Lore listed as Ability instead of Virtue in Index (fixed)
@@ -62,6 +63,7 @@ Found Index Issues (p558-568):
 - Secretive (Flaw) is twice in the index - the first one is correct (fixed)
 - Sense Holiness and Unholiness (Virtue) is missing in index (fixed, it's page 107)
 - Sense Passions (Ability) is missing in Index (fixed, it's page 170)
+- Templar Confrere or Consoseur (Virtue) has a typo. The correct spelling is "Consoeur" - in the chapter it's correct.
   
 ---
 
@@ -25460,208 +25462,182 @@ p168-170 p391
 | Sympathetic Connections | [220](#sympathetic-connections) |
 | Tainted Offspring (Flaw) | [146](#tainted-offspring) |
 | Tainted Treasure (Virtue) | [111](#tainted-treasure) |
-
-## Traditional Index (remained legacy not linked yet)
-
-Tainted Vis ............................. 422
-Tainted with Evil (Flaw) ......... 146
-Talisman ................................. 259
-Targets ....................305, 309-311
-Size ...................................... 310
-Volume ................................ 311
-Teaching ................................ 378
-Teaching (Ability) .................. 171
-Technique .......................207-208
-Temperate (Flaw) ................... 146
-Tempestaria 
-(Weather Witch) .................... 245
-Templar Administrator 
-(Virtue) ................................... 111
-Templar Commander 
-(Virtue) ................................... 111
-Templar Confrere or Consoseur 
-(Virtue) ................................... 112
-Templar Office Holder 
-(Virtue) ................................... 112
-Templar Prestige (Virtue) ...... 112
-Templar Servant (Virtue) ....... 113
-Templar Specialist (Virtue) .... 113
-Temporal Influence (Virtue) ... 113
-Terram (Art) ............209, 359-364
-Tethered Magic (Virtue) ........ 113
-Theology (Ability) ..........171-172
-Christian .............................. 171
-Islam .................................... 172
-Judaism ................................ 172
-Theological Virtues ................ 499
-Through the Aegis ................. 173
-Thrown Weapon (Ability) ..... 172
-Time, Limit of ........................ 212
-Tithe ....................................... 504
-Tonsure .................................. 500
-Tormenting Master (Flaw) ..... 146
-Touch (Range) ....................... 303
-Tough (Virtue) ....................... 113
-Tough Guy (Template) ............ 33
-Towns ..............................510-511
-Town Magistrate (Virtue) ...... 113
-Tractatus ......................... 179, 380
-Trade ...................................... 509
-Trained Assassin (Virtue) ....... 113
-Trained Group ............... 385, 396
-Training .................................. 377
-Training Apprentices ......270-272
-Training Creatures ..........384-386
-Tragic Life (Flaw) ................... 147
-Travel ......................408, 507-508
-Traveling Childhood ................ 48
-Treasure Hunting ............519-520
-Tremere (Template) ................. 42
-Tremere, House ................. 11, 16
-Trianoma .............................. 6, 10
-
-Tribunals .......................... 6, 21-23
-Grand ..................................... 21
-Regional ................................. 23
-Trivium .................................... 160
-Troubadour/Trobairitz 
-(Virtue) .................................... 113
-Troupe-Style 
-Roleplaying .................. 4, 528-530
-Troupe Upbringing (Virtue) ... 113
-True Faith ................................ 419
-True Faith (Virtue) .................. 113
-True Feeling, Limit of .............. 212
-True Love (Flaw) ..................... 147
-True Love (PC) (Virtue) .......... 113
-True Names ............................. 445
-Turb Trained (Virtue) ............. 114
-Twilight ............................ 228-230
-Scars ............................... 30, 229
-Twilight Prone (Flaw) ............. 148
-Tytalus (Template) .................... 42
-Tytalus, House .................... 11, 17
-Tzadik Nistar (Flaw) ............... 148
-Unaffected by The Gift 
-(Virtue) .................................... 114
-Unaging (Virtue) ..................... 114
-Unbaptized (Flaw) .................. 148
-Unbearable to (Beings) 
-(Flaw) ....................................... 148
-Unbound Tongue (Virtue) ...... 114
-Uncertain Faith (Flaw) ............ 148
-Uncontrollable Strength 
-(Flaw) ....................................... 148
-Un-Fun History ....................... 496
-Unhappily Married (Flaw) ...... 148
-Unimaginative Learner (Flaw) ... 148
-Uninspirational (Flaw) ............ 148
-University Dean (Flaw) ........... 149
-University Grammar Teacher 
-(Virtue) .................................... 114
-Unlucky (Flaw) ........................ 149
-Unnatural Magic (Flaw) .......... 149
-Unpredictable Magic (Flaw) ... 149
-Unraveling .............................. 226
-Unruly Air (Flaw) .................... 149
-Unspecialized (Flaw) ............... 149
-Unstructured Caster (Flaw) ..... 149
-Until (Condition) (Duration) ... 237
-Untrained Group ..................... 396
-Urban (Covenant Situation) ... 177
-Urban (Hook) .................. 181-182
-Using Enchanted Devices ....... 259
-Usurer (Flaw) ........................... 149
-Variable Outcomes ................. 516
-Variable Power (Virtue) .......... 114
-Vassal ...................................... 506
-Venditor (Virtue) .................... 114
-
-Venus’ Blessing (Virtue) ..........114
-Verditius (Template) .................43
-Verditius, House .......................17
-Verditius Magic ............... 240-243
-Verditius Magic (Virtue) .........114
-Vendetta (Flaw) .......................149
-Vengeful Powers (Flaw) ..........150
-Vernus .....................................175
-Viaticarus (Flaw) ......................150
-Viea ...........................................10
-Vim (Art) ................. 209, 364-372
-Virtues and 
-Flaws ................ 26, 45, 47, 61-154
-List of Virtues ................... 67-68
-List of Flaws .................. 117-118
-Vis .......................6, 180, 212, 250
-Sources .................................422
-Limit of .................................212
-Vision ......................................306
-
-Visions (Flaw) ......................... 150
-Voice (Range) ........................ 303
-Voice of the (Land) (Virtue) .. 115
-Vow (Flaw) ............................. 150
-Vulnerable Casting (Flaw) ...... 150
-Vulnerable Magic (Flaw) ........ 151
-Vulnerable to Folk Tradition 
-(Flaw) ...................................... 151
-Wanderer (Virtue) .................. 115
-Wanderlust (Flaw) .................. 151
-Wards ..................................... 306
-Warhammer ........................... 402
-Warped by Magic (Flaw) ....... 151
-Warped Magic (Flaw) ............ 151
-Warped Senses (Flaw) ............ 151
-Warping .......................389-391
-Points .................................. 389
-Score ..................................... 30
-Limit of ................................ 212
-Warrior (Virtue) ..................... 115
-Waster of Vis (Flaw) ............... 152
-Water-Way (Range) ................. 70
-Ways of the (Land) (Virtue) .. 115
-Weak Characteristics (Flaw) .. 152
-Weak Enchanter (Flaw) .......... 152
-Weak Magic (Flaw) ................ 152
-Weak Magic Resistance 
-(Flaw) ...................................... 152
-Weak Parens (Flaw) ................ 152
-Weak Personality (Flaw) ........ 153
-Weak Scholar (Flaw) .............. 153
-Weak Spontaneous Magic 
-(Flaw) ...................................... 153
-
-Weakness (Flaw) ..................... 154
-Weak-Willed (Flaw) ................ 154
-Wealthy (Virtue) ..................... 115
-Weapons .......................... 400-402
-Weird Magic (Flaw) ................ 154
-Well-Traveled (Virtue) ........... 116
-Whistle Up The Wind 
-(Ability) ................................... 172
-Whistle Up The Wind 
-(Virtue) .................................... 116
-Wilderness Sense (Ability) ...... 172
-Wilderness Sense (Virtue) ....... 116
-Winter ..................................... 176
-Winter Ruins ........................... 178
-Wisdom from Ignorance 
-(Virtue) .................................... 116
-Wise One (Virtue) .................. 116
-Witch (Template) ..................... 35
-Witch Marks (Flaw) ................ 154
-Withstand Casting (Virtue) .... 116
-Wizard’s March ......................... 18
-Wizard’s Sigils ................. 224, 314
-Wizard’s Twilight ............. 228-230
-Wizard’s War ............................ 21
-Women in 
-Mythic Europe ................. 511-514
-Words and Gestures ......... 216-217
-Wound Penalties ............... 30, 404
-Wounds ............................ 404-406
-Wrath ...................................... 499
-Wrathful (Flaw) ....................... 154
-Writing books .................. 379-380
-Year (Duration) ....................... 305
-Year + 1 (Duration) ................. 237
+| Tainted Vis | [422](#tainted-vis) |
+| Tainted with Evil (Flaw) | [146](#tainted-with-evil) |
+| Talisman | [259](#talisman-attunement) |
+| Targets | [305](#target), [309–311](#container-targets) |
+| &nbsp;&nbsp;Size | [310](#targets-and-sizes) |
+| &nbsp;&nbsp;Volume | [311](#volumes-and-targets) |
+| Teaching | [378](#teaching-1) |
+| Teaching (Ability) | [171](#teaching) |
+| Technique | [207–208](#techniques) |
+| Temperate (Flaw) | [146](#temperate) |
+| Tempestaria (Weather Witch) | [245](#tempestaria-weather-witch) |
+| Templar Administrator (Virtue) | [111](#templar-administrator) |
+| Templar Commander (Virtue) | [111](#templar-commander) |
+| Templar Confrere or Consoeur (Virtue) | [112](#templar-confrere-or-consoeur) |
+| Templar Office Holder (Virtue) | [112](#templar-office-holder) |
+| Templar Prestige (Virtue) | [112](#templar-prestige) |
+| Templar Servant (Virtue) | [113](#templar-servant) |
+| Templar Specialist (Virtue) | [113](#templar-specialist) |
+| Temporal Influence (Virtue) | [113](#temporal-influence) |
+| Terram (Art) | [209](#terram-te-earth), [359–364](#terram-spells) |
+| Tethered Magic (Virtue) | [113](#tethered-magic) |
+| Theology (Ability) | [171–172](#theology-christian) |
+| &nbsp;&nbsp;Christian | [171](#theology-christian) |
+| &nbsp;&nbsp;Islam | [172](#theology-islam) |
+| &nbsp;&nbsp;Judaism | [172](#theology-judaism) |
+| Theological Virtues | [499](#doctrine) |
+| Through the Aegis | [173](#through-the-aegis) |
+| Thrown Weapon (Ability) | [172](#thrown-weapon) |
+| Time, Limit of | [212](#the-limit-of-time) |
+| Tithe | [504](#resources-1) |
+| Tonsure | [500](#sacraments) |
+| Tormenting Master (Flaw) | [146](#tormenting-master) |
+| Touch (Range) | [303](#ranges) |
+| Tough (Virtue) | [113](#tough) |
+| Tough Guy (Template) | [33](#the-tough-guy) |
+| Towns | [510–511](#towns) |
+| Town Magistrate (Virtue) | [113](#town-magistrate) |
+| Tractatus | [179](#library), [380](#tractatus) |
+| Trade | [509](#towns-and-trade) |
+| Trained Assassin (Virtue) | [113](#trained-assassin) |
+| Trained Group | [385](#trained-groups), [396](#trained-group) |
+| Training | [377](#training) |
+| Training Apprentices | [270–272](#training-your-apprentice) |
+| Training Creatures | [384–386](#training-creatures) |
+| Tragic Life (Flaw) | [147](#tragic-life) |
+| Travel | [408](#travel), [507–508](#travel-1) |
+| Traveling Childhood | [48](#sample-childhoods) |
+| Treasure Hunting | [519–520](#treasure-hunting) |
+| Tremere (Template) | [42](#tremere) |
+| Tremere, House | [11](#the-domination-of-house-tremere), [16](#house-tremere) |
+| Trianoma | [6](#glossary), [10](#trianoma--viea) |
+| Tribunals | [6](#glossary), [21–23](#tribunals) |
+| &nbsp;&nbsp;Grand | [21](#the-grand-tribunal) |
+| &nbsp;&nbsp;Regional | [23](#regional-tribunals) |
+| Trivium | [160](#artes-liberales) |
+| Troubadour/Trobairitz (Virtue) | [113](#troubadourtrobairitz) |
+| Troupe-Style Roleplaying | [4](#basic-ideas), [528–530](#troupe-style-roleplaying) |
+| Troupe Upbringing (Virtue) | [113](#troupe-upbringing) |
+| True Faith | [419](#true-faith-1) |
+| True Faith (Virtue) | [113](#true-faith) |
+| True Feeling, Limit of | [212](#the-limit-of-true-feeling) |
+| True Love (Flaw) | [147](#true-love) |
+| True Love (PC) (Virtue) | [113](#true-love-pc) |
+| True Names | [445](#true-names-and-synthemata) |
+| Turb Trained (Virtue) | [114](#turb-trained) |
+| Twilight | [228–230](#wizards-twilight) |
+| &nbsp;&nbsp;Scars | [30](#format), [229](#effects-of-twilight) |
+| Twilight Prone (Flaw) | [148](#twilight-prone) |
+| Tytalus (Template) | [42](#tytalus) |
+| Tytalus, House | [11](#the-corruption-of-house-tytalus), [17](#house-tytalus) |
+| Tzadik Nistar (Flaw) | [148](#tzadik-nistar) |
+| Unaffected by The Gift (Virtue) | [114](#unaffected-by-the-gift) |
+| Unaging (Virtue) | [114](#unaging) |
+| Unbaptized (Flaw) | [148](#unbaptized) |
+| Unbearable to (Beings) (Flaw) | [148](#unbearable-to-beings) |
+| Unbound Tongue (Virtue) | [114](#unbound-tongue) |
+| Uncertain Faith (Flaw) | [148](#uncertain-faith) |
+| Uncontrollable Strength (Flaw) | [148](#uncontrollable-strength) |
+| Un-Fun History | [496](#un-fun-history) |
+| Unhappily Married (Flaw) | [148](#unhappily-married) |
+| Unimaginative Learner (Flaw) | [148](#unimaginative-learner) |
+| Uninspirational (Flaw) | [148](#uninspirational) |
+| University Dean (Flaw) | [149](#university-dean) |
+| University Grammar Teacher (Virtue) | [114](#university-grammar-teacher) |
+| Unlucky (Flaw) | [149](#unlucky) |
+| Unnatural Magic (Flaw) | [149](#unnatural-magic) |
+| Unpredictable Magic (Flaw) | [149](#unpredictable-magic) |
+| Unraveling | [226](#unravelling) |
+| Unruly Air (Flaw) | [149](#unruly-air) |
+| Unspecialized (Flaw) | [149](#unspecialized) |
+| Unstructured Caster (Flaw) | [149](#unstructured-caster) |
+| Until (Condition) (Duration) | [237](#merinita--faerie-magic) |
+| Untrained Group | [396](#untrained-group) |
+| Urban (Covenant Situation) | [177](#urban) |
+| Urban (Hook) | [181–182](#minor-hooks) |
+| Using Enchanted Devices | [259](#using-enchanted-devices) |
+| Usurer (Flaw) | [149](#usurer) |
+| Variable Outcomes | [516](#variable-outcomes) |
+| Variable Power (Virtue) | [114](#variable-power) |
+| Vassal | [506](#feudalism) |
+| Venditor (Virtue) | [114](#venditor) |
+| Venus' Blessing (Virtue) | [114](#venus-blessing) |
+| Verditius (Template) | [43](#verditius) |
+| Verditius, House | [17](#house-verditius) |
+| Verditius Magic | [240–243](#verditius--verditius-magic) |
+| Verditius Magic (Virtue) | [114](#verditius-magic) |
+| Vendetta (Flaw) | [149](#vendetta) |
+| Vengeful Powers (Flaw) | [150](#vengeful-powers) |
+| Vernus | [175](#vernus) |
+| Viaticarus (Flaw) | [150](#viaticarus) |
+| Viea | [10](#trianoma--viea) |
+| Vim (Art) | [209](#vim-vi-power), [364–372](#vim-spells) |
+| Virtues and Flaws | [26](#virtues-and-flaws), [45](#virtues-and-flaws-1), [47](#quick-and-easy-virtues-and-flaws), [61–154](#chapter-4-virtues-and-flaws) |
+| &nbsp;&nbsp;List of Virtues | [67–68](#list-of-virtues) |
+| &nbsp;&nbsp;List of Flaws | [117–118](#list-of-flaws) |
+| Vis | [6](#glossary), [180](#vis), [212](#raw-vis), [250](#vis-1) |
+| &nbsp;&nbsp;Sources | [422](#vis-sources) |
+| &nbsp;&nbsp;Limit of | [212](#the-limit-of-vis) |
+| Vision | [306](#magical-senses) |
+| Visions (Flaw) | [150](#visions) |
+| Voice (Range) | [303](#ranges) |
+| Voice of the (Land) (Virtue) | [115](#voice-of-the-land) |
+| Vow (Flaw) | [150](#vow) |
+| Vulnerable Casting (Flaw) | [150](#vulnerable-casting) |
+| Vulnerable Magic (Flaw) | [151](#vulnerable-magic) |
+| Vulnerable to Folk Tradition (Flaw) | [151](#vulnerable-to-folk-tradition) |
+| Wanderer (Virtue) | [115](#wanderer) |
+| Wanderlust (Flaw) | [151](#wanderlust) |
+| Wards | [306](#magical-wards) |
+| Warhammer | [402](#great-weapons) |
+| Warped by Magic (Flaw) | [151](#warped-by-magic) |
+| Warped Magic (Flaw) | [151](#warped-magic) |
+| Warped Senses (Flaw) | [151](#warped-senses) |
+| Warping | [389–391](#warping-3) |
+| &nbsp;&nbsp;Points | [389](#gaining-warping-points) |
+| &nbsp;&nbsp;Score | [30](#format) |
+| &nbsp;&nbsp;Limit of | [212](#the-limit-of-warping) |
+| Warrior (Virtue) | [115](#warrior) |
+| Waster of Vis (Flaw) | [152](#waster-of-vis) |
+| Water-Way (Range) | [70](#atlantean-magic) |
+| Ways of the (Land) (Virtue) | [115](#ways-of-the-land) |
+| Weak Characteristics (Flaw) | [152](#weak-characteristics) |
+| Weak Enchanter (Flaw) | [152](#weak-enchanter) |
+| Weak Magic (Flaw) | [152](#weak-magic) |
+| Weak Magic Resistance (Flaw) | [152](#weak-magic-resistance) |
+| Weak Parens (Flaw) | [152](#weak-parens) |
+| Weak Personality (Flaw) | [153](#weak-personality) |
+| Weak Scholar (Flaw) | [153](#weak-scholar) |
+| Weak Spontaneous Magic (Flaw) | [153](#weak-spontaneous-magic) |
+| Weakness (Flaw) | [154](#weakness) |
+| Weak-Willed (Flaw) | [154](#weak-willed) |
+| Wealthy (Virtue) | [115](#wealthy) |
+| Weapons | [400–402](#melee-weapon-statistics) |
+| Weird Magic (Flaw) | [154](#weird-magic) |
+| Well-Traveled (Virtue) | [116](#well-traveled) |
+| Whistle Up The Wind (Ability) | [172](#whistle-up-the-wind-1) |
+| Whistle Up The Wind (Virtue) | [116](#whistle-up-the-wind) |
+| Wilderness Sense (Ability) | [172](#wilderness-sense-1) |
+| Wilderness Sense (Virtue) | [116](#wilderness-sense) |
+| Winter | [176](#winter) |
+| Winter Ruins | [178](#winter-ruins) |
+| Wisdom from Ignorance (Virtue) | [116](#wisdom-from-ignorance) |
+| Wise One (Virtue) | [116](#wise-one) |
+| Witch (Template) | [35](#the-witch) |
+| Witch Marks (Flaw) | [154](#witch-marks) |
+| Withstand Casting (Virtue) | [116](#withstand-casting) |
+| Wizard's March | [18](#the-peripheral-code) |
+| Wizard's Sigils | [224](#sigils), [314](#the-wizards-sigil) |
+| Wizard's Twilight | [228–230](#wizards-twilight) |
+| Wizard's War | [21](#wizards-war) |
+| Women in Mythic Europe | [511–514](#public-power-for-women) |
+| Words and Gestures | [216–217](#words-and-gestures) |
+| Wound Penalties | [30](#format), [404](#wound-table) |
+| Wounds | [404–406](#wounds) |
+| Wrath | [499](#doctrine) |
+| Wrathful (Flaw) | [154](#wrathful) |
+| Writing Books | [379–380](#writing-books) |
+| Year (Duration) | [305](#durations) |
+| Year + 1 (Duration) | [237](#merinita--faerie-magic) |
