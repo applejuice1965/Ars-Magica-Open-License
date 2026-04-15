@@ -2,11 +2,11 @@
 
 The extensively revised and expanded deluxe version of Ars Magica 5th Edition.
 
+## Markdown Version Specifics
+
 Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License
 
 *[Completion state: As good as all text and formatting manually fixed and reviewed at length. Definitive Edition is now in excellent readable format including TOC and Index links - and it's likely content complete. Remaining: Full pass review by others; Minor details such as Stat Blocks and Bestiary and a few more sections have fully corrected text/headings/tables but retains simple formatting that could be improved with br's, italic, bold etc; Character Sheet will likely not be done in markdown (lol); The Ability links do not work - until we rewrite all of the Abilities to use headings; The Traditional Index with direct links is not yet completely done - working on it!]*
-
-*Some identified issues from source PDF (more than these were fixed): House Tremere voting sigil reference on p16 to p314 likely should be p224 (fixed); "Casting Tablets" section is weird have the table within the text (fixed); Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading, David Chart: "The heading got taken into the insert, and not replaced in the main text.", flow problem is fixed); Creo Auram Guidelines unclear notes under Level 25 (fixed); Arcane Lore listed as Ability instead of Virtue in Index (fixed); Corrupt Beasts misplaced in Index (fixed); Enchanting (Ability) (Ability) missing from Index (fixed); Premonitions (Virtue) missing from Index (fixed); Index Satan points to p21 - there is no Satan there (but mentioned 6 other times in the book, not fixed); Secretive (Flaw) is twice in the index - the first one is correct (fixed); Sense Holiness and Unholiness (Virtue) is missing in index,(fixed, it's page 107); Sense Passions (Ability) is missing in Index (fixed, it's page 170);*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings (except headings denoting spell LEVEL sections)*
 
@@ -43,6 +43,27 @@ Open License Markdown version by OriginalMadman, https://github.com/OriginalMadm
 [Spell Guidelines Index](#spell-guidelines-index)<br>
 [Bestiary Index](#bestiary-index)<br>
 [Traditional Index](#traditional-index)<br>
+
+### Identified Issues From Source PDF Release
+
+Some identified issues present in source PDF (latest release as per march 2026). Note that a few more than these were fixed on the fly (unfortunately didn't start listing them until later in the process):
+- p16: House Tremere voting sigil reference to p314 likely should be p224 (fixed)
+- p263: Casting Tablets" section is weird have the table within the text (fixed)
+- p275: Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading, David Chart: "The heading got taken into the insert, and not replaced in the main text.", flow problem is fixed in the markdown)
+- p325: Creo Auram Guidelines: Bottom bullet points are indented under Level 25 (fixed)
+
+Found Index Issues (p558-568):
+- Arcane Lore listed as Ability instead of Virtue in Index (fixed)
+- Casting Tablet entry in index pointing to p180 which only covers covenant resource, the rules are on p263 (fixed)
+- Corrupt Beasts misplaced in Index (fixed)
+- Enchanting (Ability) (Ability) missing from Index (fixed)
+- Premonitions (Virtue) missing from Index (fixed)
+- Index Satan points to p21 - there is no Satan there (but mentioned 6 other times in the book, not fixed)
+- Secretive (Flaw) is twice in the index - the first one is correct (fixed)
+- Sense Holiness and Unholiness (Virtue) is missing in index (fixed, it's page 107)
+- Sense Passions (Ability) is missing in Index (fixed, it's page 170)
+  
+---
 
 ## Step into a Medieval World of Magic & Myth
 
@@ -6024,53 +6045,35 @@ You adhere to a restrictive code of conduct that forbids certain behavior, proba
 You are the size of a child. Your comfortable walking speed is twothirds that of a normal person. Your Size is -2, so the severity of wounds you take increases in three point increments rather than five point increments (see page 404). You take a -1 penalty to each of Strength and Stamina, which may reduce each Characteristic as low as -6. You cannot take this Flaw and Giant Blood (page 83), Large (page 89), or Small Frame (page 145).
 
 #### Employed by Company
-
-Minor, Story
-
+*Minor, Story*<br>
 Characters with this Flaw are salaried employees, answerable to an employer, which is normally a merchant company. They may be merchants who travel on behalf of a company, or administrators who are answerable to the partners. On the other hand, they are also backed up by the resources of the company. This Flaw may also be used for salaried employees of other organizations.
 
 #### Enemies
-
-Major, Story
-
+*Major, Story*<br>
 Someone is causing trouble for you, such as a local baron or bishop, a band of outlaws, or a really nasty innkeeper. The enemy must be powerful enough to endanger you — this is best agreed on with the storyguide and the rest of the troupe.
 
 #### Enfeebled
-
-Major, General
-
+*Major, General*<br>
 You cannot exert yourself for longer than a few seconds. Any need for rapid movement, such as combat or a chase, leaves you helpless. Long hikes are likewise beyond your capability. You are unable to learn Martial Abilities or any other skills involving physical exertion, since you cannot train in them. If you are a magus, you lose double the normal number of Fatigue levels from casting spells, but you may carry out Laboratory activities as normal.
 
 #### Envied Beauty
-
-Major, Story
-
-The character's beauty draws revulsion and jealousy. This envy does not strike everyone, but vain persons of the character's gender are particularly susceptible to it. Characters with this Flaw may avoid its penalties by refusing to reveal their beauty to the world, which creates its own complications.
-
-A character lacking a positive Presence score may not have this Flaw.
+*Major, Story*<br>
+The character's beauty draws revulsion and jealousy. This envy does not strike everyone, but vain persons of the character's gender are particularly susceptible to it. Characters with this Flaw may avoid its penalties by refusing to reveal their beauty to the world, which creates its own complications. A character lacking a positive Presence score may not have this Flaw.
 
 #### Envious
-
-Major or Minor, Personality
-
+*Major or Minor, Personality*<br>
 You believe that everyone has it better than you do, and that they don't deserve their good fortune, while you do. Thus, you try to ruin their lives and take their goods for yourself. (This is not a good Flaw for a player character, as it is likely to lead to conflict with the other players.)
 
 #### Environmental Magic Condition
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 All of the character's Casting and Lab Totals are halved in certain common conditions related to his environment, for example, whenever he is inside. Note that this should be significantly more restrictive than the Hermetic Flaw Deleterious Circumstances.
 
 #### Environmental Sensitivity
-
-Minor, General
-
+*Minor, General*<br>
 The character is unusually sensitive to an uncommon environmental feature, such as bad air, salt water, or extreme temperatures. Whenever the character is exposed to these conditions, he has a –3 penalty to his Stamina for any debilitation checks (page 406).
 
 #### Evil Destiny
-
-Major, Story
-
+*Major, Story*<br>
 The Infernal realm has taken an interest in the character, but he does not know how or why. Perhaps one of his Powers is actually Infernal, or demons are plotting against him, or he is convinced that he is being stalked by something evil.
 
 He cannot discuss this openly for fear that he will be accused of infernalism, but must be always on his guard against the dark forces that he knows will come for him one day.
@@ -6078,77 +6081,51 @@ He cannot discuss this openly for fear that he will be accused of infernalism, b
 The storyguide will use this Flaw to subtly work the Infernal realm into your character, leaving you unaware of the specifics. You might have other Flaws that relate to the Infernal, but not (yet) know what they are, such as Corrupted Abilities. The character could also simply be Plagued by Demons or Susceptible to the Infernal. Through the course of the story you may eventually discover what his Flaw is, but until then you are only haunted with the knowledge that something about him is not right.
 
 #### Evil Eye
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 You character bears the Evil Eye, the uncontrolled potential to bring harm to others around her. Characters making stress rolls in her presence are subject to an additional botch die. Characters may protect themselves through the use of an amulet or a ritual. decided upon by the troupe, which does not need to be magical or supernatural in nature. A Magic Resistance of 0 or more, including the effect of the Aegis of the Hearth, is also sufficient to guard against this effect.
 
 #### Exciting Experimentation
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Your character's experiments tend to have a flair for the ... dramatic. When rolling on any of the experimentation tables, roll two dice instead of the normal one. The storyguide then chooses and applies the more amusing of your two results.
 
 #### Excommunicate
-
-Major, Story
-
+*Major, Story*<br>
 For your crimes against God and the Church, you have been cast out of your faith, undoing your baptism and driving you from your religious community. You have a bad reputation at level 3 within the Church, and cannot benefit from the sacraments.
 
 #### Exiled Atlantean
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 The character is an exiled Atlantean, she is tainted by her contact with the surface world, and cannot return to her magic regio. This exile is enforced by the very nature of the magic regio to which the Atlanteans are native, so there is no authority figure to which she may appeal, or any obvious method of returning to favor. The exile applies even if the Atlantean left her native magic regio involuntarily. More details about the Atlanteans can be found in Realms of Power: Magic, page 90.
 
 #### Faerie Friend
-
-Minor, Story
-
+*Minor, Story*<br>
 You have an ally among the fay. How much assistance you can get depends on the power of the friend — a small faerie with (relatively) minor powers can accompany you on a day to day basis. Powerful faeries have other business, and may only be available to answer questions and provide guidance, not to accompany you around on your adventures. Your ally is fully sentient, has its own powers. and can speak when it chooses. You may want to have another player act the part. While a faerie companion can be a great boon, it can also be a terrible burden. If it is nasty or mischievous, it could cause trouble for you everywhere. Characters with this Flaw can purchase the Arcane Knowledge Faerie Lore, even if they are normally restricted from purchasing it.
 
 #### Faerie Upbringing
-
-Minor, Personality
-
+*Minor, Personality*<br>
 Perhaps you were abandoned by your true kin, and the faeries found you. Maybe your family actually lived in a faerie forest, or faeries took you as a babe. Though you are now back in human society, you feel at home with and have an enhanced understanding of faeries, magic, and other strange things. However, you find human society, including religion, bizarre. You may learn Faerie Lore at character generation.
 
 #### Failed Journeyman
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 The character has been expelled from a guild due to past illegal or questionable practices. He may not practice his trade in town nor sell his goods there. The character is expected to find another means of livelihood, although no other guild will accept him, so many such men must find a way to practice their trade illegally. He has a bad Reputation of 2 in town.
 
 #### Failed Master
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 Either through faulty management or illegal business practices, the character has run his workshop into the ground. He must work as a journeyman if he wants to practice his trade legally in town. The character has a bad Reputation of 4 in town, and it will be difficult for him to regain his legal status as a master.
 
 #### Failed Monk
-
-Minor Social Status
-
-You were once a member of a cloistered order, but were cast out for some great sin or gross incompetence, or perhaps you ran away and your abbot might allow you to come back after a suitable punishment. Because of this, you have a poor Reputation at level 2 in the local area and within the Church. You no longer need to observe your monastic vows of poverty, chastity, and obedience, though you may still practice them as they might be ingrained in your nature. You may take Academic Abilities during character creation.
-
-Female characters may take this Flaw as Failed Nun.
+*Minor Social Status*<br>
+You were once a member of a cloistered order, but were cast out for some great sin or gross incompetence, or perhaps you ran away and your abbot might allow you to come back after a suitable punishment. Because of this, you have a poor Reputation at level 2 in the local area and within the Church. You no longer need to observe your monastic vows of poverty, chastity, and obedience, though you may still practice them as they might be ingrained in your nature. You may take Academic Abilities during character creation. Female characters may take this Flaw as Failed Nun.
 
 #### Failed Student
-
-Minor, General
-
+*Minor, General*<br>
 The character has studied for a specific university license and failed his final examination. If he passed earlier exams, he may have a scholastic Social Status Virtue showing how far he got. (Obviously, this cannot be Doctor in (Faculty).) The character has a Bad Academic Reputation of 2.
 
 #### The Falling Evil
-
-Major, General
-
+*Major, General*<br>
 The character occasionally suffers convulsions and blackouts. Convulsions occur randomly and infrequently; for any given event, the storyguide should secretly roll a stress die. and if the result is 9 or more then a convulsion will occur at some point during that event, as chosen by the storyguide. This spasm causes random movements and hallucinations. leaving the character temporarily Incapacitated. She collapses to the ground and twitches, and you can make a Stamina roll against an Ease Factor of 9 every round; success means that the convulsion ends, although the character is reduced to the Dazed Fatigue level following a fit. The Falling Evil is usually caused by possession by demons (Art & Academe, page 48), but that form of the illness is usually temporary in nature. The character does not seem to have a disease, and cannot naturally recover from this affliction. It may be that it stems from a different source. In Ancient Greece and Rome, it was called the "divine illness," as it was believed that the gods spoke to those who had such fits.
 
 #### False Power
-
-Major, Supernatural, Tainted
-
+*Major, Supernatural, Tainted*<br>
 One of the character's Supernatural Virtues is associated with the Infernal realm, in addition to the realm with which it would normally be associated, which causes it to appear unholy when subjected to Divine or Infernal investigation. This quality could be because of something inherent to the Power, or perhaps because of the interference of Infernal agents. This Flaw can apply to Supernatural Virtues that define the character's background, like Faerie Blood, Diedne Magic, or even The Gift. In these cases, falsehood permeates the whole of the character's being, causing everything she does to seem unholy to those with the ability to sense it The False Power is often subtly changed by its Infernal aspect, making it more sinister or negative. Here are some examples:
 
 *(False) Premonitions:* The taint of the character's Premonitions Power leaves it vulnerable to Infernal manipulation, even if the character has Magic Resistance. Many of the character's premonitions are accurate, and pursuit of the stories they evoke is usually worthwhile. These valuable insights often lead characters to trust lies that a demon offers through the Power in order to manipulate their response to pivotal events.
@@ -6166,52 +6143,35 @@ If the character realizes his Power is corrupted, he may decide to seek help fro
 This Flaw may be taken multiple times, once for each appropriate Supernatural Virtue that the character possesses, but in each subsequent instance as a Minor Flaw rather than a Major one. Also note that this Flaw cannot apply to Supernatural Virtues that are affiliated to the Infernal realm in the first place, and the troupe may not allow it to apply to Virtues derived from the Divine.
 
 #### Favors
-
-Major, Story
-
+*Major, Story*<br>
 You owe a boon to someone (or to a great many people), and may be called upon to return the favor at any time. The consequences of ignoring such a request can range from mild to deadly serious, at the storyguide's discretion.
 
 #### Fear
-
-Minor, Personality
-
+*Minor, Personality*<br>
 You are scared of something that you are likely to encounter fairly often. Its presence makes you edgy and very uncomfortable.
 
 #### Feral Scent
-
-Minor, General
-
+*Minor, General*<br>
 Perhaps due to his beast blood or feral upbringing, the character has the strong natural smell of a wild animal. Humans tend to avoid being too close to him, and may be on edge in his vicinity without knowing why. He may well spook domesticated animals if he surprises them. He suffers a -1 penalty to social interactions (which stacks with the penalties imposed by The Gift, if he has it), and develops a negative Reputation of Unclean at level 2. However, if he has Initiated the Sensory Magic Mystery (described in Houses of Hermes: Mystery Cults, page 27), any spells he casts with a Scent Target have twice their normal area of effect.
 
 #### Feral Upbringing
-
-Minor, General
-
+*Minor, General*<br>
 You grew up in the wilderness, either raised by wild animals or surviving on your own. For much of your life you could not speak, and knew nothing of human ways. Now that you have joined human society (or the covenant), you have learned to understand some basic spoken phrases, but civilized life is still a mystery you want little part of. You may only choose beginning Abilities that you could have learned in the wilds. In particular, you may not start with a score in a Language. In your first five years you gain 120 experience points, which must be split between (Area) Lore, Animal Handling, Athletics, Awareness, Brawl, Hunt, Stealth, Survival, and Swim.
 
 #### Fettered Magic
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 All of your spells and the effects of any magic items you activate are Arcane Connections to you. You cannot take this with the Virtue Tethered Magic, as the Virtue already includes this effect.
 
 #### Feud
-
-Major, Story
-
+*Major, Story*<br>
 Your family is involved in a feud. The opposing family or families are roughly of equivalent strength to your family and its allies. You are liable to be ambushed or attacked by opposing clansmen, and your family expects you to join raids against your enemies.
 
 #### Fickle Nature
-
-Minor, Personality
-
-The character swings between two types of personality behaviors that are directly opposite. There is no middle ground, so the character is always either displaying traits of one behavior or the other.
-Select a Personality Trait at +4, and its opposite at +4. Typical Personality Traits are: Happy and Sad, Energetic and Lazy, Confident and Diffident, or Proud and Humble.
+*Minor, Personality*<br>
+The character swings between two types of personality behaviors that are directly opposite. There is no middle ground, so the character is always either displaying traits of one behavior or the other. Select a Personality Trait at +4, and its opposite at +4. Typical Personality Traits are: Happy and Sad, Energetic and Lazy, Confident and Diffident, or Proud and Humble.
 
 #### Fish Out of Water (Terrain)
-
-Minor, General
-
+*Minor, General*<br>
 This character has an affinity with one type of terrain, whether this is at sea, in the woods, the rolling hills, or in the urban landscape of towns and cities, and feels uncomfortable and awkward when away from where he wants to be. The character suffers a –1 penalty to all stress rolls taken outside of their favored terrain and also rolls one more botch dice than normal in those situations.
 
 Appropriate areas may be Cities & Towns, Villages, Rivers, The Sea, Mountains, Woodland, Desert, etc.
@@ -6219,9 +6179,7 @@ Appropriate areas may be Cities & Towns, Villages, Rivers, The Sea, Mountains, W
 This Flaw may only be taken once, because taking it more than once makes it less serious, rather than more.
 
 #### Flashbacks
-
-Minor, General
-
+*Minor, General*<br>
 When engaged in combat, or a similar violent and tense situation, the stress might trigger a flashback to the horrors of past battles, which left this character mentally scarred. The hallucinations seem so real that it is hard to avoid reacting to them. When an event appropriate for the Flashbacks occurs, roll a stress die against an Ease Factor of 9. On a failure, the character panics and reverts to his past nightmares. At the storyguide's discretion, modifiers from -1 to -5 could apply, for things like full-scale battle, fires, or stampeding animals. In addition, add or subtract any relevant Personality Traits, depending on whether they might lessen or worsen the effects of this Flaw.
 
 Bear in mind that positive traits like loyal, reliable, lawabiding, or calm should be helpful in avoiding this affliction. Similarly, negative traits like selfish, angry, or corrupt subtract from the roll, making him more likely to succumb. Often, his actions hurt, embarrass, or offend comrades, employers, or other important people, and might have social repercussions. On a botch, he'll get into real trouble — it could result in someone being seriously hurt or killed, in valuables being broken or in him failing in his duty at a critical time.
@@ -6229,39 +6187,27 @@ Bear in mind that positive traits like loyal, reliable, lawabiding, or calm shou
 For magi, this Flaw should not involve flashbacks to Twilight episodes, spell botches or laboratory disasters. Since most of these situations won't get worse by applying a penalty to the rest of the scene, it won't be enough of a Flaw. But magi can be affected by combat, house fires, or cave-ins just as much as other character types.
 
 #### Flawed Parma Magica
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Your Parma Magica is defective and provides only half the normal Magic Resistance against a certain Form. You may purchase this Flaw more than once for different Forms.
 
 #### Flawed Powers
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 The character must have at least one Major Supernatural Virtue to take this Flaw. The character's supernatural powers are limited or restricted in some fashion. She suffers the effects of a Major Hermetic Flaw (commonly Restriction or Necessary Condition), but it is applied to her Supernatural Virtues rather than to her Hermetic magic (if any). Any Flaw that is only appropriate to Hermetic Magic (for example, Deficient Technique or Unstructured Caster) cannot be taken with this Flaw. Note that the restriction on the supernatural power is not a separate Major Flaw: this Minor Flaw represents the fact that a Major Supernatural Virtue is less central to a character's activities than Hermetic magic is to a magus.
 
 #### Fluctuating Fortune
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 The character's finances rise and fall like the tide, regardless of how successful he is or what preventative measures he takes. He is considered to have the Wealthy Virtue one year, followed by the Poor Flaw the next. Besides monetary concerns, this means that the character will have to only work one season in one year, followed by a year in which he has to work three, all to maintain his livelihood. This cycle of feast and famine continues throughout the character's life, always in opposition to his financial desires. When he needs money most, he has none, and has an abundance of funds when they are superfluous.
 
 #### Follower
-
-Minor, Personality
-
+*Minor, Personality*<br>
 The character is a follower, not a leader. He rarely takes the initiative, but is usually happy to follow the direction of a forthright and decisive person. If he finds a leader, he tends to stick with her.
 
 #### Foreign Upbringing
-
-Minor, Personality
-
+*Minor, Personality*<br>
 This Flaw is somewhat similar to Covenant Upbringing, but means that the character is a foreigner and comes from a remote or isolated corner of Mythic Europe. He appears and sounds nothing like the locals, has odd customs, habits, and religion (although he need not be pagan), and is quite confused by local society. However, he is not an Outsider, and has been accepted — for the most part. His Native Language is one foreign to the saga, and he needs to learn another language in order to communicate with the rest of the turb. The maximum scores at character creation for locality-dependent Abilities like Language, Area Lore, or Organization Lore, as well as some social Abilities, are half (round up) that which his age normally allows.
 
 #### (Form) Monstrosity
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 This Flaw is primarily intended for animal characters, but may be taken for characters who are basically human with the approval of the troupe. The character is a monstrosity with a monstrous feature, or mutation, which corresponds to a magical Form. The feature may be beneficial in limited circumstances, but generally gives the character no advantage over its non-mutated peers.
 
 Animals are not usually bothered by monsters — the character still has the correct scent, and behavior — and a single monstrous bull might be found happily living among a herd of otherwise normal cattle. for example. People, on the other hand, are highly troubled by the appearance of monstrosities, which they invariably attribute to malign influence: obviously monstrous animals are usually killed by peasants. Often, 1 pawn of Muto vis may be extracted from the corpse of a monstrous character, found concentrated in the monstrous feature.
@@ -6285,103 +6231,69 @@ Some examples of possible monstrosities are listed nearby, but the troupe may de
 > | Vim      | sensitive to magic (animal feels pain when in a magical aura)           |   |   |
 
 #### Fragile Constitution
-
-Minor, General
-
+*Minor, General*<br>
 You are sickly and weak. You suffer a –3 penalty on all rolls to recover from wounds and diseases.
 
 #### Frail
-
-Minor, General
-
+*Minor, General*<br>
 The character is weak of build and easily hurt when undertaking physical activities. He has a -3 penalty to his Soak score.
 
 #### Fury
-
-Major, Story
-
+*Major, Story*<br>
 A violent temper sometimes overwhelms you, sending you into a destructive, uncontrollable rage. You are likely to be provoked by some sort of specific event, such as being insulted, being hurt, or hearing the Order of Hermes disparaged. Roll 9+ on a stress die to avoid flying into a rage when such an event occurs. with another roll every round to try to calm yourself should you fail the first. On a botch, you try to kill everyone around you. While enraged you get +3 to Damage, but -1 on all other scores and rolls.
 
 #### Gabai
-
-Minor, Social Status
-
-Appointed by the community council, the gabai is the local tax collector. It is his responsibility to ensure that Jewish taxes, payable to the community on such things as wine and meat, are collected from all adult males.
-
-The gabai has a –2 negative Reputation of "Tax Collector" in his community. This Flaw is compatible with any other Free Social Status Virtue.
+*Minor, Social Status*<br>
+Appointed by the community council, the gabai is the local tax collector. It is his responsibility to ensure that Jewish taxes, payable to the community on such things as wine and meat, are collected from all adult males. The gabai has a –2 negative Reputation of "Tax Collector" in his community. This Flaw is compatible with any other Free Social Status Virtue.
 
 #### Gender Nonconforming
-
-Major or Minor, Personality
-
+*Major or Minor, Personality*<br>
 You do not conform to the expected behavior for a person of the gender that your society would assign to you in the absence of social cues such as clothes and behavior. This may mean, for example, that you dress as a member of another gender, or that you structure your life in a way considered appropriate to another gender, or that you are sexually attracted to members of the same gender. It does not necessarily mean that you disagree about what your gender is, although it may. As a Minor Flaw, it does not normally cause you problems, whether because your society accepts your behavior, or because you can turn people who object into newts, or for some other reason. As a Major Flaw, it does cause you problems.
 
 #### Generous
-
-Major or Minor, Personality
-
+*Major or Minor, Personality*<br>
 You willingly give away your property to anyone who expresses a desire for it, even if they are not particularly deserving. If something is very important, you might not give it to someone, but you will certainly share it.
 
 #### Greater Malediction
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 You have been cursed by some supernatural power, in a way that greatly hinders you. The effects of the curse should be comparable to those of other Major Flaws. Indeed, almost any Flaw could be the result of a curse.
 
 #### Greedy
-
-Major or Minor, Personality
-
+*Major or Minor, Personality*<br>
 You like to eat and drink, and do so to excess whenever given the chance. You are probably fat, but may not be if you rarely have the chance to indulge.
 
 #### Grudge
-
-Minor, Personality
-
+*Minor, Personality*<br>
 For some reason, based on a past event, the character holds a strong grudge against someone who is part of his normal social circles, and with whom he would be expected to have cordial relations. He is constantly interested in what the other person is doing, what they are working on, and how he can outdo them.
 
 #### Gullible
-
-Minor, General
-
+*Minor, General*<br>
 There is one born every minute - and it is this character! He is an easy victim of ruses, stories and teasing lies. People lying to him get a bonus to their Guile rolls of +1 to +3. Depending on how bright or sharp-witted he is, he might not fall for obvious lies, denials of things that are evident or common knowledge. However, he most likely falls for lies that are even remotely plausible, and if he has no idea whether or not something is true, he is almost certain to believe it. This could, for instance, be whether or not there are mischievous faeries under the bridge. If you really want the character to not fall for something, make an Intelligence + Folk Ken Stress roll against an Ease Factor equal to the Communication + Guile roll of the person telling the tall tale. Recommended modifiers to the Ease Factor are +0 for obvious lies (ones that someone without the Flaw would certainly not believe), +6 for outlandish tales and +9 for things which could be true, or lies told by someone in authority, or who has expert knowledge of the subject at hand.
 
 #### Hallucinations
-
-Minor, General
-
+*Minor, General*<br>
 The character is afflicted by vivid hallucinations which seem to be true visions, but rather than coming from a higher power, they are figments of her imagination and fantasy. She finds these visions particularly troublesome, and seeks meaning in them where there is none to be had. Coincidence might mean that some part of her hallucinations comes to pass. which only furthers her belief that there is meaning within them. If the character also has the Visions Flaw, then some of her visions are true, but most of them are meaningless jumbles of nonsense generated from within her mind.
 
 #### Harmless Magic
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 The character's Perdo spells cannot permanently destroy anything; they temporarily disrupt the target, like Perdo Imaginem magic, but as soon as the duration has passed the target returns to its natural state as if nothing had happened, like a Muto effect. This means that a version of The Wound that Weeps (PeCo15), for example, briefly causes a painful, bleeding wound that immediately closes again. Likewise, Fist of Shattering (PeTe10) causes an object of stone or weaker material to briefly break apart, but then fuse itself together again. The character's Ritual Perdo spells function normally, however.
 
 This weakness can be a boon to a crafty character. A maga might invent a spell to destroy a heavy rock at Concentration Duration, she could then cast it and lie in wait. When her enemy walks into the vacant space, she could release her concentration and crush her victim beneath it when it reforms. However, in most cases this limitation is a minor hindrance, as useful Perdo magic requires longer Durations.
 
 #### Hatred
-
-Major or Minor, Personality
-
+*Major or Minor, Personality*<br>
 You hate someone or some group so much that hurting them dominates your life. The target of your hatred must not be someone you could easily overcome.
 
 #### Hedge Wizard
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Because of your esoteric magic, other magi distrust you, and more importantly, grant you no respect. You start with a negative Reputation within the Order of Hermes at level 3 as a hedge wizard, even though you are a member of the Order.
 
 #### Heir
-
-Minor, Story
-
+*Minor, Story*<br>
 You have little power or wealth now, but you stand to inherit land and possibly money. You need do nothing special to remain in your position, but others may occasionally attempt to remove you from the line of succession — one way or another. When you finally win your inheritance you gain its responsibilities as well, so your freedom may be restricted.
 
 #### Hermetic Patron
-
-Minor, Story
-
+*Minor, Story*<br>
 You must be a Redcap or magus to take this Flaw.
 
 You are watched over by an older magus or a more established Redcap, who considers you his charge and helps you out from time to time. This patron must be an NPC. Because of your special relationship, he is willing to do additional favors for you that cost him little, such as casting spells on you, lending you magic items, allowing you access to his books, providing you with mundane materials, supporting you financially for a season or two, or even adopting you into his House. However, in return he will expect special attention from you, and may periodically send you on missions or assign you important tasks.
@@ -6389,180 +6301,122 @@ You are watched over by an older magus or a more established Redcap, who conside
 You may take this Flaw with a large group of magi as your patrons, though the more numerous your benefactors, the more you will be expected to do for them.
 
 #### Higher Purpose
-
-Major or Minor, Personality
-
+*Major or Minor, Personality*<br>
 Let others concern themselves with petty matters, you have a nobler goal. This purpose should be altruistic, like freeing an oppressed people or bringing
 peace between the Order of Hermes and society.
 
 #### Hobbled
-
-Minor, General
-
+*Minor, General*<br>
 Both of the character's legs are severely damaged. She may not walk unless assisted by crutches or other devices, with which she can only move a mere half mile per hour. Any roll that requires moving quickly is penalized by –9. Her Dodge and other combat rolls are penalized by –6, and you roll double the normal botch dice in combat situations.
 
 #### Horrifying Appearance – Snake Legs
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 You have no legs, and instead your hips give rise to two or more snake-like tails; you should consider how you survived childhood with this horrific deformity. Your movement is not hindered under most circumstances. You can hide this deformity under clothing, but you cannot move without revealing it, leaving you feigning being crippled as well.
 
 #### Humble
-
-Minor, Personality
-
+*Minor, Personality*<br>
 You are humble, always willing to believe that others are more skilled and better than you. You do not necessarily underestimate your own abilities, you just think others are better.
 
 #### Hunchback
-
-Minor, General
-
+*Minor, General*<br>
 You have a deformed body that gives you a grotesque appearance and hinders your movements. You are at -3 to all rolls involving agility and balance. Communication rolls that involve good looks are at -3.
 
 #### Hunger for (Form) Magic
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 The character has been repeatedly exposed to magic and has thus become dependent upon magic to survive. The character must consume 1 pawn of vis each season, corresponding to the Form that it has been mostly exposed to. If the character is unable to consume a pawn of vis in a season, it loses a Long-Term Fatigue Level that cannot be regained until a pawn of the appropriate vis is consumed. For example, a character that has Hunger for Ignem Magic and has not consumed a pawn of Ignem vis for a whole year will have lost 4 Long-Term Fatigue Levels, and so be Dazed with a -5 penalty to activities. If the character then consumes 1 pawn of Ignem vis, it will regain a Fatigue Level and become Tired after an hour has elapsed.
 
 #### Imagined Folk Tradition Vulnerability
-
-Minor, Personality
-
+*Minor, Personality*<br>
 Although this flaw closely resembles a Delusion, Imagined Folk Tradition Vulnerability has other game mechanical effects as well. This character utterly and sincerely believes that he has been touched by the fay, and that they have granted him his special skills — whether or not any such exist. So, naturally, he is convinced that he is as vulnerable to traditional wards and folk magic as the fey. Whenever there is talk about such folk remedies, or people around him try to perform them, he does his best to dissuade them. If he can get away with it, he removes or sabotage such wards; for instance, he sneaks around at night and removes any warding marks or materials at doorways. Finally, he exhibits strange behavior around active wards or ritualistic actions. This could be refusing to shake hands with a person right after they have drawn the sign of the cross, or flinching whenever salt is flung over someone's shoulder. On the plus side, this Flaw allows the character to purchase a score of 1 (but no more) in Faerie Lore at character creation. This is because he needs a rudimentary knowledge of the fay and the wards against them in order to be able to act this way. Without such knowledge, his behavior is based on what he thinks such wards might be.
 
 #### Impious Friend
-
-Minor, Story, Tainted
-
+*Minor, Story, Tainted*<br>
 A minor demon poses as a friend of the character. The demon takes a pleasant form but is usually invisible to anyone, other than its charge, who lacks appropriate supernatural abilities. Many of these demons are introduced to the tainted people they will defend and control during infancy. They become childhood playmates.
 
 The tainted person has not bargained for the services of the demon. Instead, the character receives the services of his friend as part of its master's plan to guide the character toward a tragic destiny. If the demon feels the character's life is threatened, it may seek additional assistance from its master. The tainted person believes the demon wishes only the best for him. Many are ignorant of the demon's true shape.
 
 #### Incompatible Arts
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 For some reason you are completely unable to use two combinations of Techniques and Forms. For example, you may be unable to use Intellego Herbam and Intellego Animal. You may not use these Arts together even if one or both are requisites. This Flaw may be taken repeatedly with different combinations, but may not be combined with a Deficiency (see page 125).
 
 #### Incomprehensible
-
-Minor, General
-
+*Minor, General*<br>
 You are almost completely unable to convey the knowledge and understanding that you have. Anyone trying to learn from you or from a book you have written must halve their Advancement Total (or Lab Total, if you are a magus and have written Lab Texts on some spells or enchanted items). If you are a magus teaching spells, halve all applicable Lab Totals, both yours and the student's.
 
 #### Inconstant Magic
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 The character's magic is easily distracted, and it stutters and starts. Spells that require his guidance (e.g. concentration, or aimed spells) after being cast are not immediately responsive, as if the character must focus the spell's attention, and spells that are triggered by a condition (such as Waiting Spells or enchanted devices) take about two minutes to activate, as if the magic had wandered off when the caster was not watching it carefully. Any magic items he creates with constant effects are interrupted at sunrise and sunset; the magic is not seamless. The character suffers a -3 penalty to all Finesse rolls.
 
 #### Independent Craftsman
-
-Minor, General
-
+*Minor, General*<br>
 This character has his own way of working and doesn't like other people getting in his way. This character always treats his Leadership and Craft or Profession Abilities as three levels lower when working with others on a given task. For Craftsmen, this means that whether he is working as an assistant or working with assistants his Craft Ability has a penalty of -3. This affects the number of assistants he can employ in the workshop and the benefit that he provides when working as an assistant. If you are not using the rules in City and Guild (page 73), treat this is a Personality Flaw.
 
 #### Indiscreet
-
-Major, Story
-
+*Major, Story*<br>
 You are unable to keep a secret. You must tell all to the first interested party you meet in an effort to be helpful or to demonstrate that you are in-the-know, unless you succeed on an Intelligence-based stress roll against an Ease Factor of 9. If you botch, you may have to be physically restrained by your companions from answering any questions put to you for the remainder of the encounter.
 
 #### Infamous
-
-Minor, General
-
+*Minor, General*<br>
 People know you well and curse you in their prayers. You have a level 4 bad Reputation, specifying the horrible deeds that earned you such ill will.
 
 #### Infamous Master
-
-Minor, Hernetic
-
+*Minor, Hermetic*<br>
 Your master was a diabolist, bumbler, fool, widely despised, or held in contempt for some other reason. Most magi expect little better from you. Even if you've done nothing wrong, you are treated as though you don't deserve to be a member of the Order. You have a bad Reputation of the appropriate type at level 3 among magi.
 
 #### Inscribed Shadow
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 The character's stigmata are reflected by glowing symbols in the character's shadow. This causes alarm among nonmagicians and makes the character's stigmata extremely easy for other Criamon magi to read (+3 on all rolls). The shadow's glowing symbols do not vanish when there is insufficient light to form a shadow — they burn brighter. Characters who use magic to hide their stigmata are not acting aptly. Only characters with stigmata may have this Flaw, which normally means that they must be magi of House Criamon.
 
 #### Jinxed
-
-Minor, General
-
+*Minor, General*<br>
 The character is a magnet for any bad luck. He is not personally the cause of the bad luck, and so need not roll any extra botch dice or suffer any penalty to die rolls. However, whenever chance determines who will be affected by misfortune, the odds are biased against him to be the one affected. For example, if it has been determined that a rope used for climbing will break, it is more likely to do so when the jinxed character makes the climb. If determining when the bandits will attack the camp at night, it is more likely to happen right at the moment when the character is relieving himself. If the storyguide is rolling dice to determine the target of a random event, a jinxed character should be affected half of the time, and his comrades between them the other half. His bad luck does not tend to spill over onto others; in fact, other characters may prefer to keep him around to deflect any bad luck from themselves.
 
 #### Judged Unfairly
-
-Minor, General
-
+*Minor, General*<br>
 Somehow you come across the wrong way to people, and they universally distrust and underestimate you. You catch no one's eye, impress no one, and can get no one to take you seriously. If you ever find an exceptional someone who sees you as you want to be seen, you will cling to that person. You cannot gain a positive Reputation in any community, and this Flaw is incompatible with any Virtue that gives you such a Reputation.
 
 #### Lame
-
-Minor, General
-
+*Minor, General*<br>
 One of your legs is weakened, whether since birth or through some accident. You move slowly and clumsily. Your base speed is a mere one mile per hour, and anyone can outrun you. You suffer a –6 penalty on rolls involving moving quickly or with agility, –3 on Dodge, and –1 on other combat scores.
 
 #### Lecherous
-
-Major or Minor, Personality
-
+*Major or Minor, Personality*<br>
 You seek sexual contact with as many people as possible. Note that you need not be any good at seduction; skill here merely changes the kinds of problems you encounter.
 
 #### Leprosy
-
-Major, General
-
+*Major, General*<br>
 The character has leprosy. A leper has a permanent -2 modifier to her Living Condition (with an additional -1 if she lives in a leper colony), and whenever she undergoes an Aging Crisis (page 392) the leper sustains a Heavy Wound in addition to any other result. Lepers cannot gain a positive Reputation due to a pungent rotting smell that they emit.
 
 #### Lesser Malediction
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 You have been cursed by some supernatural power. The effects of the curse should be about as bad as other Minor General Flaws.
 
 #### Limited Magic Resistance
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You are less able to resist magic than other magi. You gain no bonus from one of your Form scores to Magic Resistance, though if you are caught without your Parma Magica, you retain a Magic Resistance of 0. You may take this Flaw multiple times, for multiple Forms.
 
 #### Lingering Injury
-
-Minor, General
-
+*Minor, General*<br>
 The character suffers from an old injury that won't heal properly, resulting in a –1 penalty to all rolls involving physical activity. If he botches a physical action, he aggravates the injury and the penalty becomes –3 (recovery from aggravation is as for a Light Wound). This condition worsens with age, so multiply whatever the penalty is by 1 + (Decrepitude Score).
 
 #### Loose Magic
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Your Advancement Total is halved whenever you try to Master spells.
 
 #### Lost Love
-
-Minor, Personality
-
+*Minor, Personality*<br>
 You have lost your true love to death, distance, or marriage. You take little joy in life's pleasures and give up easily in the face of difficulty, since you've already lost the most important struggle. On those occasions when you forget yourself and have a good time, you inevitably feel sorrow afterwards, thinking about how it could have been if your love were with you.
 
 #### Low Self-Esteem
-
-Major, General
-
+*Major, General*<br>
 You have a deflated opinion of your own self-worth. You begin the game with no Confidence Score, and never have any Confidence Points.
 
 #### Low Tolerance
-
-Minor, General
-
+*Minor, General*<br>
 The character cannot easily withstand pain and fatigue. Increase the penalties for reduced Fatigue levels by one point, and increase the total penalty from wounds the character has received by one point. You also suffer a –3 penalty on rolls for the character to resist pain.
 
 #### Lycanthrope
-
-Major, Supernatural
-
+*Major, Supernatural*<br>
 You have been cursed to change form into a dangerous predator (such as a wolf, lynx, or bear) on nights of the full moon (or similar, monthly, astrological events). No items or clothing transform between shapes, and it takes one full round for the full transformation to take effect. You are not immune to normal weapons, and the curse does not infect bite victims. The animal may be detected as a cursed human with an InAn or InCo spell.
 
 You have the intelligence of an animal while changed, react to all stimuli as an animal, and do not retain any memory of actions taken in animal form, save occasionally in dreams. You may not even realize that you are under this curse. You can still recognize both friends and enemies when changed.
@@ -6570,35 +6424,25 @@ You have the intelligence of an animal while changed, react to all stimuli as an
 Lycanthropes may transform into a non-magical animal between Size –1 (wolf) and Size +2 (bear). You have the normal physical characteristics of a shapeshifter (see page 107), except that +3 is added to your Soak score (in animal form only). Furthermore, you are fully healed of all wounds incurred in animal form upon resuming human form (which happens at dawn).
 
 #### Magic Addiction
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 You crave the rush of casting and holding power over magic. Whenever you cast a spell, you have a difficult time stopping yourself from casting again and again until you drop from exhaustion. Whenever you use a stress die in spellcasting, you must, whether or not the spell succeeds, make an Intelligence + Concentration stress roll, against an Ease Factor of half the level of the spell (or, if you botched, the level you were attempting). If you fail, as your next action you must either cast a Formulaic spell of at least the same level as the previous spell, or cast any spontaneous spell. expending Fatigue and not reserving levels for Penetration. You must roll again to control your addiction, based on the level of the spell you just cast, but you get a +3 bonus to the roll for every spell you cast after the first. If you botch, you continue casting spells until you fall unconscious.
 
 #### Magical Air
-
-Major, General
-
+*Major, General*<br>
 People and animals react to you as if you had The Gift. You may not take this Flaw if you actually do have The Gift; see The Blatant Gift (page 120) instead.
 
 #### Magical (Being) Companion
-
-Minor, Story
-
+*Minor, Story*<br>
 The character is accompanied by an intelligent magical being, one that is smart enough to follow orders or disobey them on its own initiative, which the character must regularly look after. This might be an animal, a spirit, a human-like creature, or even an animate object. Realms of Power: Magic contains extensive rules for designing such characters, but they can also be made following the guidelines and examples in Chapter 13 of this book. A grog-level character might be essentially an extension of the character's will, while a companion-level character might follow instructions but often do what it thinks is best, and a magus-level character might be condescending or wild, and rarely act except on its own initiative.
 
 A particularly common example is a magical animal that's smart enough to follow your orders or to disobey them on its own initiative. The smaller and more innocuous the creature, the more intelligent it is. A ferret or crow is as intelligent as a human, a wolf is very cunning, and an animal the size of a horse is simply more intelligent than normal. The creature has a Magic Might score of 10 – Size.
 
 #### Magical Fascination
-
-Minor, Personality
-
+*Minor, Personality*<br>
 This character is intensely interested in supernatural and magical phenomena, to the exclusion of all other motivations. It is as if his life is hollow and drab without these experiences. He will involve himself in any supernatural investigation, social encounter, or confrontation. He must try and find out as much as he can about it, and he is curious and has busy hands, definitely trying to take souvenirs. To represent the scraps of knowledge he has, he is allowed to have a score of 1 (but no more) in either Magic or Faerie Lore at character creation. But most of the time, he is filling in the blanks himself and making it up as he goes along, enthusiastically.
 
 #### Manifest Sin
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 A sin or crime this character has committed in the past stains his spirit and is manifest to those who can perceive things hidden to mortal senses. Characters with Second Sight, Sense Holiness & Unholiness, or similar Supernatural Powers or Abilities perceive the sin through one or more senses.
 
 The manifestation of the sin or crime should be chosen by you and the storyguide together, and should always be appropriate to the sin or crime in question. For instance, the perpetrator of a violent crime may appear to have blood on his hands, or be accompanied by the sobbing of his victim, while lustful sins may be seen to play across the sinner's leering face.
@@ -6610,79 +6454,53 @@ While his spirit is tainted and the manifestation will always be with him, he ma
 This Flaw originates from either the Divine or the Infernal Realm, as a mark of punishment, penitence, or temptation.
 
 #### Manufactured Ignorance
-
-Minor, Story, Tainted
-
+*Minor, Story, Tainted*<br>
 The tainted person has a delusion, but his mistaken belief is sustained by a group of minor demons that provide a stream of supporting evidence. Different groups of demons create varying delusions for tainted people. Many such people believe they have a glorious destiny, and the world smiles at their efforts, because the demons make it appear so. Hermetic demon hunters have found more than one child who believed he was the final scion of a noble house.
 
 In each story, the character receives one minor, fortunate occurrence that confirms his rosy view of life. Minor fortunate occurrences are situations demons can arrange surreptitiously ahead of time. They may include a character arriving at an inn where the last room is available, finding an important door unlocked, or a coal from the fireplace mysteriously extinguishing itself on the floor rushes.
 
 #### Many Marriageable Daughters
-
-Major, Story
-
+*Major, Story*<br>
 The character has a lot of daughters and needs to participate in stories to marry them off suitably. In most sagas, this Flaw is most suitable for characters of high social status, as their stories are more likely to involve the covenant, and thus other characters.
 
 #### Master of None
-
-Minor, General
-
-Either by choice or circumstance, this character never seems to be able to stick at a task or job for longer than a season, usually following the work as it moves through the year. As a result, this character can't apply any experience points earned through an Advancement Total to an Ability or Art that they have already applied experience points to this year. Where they can't be applied to a different Ability or Art, the experience points are lost.
-
-Experience points gained through other means, such as Secondary Insight, are unaffected and may be applied normally.
+*Minor, General*<br>
+Either by choice or circumstance, this character never seems to be able to stick at a task or job for longer than a season, usually following the work as it moves through the year. As a result, this character can't apply any experience points earned through an Advancement Total to an Ability or Art that they have already applied experience points to this year. Where they can't be applied to a different Ability or Art, the experience points are lost. Experience points gained through other means, such as Secondary Insight, are unaffected and may be applied normally.
 
 #### Meddler
-
-Major or Minor, Personality
-
+*Major or Minor, Personality*<br>
 You want to fix other peoples' lives: arrange matches, teach children to sew "properly," or tend the sick. You waste a lot of time and energy on such endeavors, and people usually resent it.
 
 #### Mentor
-
-Minor, Story
-
+*Minor, Story*<br>
 A person of some importance, wealth, or wisdom has taken an interest in your life, and at times provides you with minor material aid and advice. However, at some point your mentor will have a small favor or two to ask of you. He might not necessarily like your relationship with the covenant — perhaps you must keep it a secret. The Mentor must be an NPC.
 
 #### Missing Ear
-
-Minor, General
-
+*Minor, General*<br>
 You cannot accurately locate the direction of sounds, and suffer a penalty of –3 to hearing rolls.
 
 #### Missing Eye
-
-Minor, General
-
+*Minor, General*<br>
 You cannot judge close distances easily and get –3 on Attack rolls for missiles and targeting rolls for spells. In melee combat you suffer –1 on Attack rolls because your field of vision is limited. You also have a blind side from which people can approach unseen. This Flaw can be combined with Poor Eyesight, but the penalties are cumulative.
 
 #### Missing Hand
-
-Minor, General
-
+*Minor, General*<br>
 Perhaps it was an accident or a punishment in your past that cost you one of your hands. Climbing, combat, and other activities normally requiring both hands are at a penalty of -3 or greater.
 
 #### Mistaken Identity
-
-Major, Story
-
+*Major, Story*<br>
 Someone, who looks exactly like you and whom you and your companions will most likely never meet, lives near you, and is responsible for an ongoing variety of violent, illegal, obscene, or embarrassing acts. You often have to explain who you are, and sometimes have to deal with the consequences of the other person's acts.
 
 #### Monastic Vows
-
-Major, Story
-
+*Major, Story*<br>
 You have taken vows of poverty, chastity, and obedience to a religious superior. This covers the vows taken by mendicant friars, as well as those taken by monks and nuns strictly speaking.
 
 #### Monastic Vows (Hermetic)
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 You have taken vows of poverty, chastity, and obedience to a religious superior, which means that you cannot own vis and must only possess functional magic devices. You cannot marry, and many magi might interpret that as prohibiting binding a familiar. You must do what your master commands in service of your order, though in return you can expect aid and assistance when needed.
 
 #### Monstrous Blood
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 The character's essential nature has been changed through exposure to the Magic realm, often because of a relationship to a magic being, which gives her true form unfortunate supernatural properties. This changes the character's appearance enough that others can immediately recognize that there is something wrong about her, and people might say that she has tainted blood. The character is more resistant to age and receives a -1 bonus to all Aging rolls, and may learn Magic Lore during character creation.
 
 However, the character also gains a minor physical deformity appropriate to the Magic being type that is associated with the character's background. Some examples are below, or you can make up your own.
@@ -6696,27 +6514,19 @@ However, the character also gains a minor physical deformity appropriate to the 
 *Magic Thing:* The character has a constant Lesser Power that is mostly detrimental to it in some way, such as a ward that prevents it from picking up wooden objects, or that causes books it touches to burst into flame. The effect normally occurs involuntarily, but the character can spend a Confidence Point to prevent it from triggering.
 
 #### Motion Sickness
-
-Minor, General
-
+*Minor, General*<br>
 Riding a horse, in a cart, or sailing on a ship makes you violently ill. When not traveling on foot, you suffer double the fatigue loss on long journeys, with a minimum loss of two Fatigue levels. Violent jostling over a period of a few hours could conceivably lead to unconsciousness.
 
 #### Mute
-
-Major, General
-
+*Major, General*<br>
 You cannot speak; perhaps your tongue was cut out. You probably use rudimentary hand gestures and grunts to communicate your needs. You can still understand languages perfectly well, and may learn to read and write if you have an appropriate Virtue. Note that magi with this Flaw get a -10 penalty to all spellcasting, although this may be offset by taking the Quiet Magic Virtue (page 105). A magus with this Flaw can be assumed to be able to make sounds, which are sufficient to allow normal use of the Voice Range.
 
 #### Necessary Condition
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 In order for your magic to work, you must perform a specific action while casting any spell. This should be something simple, such as singing or spinning around three times. If you cannot perform the action, you cannot cast spells at all.
 
 #### Necessary (Realm) Aura for (Ability)
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 Due to some connection with a given supernatural realm, the absence of a given supernatural aura has a pronounced effect upon the character's ability to focus on certain tasks. The character has a -3 penalty to any totals he generates with a particular Ability when not in the right aura. A character may take this Flaw once for any particular Ability. The chosen Ability should be one which the character is likely to use frequently, such as in service to the covenant or to support his day-to-day activities.
 
 When applied to Craft or Profession Abilities, this Flaw also reduces the character's capability to support himself by reducing the number of Labor Points (as described in City & Guild) he accumulates each season when not working within the appropriate aura.
@@ -6724,9 +6534,7 @@ When applied to Craft or Profession Abilities, this Flaw also reduces the charac
 Troupes should think carefully about how a character would be limited by taking Magic (which covers most covenants) or Dominion (which covers most other human settlements) aura. If the character would not be limited, the Flaw should not be allowed.
 
 #### Night Terrors
-
-Minor, General
-
+*Minor, General*<br>
 This character is plagued far too often by horrible nightmares and fits of screaming in his sleep. The character must make a Stress Roll against an Ease Factor of 9 in order to avoid suffering terrors. The storyguide may call for modifiers of -1 to -3 if he has faced eerie or terrifying events recently, like meeting a demon or battling the undead.
 
 Suffering from terrors means that the character wakes up often and in a panic during the night. Situations might occur where he overreacts or reacts in unfortunate ways, if forced awake during such nights. The morning leaves him with a Long Term Fatigue Level lost. These Long Term Fatigue Levels are cumulative, so several bad nights leave him in bad shape. Subtract the character's Fatigue penalty from the Ease Factor to avoid night terrors, to represent how a truly exhausted victim will at some point sleep through the nightmares due to sheer exhaustion. If a night of terrors renders the character Unconscious, he slips into deep, dreamless sleep. He sleeps for an entire day and night, and wakes up at Winded, ending the string of Night Terrors. A character with this Flaw may not also take the Sleep Disorder Flaw
@@ -6734,51 +6542,35 @@ Suffering from terrors means that the character wakes up often and in a panic du
 This Flaw normally makes seasonal Laboratory work impossible, and so is not suitable for magi.
 
 #### No Hands
-
-Major, General
-
+*Major, General*<br>
 You have no hands. Any activity requiring hands is impossible, and magi with this Flaw take a – 5 penalty to all Casting Scores. This may be offset by taking the Subtle Magic Virtue (page 110) or the Still Casting Spell Mastery ability.
 
 #### No Sense of Direction
-
-Minor, General
-
+*Minor, General*<br>
 You are completely unable to follow directions. North, south, east, and west have no meaning to you, and you often confuse right and left. You frequently get lost while traveling unfamiliar paths by yourself, or with others following your lead, and often have to reason your way home or to your destination from first principles. This Flaw is incompatible with the Well Traveled Virtue.
 
 #### Nocturnal
-
-Minor, General
-
+*Minor, General*<br>
 Your natural body rhythms try to keep you sleeping until noon. You are at –1 on all rolls made between dawn and midday. Conversely, you have little difficulty staying up at night. Though you enjoy no special benefits in the dark, your companions may decide to saddle you with night guard duty on a regular basis to use your attributes to best effect.
 
 #### Noncombatant
-
-Minor, Personality
-
+*Minor, Personality*<br>
 You have no interest in combat, nor do you have any ability with it. You might be unreasonably afraid of combat, or a complete pacifist, or prone to freezing and doing nothing.
 
 #### Oath of Fealty
-
-Major, Story
-
+*Major, Story*<br>
 You have sworn an oath of loyalty and support to someone outside the covenant, and sometimes they call on you to uphold your vow. Magi are forbidden from taking Oaths of Fealty by the Hermetic Code. Some don't let that stop them.
 
 #### Obese
-
-Minor, General
-
+*Minor, General*<br>
 You are large because of fat, not muscle. You are at –1 to all rolls that involve moving quickly or gracefully and at –3 to all Fatigue rolls. You are not so large that your Size is increased, and you may take this Flaw along with the Virtues and Flaws that change your Size.
 
 #### Obsessed
-
-Major or Minor, Personality
-
+*Major or Minor, Personality*<br>
 You are fixated on some prized object, action, or ideal. This interferes with your accomplishment of more immediate tasks. Examples might include obsessive protection of magi to the point that you attack those who insult them, or obsessive neatness where you keep yourself spotless and deride those who do not.
 
 #### Offensive to (Beings)
-
-Minor, Hermetic and General
-
+*Minor, Hermetic and General*<br>
 This Flaw is associated with one of six classes of beings: animals, mundane humans, divine beings, faeries, demons, or magical creatures. These last four include characters associated with the Divine, Faerie, Infernal, or Magic realm, respectively, through Supernatural Virtues or Flaws, as well as beings with Might.
 
 Beings of the chosen category react badly to the character, as if he had The Gift, which makes them very uncomfortable around him and gives him a –3 to all social interaction rolls with them.
@@ -6788,33 +6580,23 @@ You may not take this Flaw more than once, characters who are Offensive to more 
 If you are offensive to animals, animals with a Might score react in different ways. In general, those that react negatively to The Gift react negatively to you, while those that react positively do not, unless you actually have The Gift.
 
 #### Optimistic
-
-Major or Minor, Personality
-
+*Major or Minor, Personality*<br>
 You are convinced that everything will turn out for the best. This is not overconfidence, as you accept that you might well fail. Even if you do, however, you are sure that circumstances will mean that everything works to your benefit.
 
 #### Outcast
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 You have the rough task of making it on your own—normal society rejects you and you are not attached to a covenant. Perhaps you have a magical nature, a supernatural background, some disfigurement, or a tremendous scandal in your past. You may not take the Wealthy Virtue.
 
 #### Outlaw
-
-Major, Social Status
-
+*Major, Social Status*<br>
 You have been outlawed, and must live by your wits outside society. You may take Martial Abilities at character generation, and have a Reputation at level 2 for whatever got you outlawed. Outlaw followers created as grogs should take the Branded Criminal, Outcast or Wanderer social status.
 
 #### Outlaw Leader
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 You command a small group (three to six persons) of outlaws. Your followers look up to you and do what you tell them within reason. However, you must occasionally stick up for the group or one of its members. as well as provide for them. You often have to deal with challenges to your leadership in one form or another. You are well known as an outlaw in the local area, with a Reputation level of 3. You are actively sought by the local lord, sheriff, or other such official. You may take Martial Abilities at character generation. Grogs may not take this Flaw.
 
 #### Outsider
-
-Minor or Major, Social Status
-
+*Minor or Major, Social Status*<br>
 You belong to a group that is both readily identifiable and distrusted or disliked. Examples in most of Europe include Jews, North Africans, and Arabs. For sagas set in Egypt, this Flaw is appropriate for Europeans.
 
 If you live in society, take the Major version. You are shunned and often persecuted because of this, and your life and freedom may occasionally be in peril. You have a bad Reputation of level 1 to 3 (depending upon how easy it is to identify you) among members of the dominant social group of your area.
@@ -6826,374 +6608,248 @@ As a general rule, companions should take the Major version of this Social Statu
 If the saga takes the character to an area where they are a member of the dominant culture (an Egyptian who lives in a covenant in Ireland travels to Egypt, for example), the troupe should decide on a suitable Social Status for the character. This should normally be a Free Social Status Virtue, unless there are established facts in the character's background that suggest a different choice.
 
 #### Overconfident
-
-Major or Minor, Personality
-
+*Major or Minor, Personality*<br>
 You have a completely unshakable faith in your own abilities. You believe that you will always perform at, or slightly above, the peak of your abilities, and cannot imagine failure. If you actually botch, you come up with some rationalization as to what 'really' happened.
 
 #### Oversensitive
-
-Major or Minor, Personality
-
+*Major or Minor, Personality*<br>
 Something that others find merely unpleasant you consider intolerable. Examples might include an oversensitivity to disrespect, to slovenliness, or to impiety. If you are the violent type, you may start fights with those who offend you.
 
 #### Pagan
-
-Major or Minor, Personality
-
+*Major or Minor, Personality*<br>
 You do not follow the teachings of the Church, and have never been baptized. This tends to upset those in authority in Mythic Europe and frighten common people who learn of it. You do not observe Christian holidays, and you try to avoid churchmen and the Dominion. You cannot pretend to go along with society, however, because you believe that it would displease your gods and incur their wrath — you might suffer grave supernatural consequences if you take Communion or appear to worship gods other than your own. You may begin with Magic Lore or Faerie Lore, depending on the specifics of your faith. (This is not a Flaw in areas of Mythic Europe with substantial pagan populations, but by 1220 the only such areas are in parts of the Novgorod Tribunal. It may also be a Minor Flaw for grogs who live at a covenant with a substantial pagan population that is an accepted and open part of the covenant community.)
 
 #### Painful Magic
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 Casting spells causes you to suffer the equivalent of one Fatigue level in pain for each spell you cast. This reduces all your actions by the appropriate Fatigue penalty, which is cumulative with any from actual fatigue or injuries (though you do not suffer any physical damage from pain). You recover these "pain levels" just like Fatigue levels.
 
 #### Palsied Hands
-
-Minor, General
-
+*Minor, General*<br>
 Your hands shake uncontrollably, which makes casting spells or holding objects difficult. All rolls involving holding or wielding an object are made at -2, including weapon skills. Magi and others who rely on hand gestures to work magic must roll an extra botch die when casting a spell.
 
 #### Pessimistic
-
-Minor, Personality
-
+*Minor, Personality*<br>
 You always expect the worst. You may try to enjoy yourself, but you are sure that anything that can go wrong, will, and will pick on you.
 
 #### Pious
-
-Major or Minor, Personality
-
+*Major or Minor, Personality*<br>
 You are a fervent follower of your religion. You avoid the things it prohibits, and enthusiastically do the things it commands.
 
 #### Plagued by Supernatural Entity
-
-Major, Story
-
+*Major, Story*<br>
 Some supernatural being interferes in your life on a fairly regular basis. It may even have your best interests at heart, but the result is that you get dragged into stories. Suitable examples would be a demon trying to corrupt you, an angel trying to save you, a faerie playing games with you, or a ghost continuing the agenda she had while alive.
 
 #### Poor
-
-Major, General
-
+*Major, General*<br>
 You are a poor member of your social class. You must work three seasons per year in order to make ends meet, and can afford only the necessities of life, as measured by your status. This also means that you have one fewer season available for any form of advancement other than exposure, which is a major hindrance. You cannot take this Flaw if you are supported by the covenant. In particular, this Flaw is not available to magi.
 
 #### Poor (Characteristic)
-
-Minor, General
-
+*Minor, General*<br>
 You have an exceedingly bad Characteristic — lower one which is already —3 or lower by one point. Describe what it is about you that makes this obvious, such as a feeble stature, hideous visage, or slack-jawed stupidity. You may take this Flaw twice for a single Characteristic, lowering it to —5, and multiple times for different Characteristics.
 
 #### Poor Concentration
-
-Minor, General
-
+*Minor, General*<br>
 While the character may have a mind that is quick to make decisions, he has a short attention span. The character has a -3 penalty to Concentration rolls.
 
 #### Poor Eyesight
-
-Minor, General
-
-Bleary vision impedes your performance. Rolls involving sight, including rolls to attack and defend, are at –3. New environments are disorienting and perhaps frightening for you.
-
-This Flaw can be combined with Missing Eye, but the penalties are cumulative.
+*Minor, General*<br>
+Bleary vision impedes your performance. Rolls involving sight, including rolls to attack and defend, are at –3. New environments are disorienting and perhaps frightening for you. This Flaw can be combined with Missing Eye, but the penalties are cumulative.
 
 #### Poor Formulaic Magic
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You are simply not very good at Formulaic magic. Subtract 5 from every roll that you make to cast Formulaic spells. This does not apply to Ritual spells.
 
 #### Poor Hearing
-
-Minor, General
-
+*Minor, General*<br>
 Subtract 3 from rolls involving hearing. Speech that is hard for others to understand because of language, dialect, or accent is almost impossible for you to follow. You often pretend to be listening to people when in fact you are not.
 
 #### Poor Living Conditions
-
-Minor, General
-
+*Minor, General*<br>
 Either because of this character's own poor living conditions, or those of people he is in frequent contact with, he is more susceptible to the rigors of daily life. The character has an additional –1 Living Conditions Modifier. This is cumulative with the character's base Living Conditions Modifier.
 
 #### Poor Memory
-
-Minor, Personality
-
+*Minor, Personality*<br>
 You have a very hard time recalling one type of thing, such as names, faces, or places.
 
 #### Poor Student
-
-Minor, General
-
+*Minor, General*<br>
 You are bad at learning new things. Subtract 3 from all Advancement Totals derived from teaching and books (that is, you have no penalty to adventure experience, exposure, practice, studying from vis, or training), but do not reduce a total below one. If you could learn something without this Flaw, you still learn a bit.
 
 #### Primitive Equipment
-
-Minor, General
-
+*Minor, General*<br>
 The character is capable of using only the simplest tools and equipment. Perhaps her training was incomplete, or she has been affected by some sort of curse, or maybe she originates from a less technologically capable society and refuses to adapt. She is restricted to Inexpensive weapons and armor only, regardless of what is made available to her. If forced by order or necessity to use other equipment, her Burden is one point higher when she uses anything other than Inexpensive weapons, and one point higher when she uses anything other than Inexpensive armor. She suffers a -1 penalty to Attack and Defense if using inappropriate weapons, and a -1penalty to Initiative and Protection if using inappropriate armor. If the character works as a laborer or craftsman, she uses simple tools and primitive procedures. Unless working with simple tasks, the base Craft Value (see City & Guild, page 67) is raised by 1-3 at the storyguide's discretion, based on complexity. Further, her workshop may not be improved with regards to Innovation (City & Guild, page 65). Other Profession Abilities dependent on tools and equipment suffer a similar penalty for complex tasks. You should only take this Flaw if the character belongs to a profession that relies heavily on equipment, such as a smith, mason, or soldier.
 
 #### Primogeniture Lineage
-
-Minor, Story and Hermetic
-
+*Minor, Story and Hermetic*<br>
 The character is in line for Primus of House Verditius. Either her parens, or her parens's parens, is the Primus, and she is one of his descendants. She is at least three places removed from the Primus. She receives undue attention from the House, as they eye her as a prospective Primus. The other magi in the same line may also regard her poorly, hoping to somehow remove her from her heritage. Her ascension to Primus is far from guaranteed, and many events may transpire to prevent her from claiming the title. This should foster very political stories for her. This Flaw can only be taken by magi of House Verditius, as a maga who has left the House is no longer a candidate for Primus. In her case, it would be no more than an interesting feature of her background.
 
 #### Prohibition
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 You have had a Conditional Curse (also known as a "Geas") cast upon you and must obey the restrictions of your prohibition or be penalized by the curse. If you fail to adhere to the restrictions, you will suffer the curse in full force. The troupe must agree on both the restriction, and the curse that strikes you if you break it.
 
 #### Proud
-
-Major or Minor, Personality
-
+*Major or Minor, Personality*<br>
 You believe that you are more important than just about everybody, and expect the appropriate respect. Magi may admit one or two equals, but do not believe that they have any superiors. Mundanes will admit social superiors, but still believe themselves to be fundamentally better than, say, the king.
 
 #### Raised from the Dead
-
-Major, Story, Supernatural
-
+*Major, Story, Supernatural*<br>
 You died, and were brought back to life through a holy miracle. You begin with at least three Warping points, plus one Warping point for every year that has passed since you were resurrected, and you automatically receive another Warping point every year you continue living. You also have a level 4 reputation in the area where the miracle occurred. You do not remember what happened to you while you were dead, although you may have virtuous impulses that you cannot explain.
 
 #### Raised in the Gutter
-
-Minor, General
-
+*Minor, General*<br>
 This character was raised on the margins of society. She is able to use her social abilities normally with those of the lower and middle classes, but doesn't know how to act among her "betters." When using Charm or Guile, it is obvious that she's from the bad part of town, and this makes convincing people to do what she wants harder (-3 on rolls). She can use Etiquette normally if she's holding her social place (which means staying silent and doing exactly what she's told) but suffers a -3 penalty if she tries to go beyond this.
 
 #### (Realm) Stigmatic
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 The character occasionally manifests physical phenomena in the presence of supernatural powers. Pick one of the four Realms of Power; whenever he enters an aura of strength 4 or more aligned to that realm, or is affected by a power greater than fourth magnitude (20th level) from that realm, he suffers from the stigmata. Every individual suffers from stigmata differently. but the most common variants are dark marks appearing on the skin, blood issuing from orifices, spontaneous eruption of wounds, minor twisting of the limbs, or the acquisition of minor animal features. Whenever they manifest, the character loses a Long-Term Fatigue level that he cannot recover while he remains under the influence of that Realm.
 When he recovers the Fatigue level, the stigmata fade. If he ever takes a Warping point from exposure to his sensitive Realm, his stigmata erupt so violently that he takes a Light Wound as well as Fatigue, and the stigmata remain until he recovers from this wound.
 
 #### Rebellious
-
-Major or Minor, Personality
-
+*Major or Minor, Personality*<br>
 You react adversely to any attempt to impose authority over you, and work against those who are in command. You do not necessarily have any desire to be a leader yourself, but you don't like to be pushed around.
 
 #### Reckless
-
-Major or Minor, Personality
-
+*Major or Minor, Personality*<br>
 You tend not to notice that situations are threatening, and certainly do not stop to consider whether they might be. You just go ahead and charge right in.
 
 #### Reclusive
-
-Minor, Personality
-
+*Minor, Personality*<br>
 You do not like being disturbed or interrupted. You feel that an intrusion by another upon your time is unnecessary at best, and an insult at worst. You are very reluctant to be dragged into public places, or group activities, and generally complain when you must participate. Note that this is often a bad Flaw for a player character, unless there is a good reason why that character needs to stay out of play most of the time (for example, he is played by the alpha storyguide).
 
 #### Rector/Proctor
-
-Major, Story
-
+*Major, Story*<br>
 The character is the representative leader of his faculty or nation at a university, depending on whether he is a master or a student. He is responsible for his colleagues' behavior and is obliged to deal with their academic concerns. The character must have a Social Status Virtue dictating his place within the university. The character can expect to spend considerable time sorting out his fellows' affairs.
 
 #### Regular
-
-Minor, General
-
+*Minor, General*<br>
 The character lives according to a strict religious rule, which leaves little time for other activities. The character must spend one of his free seasons on the seasonal activity of worship. This is particularly suitable for monk and canon characters, but it is not compulsory. The Regular Flaw is compatible with Wealthy and Poor, but a Poor Regular character effectively has no free seasons and may be unsuitable as a player character. Magi can be Regular.
 
 #### Repellent
-
-Major, General, Tainted
-
+*Major, General, Tainted*<br>
 The character has developed one of the physical characteristics of his demonic creator, which causes fear and revulsion among normal humans. The character makes all rolls requiring trust with a –6 penalty. The character also gains a minor advantage from the repellent feature. As examples, a character with horns, claws, or fangs could learn to use them in melee, a scaled character might have a Soak bonus of +3, and a character with demonic eves might see in the dark.
 
 #### Restricted Learning
-
-Minor, General
-
+*Minor, General*<br>
 The character is incapable of learning new things without assistance. Pick five Abilities at character creation; you can only apply experience points to these Abilities. The character cannot learn any new Abilities on her own; she must receive experience points from Teaching or Training to develop a new Ability or to improve one that is not part of the initial five. Furthermore, she cannot use an Ability with no score, even if it can normally be used untrained. Any Supernatural Abilities from Virtues she possesses are added to the list of Abilities to which she can apply experience points. All mundane animals are required to take this Flaw. A character with Intelligence rather than Cunning is not a mundane animal for these purposes.
 
 #### Restricted Power
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 This Flaw limits the use of a supernatural power that can normally be used at will, such as those granted by the Focus Power, Greater Power, Lesser Power, Personal Power, and Ritual Power Virtues. The character must perform some special ceremony to activate it, such as drawing symbols on the ground or gesturing and chanting like a magus, or else the power only functions on a limited class of targets (such as men, wolves, sounds, or sand) or in specific circumstances (like at night, under water, when touching iron, or after singing a song). This Flaw may be taken once for each power the character possesses.
 
 #### Restriction
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 You cannot cast spells at all under certain uncommon conditions. These might refer to your state, such as touching the earth directly or having no beard, or to the target, such as birds or glass, or to your location when you use the magic, such as on a small boat or in a storm. The Restriction also applies to effects generated by any enchanted items you create. Spells cast remain in effect even if the Restriction comes into play. Thus, if your Restriction is that you must not have a beard, you cast a spell with Year duration, and then grow a beard, the spell does not fail.
 
 #### Rigid Magic
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 You cannot use vis when you cast spells. Thus, you cannot increase your spell rolls or cast Ritual magic. You can use vis in the laboratory, or to refresh a Longevity Ritual.
 
 #### Rolling Stone
-
-Minor, General
-
+*Minor, General*<br>
 The rolling stone gathers no moss, and neither does this character. She has moved from village to village so often that she finds it difficult to create attachments in the community. All social rolls have a –1 penalty within the community.
 
 #### Savantism
-
-Minor, General
-
+*Minor, General*<br>
 The character's family was cursed by faeries; his mother tripped over a hare while pregnant with him; or he was born on horseback. He is physically capable, but simpleminded and slow-witted. He has half the standard experience points at character generation, all future Advancement Totals are halved, and he may not begin with an Ability above 3. However, with one favored Ability, he is exceptionally gifted. This Ability can improve normally, is limited to a score of 6 as a starting character, and has +3 to all rolls related to its specialization rather than just +1. The Ability must be something he could reasonably have access to learn; there would need to be an extraordinary background story for a savant who is a master of the longsword!
 
 Most savants will be like the tragic fool whose precocious skill with horses has gone forever unnoticed, but some may have more esoteric talents. If the favored Ability requires a Virtue. such as Academic or Martial Abilities, then he must have that Virtue as normal; a mathematical savant would need a Virtue such as Educated to learn Artes Liberales. Magi may well desire the company of certain specialists: a Jerbiton maga would appreciate an artistic savant, for example. Similarly, a Failed Apprentice may have been left stricken with savantism when his Gift abandoned him, but he retained remarkable clarity on the Code of Hermes, becoming a valued clerk to a Quaesitor.
 
 #### Secretive
-
-Minor, Personality
-
+*Minor, Personality*<br>
 The character is prone to keeping secrets from his sodales. He rarely explains what he is doing or why he is doing it, which can frustrate those around him.
 
 #### Seeker
-
-Minor, Personality
-
+*Minor, Personality*<br>
 You are a self-proclaimed member of the Seekers, a loose organization of competitive magi searching for ancient magic and arcane artifacts. Much of your life is spent in pursuit of these items. Your interests may occasionally clash with other interests of your House or covenant. More details about the Seekers can be found on page 15 of Houses of Hermes: True Lineages.
 
 #### Servant of the (Land)
-
-Major, Story
-
+*Major, Story*<br>
 Some powerful magical creature has saved the character from death or granted a similar boon. and in return the character has been set a task. Possible tasks include: preaching a message, operating a lighthouse, or preventing hunting in a certain area. Usually the task is either difficult or time-consuming, and while it remains incomplete the character has the Minor Personality Flaw: Prohibition, but this does not count toward the character's total number of Virtues and Flaws. The Prohibition means that if the character does not spend at least one complete season every year working toward his assigned task, a curse afflicts him. Possible curses include: a magical compulsion to return to the land where the character must explain himself to his master, turning into an animal, or acquiring a Supernatural Flaw.
 
 #### Sheltered Upbringing
-
-Minor, Personality
-
+*Minor, Personality*<br>
 You grew up completely separated from society, knowing only your parents or mentor. Recently you have been introduced to a wondrous new world of strangers, and you are overwhelmed. Depending on your personality, you might react with contempt, fear, or wonder. You are unable to function normally because you cannot understand most human customs. You may not take Bargain, Charm, Etiquette, Folk Ken, Guile, Intrigue, or Leadership as beginning Abilities, but you may learn them in play.
 
 #### Short Attention Span
-
-Minor, Personality
-
+*Minor, Personality*<br>
 You have trouble concentrating. Keeping watch, listening to complex orders, following the plot of a story, or performing other such tasks that require continued attention are usually not within your ability.
 
 #### Short-Lived Magic
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Your spells do not last as long as they should. Spells that should last a year, last a moon; those of a moon, only to the next sunrise or sundown; and those of a sun, merely Diameter. Diameter, Concentration, Ring, and Momentary spells are not affected.
 
 #### Short of Breath
-
-Minor, General
-
+*Minor, General*<br>
 The character cannot last as long as others when exerting himself and quickly tires during extended physical activity. He receives a —3 penalty to all Stamina rolls to avoid fatigue, including rolls to maintain Concentration.
 
 #### Short-Ranged Magic
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 Halve your Casting Totals whenever you are not touching the target of the spell. Halve your Lab Total when designing an effect or spell that has a range greater than Touch, including Eye.
 
 #### Simple-Minded
-
-Minor, Personality
-
+*Minor, Personality*<br>
 You can only think about one thing at a time — guarding the bridge, hunting for a missing ring, or hiding in the trees for example. You become easily confused unless others give you very clear instructions. When unexpected circumstances pop up, you find them difficult to deal with.
 
 #### Sleep Disorder
-
-Minor, General
-
+*Minor, General*<br>
 More often than not, this character is unable to sleep soundly during the night. The resulting deprivation means that he is likely to nod off in periods of quiet and boredom. When the character is alone, comfortable, bored, or otherwise at risk of falling asleep, he needs to make a suitable Personality roll to avoid nodding off. Loyal, Reliable, and Lazy (for a penalty in the last case) are all appropriate. The character's current Fatigue penalty applies to the roll.
 
 Regardless of whether he manages to stay awake, the following night you must make a stress roll (no botch) against an Ease Factor of 6 to see if the character sleeps well. Every night he has slept poorly, he loses a Long Term Fatigue Level. Continue this until he sleeps soundly for a whole night. Once he has lost 3 Long Term Fatigue Levels, he automatically sleeps through the night, due to sheer exhaustion. This Flaw is not compatible with the Night Terrors Flaw.
 
 #### Slothful
-
-Minor, Personality
-
+*Minor, Personality*<br>
 The character is lazy and indolent, and enjoys nothing better than doing as little as possible. He is very good at coming up with excuses as to why things need not be done right now. When roused into action, he works as hard as any other, but is constantly looking for opportunities to lapse into sloth again.
 
 #### Slow Caster
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Your magic requires more time to prepare and execute than that of other magi. Your Formulaic spells take two rounds to cast; Spontaneous spells also take two rounds unless you fast-cast, in which case they take one round casting time. Fast-cast Mastered spells also take the normal oneround time. You can still cast Muto Vim spells on your own spells, but the casting process takes longer. Ritual spells and ceremonial castings are performed as normal, since all magi must cast them slowly and carefully.
 
 #### Slow Power
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 One of the character's supernatural powers is very slow, so that it requires an additional round of preparation to activate. This Flaw may be taken more than once, if the character has multiple powers, but not more than once for a single power.
 
 #### Slow Reflexes
-
-Minor, General
-
+*Minor, General*<br>
 The character does not react well to surprises. He receives a –3 to his Initiative total in situations warranting a quick response.
 
 #### Small Frame
-
-Minor, General
-
+*Minor, General*<br>
 You are of a lighter-than-average build. Your Size is reduced to –1. This means that the severity of wounds you take increases in four point increments, rather than five point. (See page 404). You cannot take this Flaw and Giant Blood (page 83), Large (page 89), or Dwarf (page 126).
 
 #### Social Handicap
-
-Minor, General
-
+*Minor, General*<br>
 You have some trait that keeps you from interacting easily with other people. This impairs your dealings with most of society, causing penalties of –3 on appropriate rolls. Examples include morose temperament, unworldliness, an unpleasant odor, or tactlessness.
 
 #### Soft-Hearted
-
-Minor, Personality
-
+*Minor, Personality*<br>
 You cannot bear to witness suffering, and causing it brings you sleepless nights. Even the deaths of enemies are painful for you. You avoid danger and try to keep your friends out of it as well. Life and health mean so much that you would rather give up important goals than let another person risk combat. You are easily moved by song and story.
 
 #### Spontaneous Casting Tools
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 The character must use casting tools to cast spontaneous spells just as he does for casting formulaic spells. He has 15 individual tools, one for each Art, which he must use in various combinations to cast spontaneous spells. This Flaw can only be taken by Verditius magi.
 
 #### Stigmatic Catalyst
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 The character's presence sometimes causes symbolic marks to appear on the bodies of people without Magic Resistance nearby. The character cannot control this process, but may make Intelligence + Enigmatic Wisdom rolls against an Ease Factor of 6 to tell those so afflicted what form of spiritual purification they must undergo for the stigma to disappear. Characters who are stigmatized may have a hostile reaction if they realize the source of the stigmata. This Flaw is normally found among magi of House Criamon, and magi of that House would be interested in any other character who manifested it.
 
 #### Stockade Parma Magica
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Because of your restricted understanding of Parma Magica, you cannot suppress your Parma once it is erected. Any friendly spell or magical affect must penetrate your Parma Magica to affect you, just as if it were a hostile spell.
 
 #### Stuck in Your Ways
-
-Minor, General
-
-Having come from a covenant, this character knows how things must be done to best serve the needs of covenfolk and magi alike. Only, his new home does things differently. And they're wrong. When making Stress Rolls against his Profession Abilities or any Ability concerning his new covenant, such as Leadership or Folk Ken. this character uses the lower of that Ability score and his current Covenant Lore Ability for his current covenant. Note that bonuses from Puissant or other Virtues still apply to the roll.
-
-This Flaw can also be applied to organizations other than covenants, such as abbeys, universities, guilds, or churches.
+*Minor, General*<br>
+Having come from a covenant, this character knows how things must be done to best serve the needs of covenfolk and magi alike. Only, his new home does things differently. And they're wrong. When making Stress Rolls against his Profession Abilities or any Ability concerning his new covenant, such as Leadership or Folk Ken. this character uses the lower of that Ability score and his current Covenant Lore Ability for his current covenant. Note that bonuses from Puissant or other Virtues still apply to the roll. This Flaw can also be applied to organizations other than covenants, such as abbeys, universities, guilds, or churches.
 
 #### Study Requirement
-
-Major, Hermetic
-
-You are unable to study magic from books or vis alone. You must study in the presence of the appropriate Art. For example, you need to sit next to a brook or pond to study Aquam, or a large fire to study Ignem. Growing things are good for Creo, decaying ones good for Perdo. As your knowledge grows, you need to work with larger and larger quantities. See the Study Bonus Virtue on page 110 for a list of examples.
-
-You may take both Study Bonus and Study Requirement.
+*Major, Hermetic*<br>
+You are unable to study magic from books or vis alone. You must study in the presence of the appropriate Art. For example, you need to sit next to a brook or pond to study Aquam, or a large fire to study Ignem. Growing things are good for Creo, decaying ones good for Perdo. As your knowledge grows, you need to work with larger and larger quantities. See the Study Bonus Virtue on page 110 for a list of examples. You may take both Study Bonus and Study Requirement.
 
 #### Supernatural Nuisance
-
-Major, Story
-
+*Major, Story*<br>
 Supernatural entities of a certain kind interfere in your life in minor ways whenever you are around them. This differs from Plagued by Supernatural Entity in that the nuisances do not have any long-term plans. This could represent a ghost that haunts you, or general enmity from faeries towards you.
 
 #### Suppressed Gift
-
-Major, Hermetic, Story
-
+*Major, Hermetic, Story*<br>
 The character has The Gift but cannot access its power, having temporarily lost his magical ability through mishap or some other misfortune. While the Gift is suppressed, the character cannot perform Hermetic magic, improve his Arts, or perform the Parma Magica. His Arts do provide him with Magic Resistance and he continues to suffer the negative social penalties of The Gift. Such a character may still use Supernatural Virtues and Abilities. He may be a member of the Order of Hermes, depending on when his Gift was suppressed.
 
 How The Gift returns should be decided by the storyguide. Examples are surviving a laboratory disaster while assisting another magus (perhaps that was how Suppressed Gift was gained), comprehending a Temporary Twilight while in a powerful regio, visiting the Magic Realm and succeeding in some task, or undergoing a year's instruction from an elder dragon.
@@ -7201,39 +6857,27 @@ How The Gift returns should be decided by the storyguide. Examples are surviving
 The troupe should consider carefully how the character will fit into the saga. If he replaces a player's magus, he has a very serious Flaw. If he replaces a companion, he will become much more powerful when the Story Flaw is resolved. Either approach can work, with care.
 
 #### Surgical Empiricus
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 You are a chirurgeon by trade, but have never received a wide grounding in the subject; rather your training has focused on only a single aspect of Chirurgy. Pick a type of surgery as your specialization in that Ability (couching cataracts, removal of stones, bone-setting, etc.). When performing this type of surgery, you get the usual +1 bonus to your roll, but when trying to employ any other application of Chirurgy, you must halve your score in Chirurgy due to your inexperience. It is likely that you travel to get enough clientele for your practice, but can usually earn a good living.
 
 #### Susceptibility to Divine Power
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You are especially sensitive to the Dominion and suffer twice the normal penalties (such as spellcasting modifiers and botch dice) to your magic when in a Divine aura.
 
 #### Susceptibility to Faerie Power
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You are especially susceptible to the fay and their magic. Whenever you enter a Faerie aura, you must make a Stamina roll equal to or greater than its aura rating to avoid becoming disoriented. In addition, your Magic Resistance score, including Parma Magica, against faerie effects is halved. If someone else uses their Parma Magica to protect you, their resistance is not affected and you benefit normally.
 
 #### Susceptibility to Infernal Power
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You are especially vulnerable to the dark powers. Whenever you enter an area of Infernal influence, you must make a Stamina roll equal to or greater than the aura rating or become ill (-1 on all rolls). You get only half your normal Magic Resistance score against infernal effects, though if someone else's Parma Magica is protecting you, it counts normally.
 
 #### Susceptibility to Sunlight
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 Direct, bright sunlight causes you noticeable pain and exhausts you. Attuned to darkness, your eyes are very sensitive, and you suffer from a –2 penalty to all rolls involving sight in bright environments such as a cloudless day. Due to your malediction, you lose one Fatigue level per Diameter if outdoors at noon on a hot summer day, and lose levels more slowly in less-intense light and warmth from the sun.
 
 #### Susceptibility to Warping
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 Your character's constant exposure to magic has made him more susceptible to supernatural Warping than he might otherwise be.
 
 In any year in which the character gains a Warping Point from any Realm or any source (including Longevity Rituals, living within an aura, and powerful supernatural effects), the character gains one additional Warping Point associated with that same Realm. This means that if he gains a single Warping Point from each Realm in a year, he gains four additional Warping Points, one from each Realm, at the end of that year.
@@ -7241,33 +6885,23 @@ In any year in which the character gains a Warping Point from any Realm or any s
 These additional points do not contribute to Wizard's Twilight or to other events caused by the acquisition of Warping Points as they accrete slowly over the course of the year.
 
 #### Tainted Offspring
-
-Major, Story, Tainted
-
+*Major, Story, Tainted*<br>
 The character has a child who has been marked for great, but unpleasant, things by a powerful demon. The character must struggle not only with the servants the demon sends to subvert the child, but the child's own tendency toward evil.
 
 #### Tainted With Evil
-
-Minor, General
-
+*Minor, General*<br>
 An air of corruption surrounds you as a result of something you, your parents, or your ancestors did. Others naturally feel very ill at ease around you, and can easily grow to hate you. Gaining a positive Reputation is impossible. Magi do not react as strongly to this attribute as normal people.
 
 #### Temperate
-
-Minor, Personality
-
+*Minor, Personality*<br>
 You do not over-indulge in any sensual pleasures.
 
 #### Tormenting Master
-
-Major, Story
-
+*Major, Story*<br>
 Your master does not believe you have successfully passed the apprentice's gauntlet (the test of becoming a magus). He periodically troubles you with political moves and indirect attacks. This Flaw is only applicable to magi, although other characters could take an analogous Story Flaw.
 
 #### Tragic Life
-
-Major, Story, Tainted
-
+*Major, Story, Tainted*<br>
 The character's life has been manipulated by demons to ensure that she will act in a certain way in response to important events, usually to her own detriment and in such a way as to further a particular demon's aims. This means that she is a tainted character.
 
 Tainted characters are produced as tools, to influence pivotal events. This Flaw represents two factors: the events that the demons have designed the person to influence are likely to happen, and the person has been designed and conditioned to behave predictably when her moment of destiny arrives. Tainted people are likely, at their point of destiny, to choose to sin, and so cause terrible events. The repercussions of the tragedy they create often harm the tainted person. The predisposition toward sin at the character's pivotal moment should be represented with a sinful Personality Trait.
@@ -7283,9 +6917,7 @@ Tainted people have difficult lives, but are not doomed from the moment of their
 Tainted characters are designed for specific situations. Characters who struggle successfully against their destiny find that their creator cannot usually fashion an alternative situation to which the tainted person is perfectly suited. The tainted character loses the Tragic Life Flaw, but usually gains the Plagued by Supernatural Entity Flaw instead, as the demonic lord vents his spite on the character.
 
 #### True Love
-
-Major or Minor, Story
-
+*Major or Minor, Story*<br>
 You have found the one person meant for you in all of creation. and the bond between the two of you cannot be sundered. Whenever you are suffering, in danger, or dejected, the thought of your love will give you strength to persevere. In dire need, he may even come to rescue you. More often, he will be in trouble and need rescuing. If any enchantment keeps you from your true love's side, the power of your devotion can probably break it. Your love is higher than mortal magic, and no magic can make you hate your love, or make you truly betray him. Your True Love must be a non-player character. To have another player character as your True Love, see the True Love Virtue on page 113.
 
 This Story Hook may be renamed 'True Friend' to cover characters with whom you are very closely linked, but not in a romantic way.
@@ -7293,27 +6925,19 @@ This Story Hook may be renamed 'True Friend' to cover characters with whom you a
 If the True Love is significantly weaker than the player character, and not able to provide useful assistance in most cases, this is a Major Flaw. If the True Love is competent, equal to or better than the player character, then this is only a Minor Flaw. The True Love may need rescuing occasionally, but more often she will involve the player character in her plans.
 
 #### Twilight Prone
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 You either enjoy or cannot help running excessive amounts of magic through you when you cast spells. You must roll to resist Twilight on a single magical botch, rather than on a double botch like most magi.
 
 #### Tzadik Nistar
-
-Major, Story
-
+*Major, Story*<br>
 Your character is one of the Tzadikim Nistarim, one of the 36 hidden righteous upon which the continuation of the world relies. She is destined to face a moment of moral decision, where she and the world through her will be tested. This moment could be small and personal, or it require a very public act. The result of failing in her test has immediate consequences defined by the storyguide. The Dominion may fall in her community or in the place of her moral failure, the Infernal may claim a new soul; or a whole region may face severe hardship until she puts right her failure. Although this is a Jewish tradition, a character need not be Jewish to take this Flaw. She may suspect that she has been chosen as one of the 36, but she does not know in advance what her personal test will be, though it may be discovered by consulting with prophets and learned men.
 
 #### Unbaptized
-
-Major, Story
-
+*Major, Story*<br>
 You are a Christian who has never been baptized for whatever reason, perhaps because you have some kind of supernatural background that might be undone by the ceremony — many magi believe that baptism impairs The Gift. Your faith is important enough to you that you still strive to be virtuous and attend Mass, though you do not benefit from the sacraments. Most common people who discover this fear and avoid you.
 
 #### Unbearable to (Beings)
-
-Minor, Hermetic or General
-
+*Minor, Hermetic or General*<br>
 This Flaw is associated with one of three classes of beings: mundane humans, demons, or divine beings. These last two include characters associated with the Divine or the Infernal realms, respectively, through Supernatural Virtues or Flaws, as well as beings with Divine or Infernal Might.
 
 These beings are extremely disturbed, frightened, and possibly enraged by the character's presence. She suffers an additional –3 penalty on all social interactions with them, which adds to the –3 penalty normally associated with The Gift. Only characters with The Gift or Magical Air may take this Flaw, and it cannot be combined with the Blatant Gift.
@@ -7321,9 +6945,7 @@ These beings are extremely disturbed, frightened, and possibly enraged by the ch
 You may not take this Flaw more than once; characters who are Unbearable to more than one kind of being should take the Blatant Gift instead.
 
 #### Uncertain Faith
-
-Minor, General
-
+*Minor, General*<br>
 Whether through a flaw in the character's understanding of doctrine, a moral turmoil, the disheartening absolution of repeated sins, or exposure to conflicting philosophies, he finds it hard to fully express devotion to his faith. Some element of doubt stands between him and the Divine, and all rolls for holy influence, tempering an aura, invoking God's aid, or invoking a saint or baraka (see Realms of Power: The Divine Revised Edition, pages 38-41, 87, and 103) suffer a -3 penalty.
 
 The character also has an "Uncertain Faith" Personality Trait at +1 that describes this conflict or doubt, which always provides demons with an opportunity to sow further doubt through their Obsession power (Realms of Power: The Infernal, page 31).
@@ -7331,87 +6953,59 @@ The character also has an "Uncertain Faith" Personality Trait at +1 that describ
 Supernatural Abilities originating from the Divine, including Methods and Powers, are not penalized. This Flaw is not compatible with the True Faith Virtue.
 
 #### Uncontrollable Strength
-
-Minor, General
-
+*Minor, General*<br>
 This character doesn't know his own strength, and at times he has trouble controlling it. This Flaw may not be taken if the character's Strength is below 0. Whenever he handles delicate or fragile objects, whenever care must be taken to knock somebody out gently, and so on, he risks overdoing it, severely. The character must make a stress roll against an Ease Factor of 6 to avoid using too much power and causing damage of some kind. In addition to this, any Strength Stress Roll uses one extra botch die.
 
 #### Unhappily Married
-
-Major, Story
-
+*Major, Story*<br>
 Young merchants often marry for financial reasons. The nobility are often required to marry to form or strengthen alliances. The character has married for money or politics, not love, and seeks solace outside his marital bed. Unhappily married characters must hide their affairs of the heart from their spouses, their spouses' families, and possibly from their partners' spouses. In many areas, separation due to infidelity is permitted, although this is not divorce. In many such cases the wife's dowry must be returned, in part or full. In the case of the nobility, this could even lead to a small, local war, or a Feud.
 
 #### Unimaginative Learner
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You have trouble figuring things out for yourself. Subtract 3 from rolls when you study from raw vis.
 
 #### Uninspirational
-
-Minor, General
-
+*Minor, General*<br>
 This character is bland, boring, and simple, with almost no chance of ever getting noticed or enticing anyone. His Presence and Communication may not be greater than 0. Any use of Abilities like Leadership, Charm, Intrigue, Etiquette or similar — as well as Personality Rolls — to stir or impress people suffers a -3 penalty.
 
 #### University Dean
-
-Major, Story
-
+*Major, Story*<br>
 The character is the head of a university, having already acquired his doctor in (faculty) license. The character has been chosen to lead the university. overseeing external affairs with the town and internal affairs between students and masters. Though prestigious, the position imposes serious demands on the character's time. The character can expect many interruptions in his teaching during the school year. The character must have the Virtue Doctor in (Faculty), be at least 40 years old, and can not have the Poor Flaw or any other Flaw that grants a Bad Reputation.
 
 #### Unlucky
-
-Minor, General
-
+*Minor, General*<br>
 The character is exceptionally unlucky, and is frequently dealt a bad hand by the forces of chance. He gets a -1 to -3penalty (at storyguide's discretion) on rolls in situations based on luck rather than skill or talent, depending on how much luck is involved. It would be wise for him not to take part in games of chance.
 
 #### Unnatural Magic
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 Because of the unreal and illusory nature of your magic, none of the character's Creo rituals have a permanent effect. Wounds magically closed with The Chirurgeon's Healing Touch (CrCo20), for example, reopen again as soon as he finishes casting the spell, as the magic truly lasts only a moment. He also cannot extract vis from an aura using Creo, since his version of that Art is too unstable for the vis to remain in a lasting physical form.
 
 #### Unpredictable Magic
-
-Minor. Hermetic
-
+*Minor. Hermetic*<br>
 You always roll a stress die when using magic, even if completely relaxed. If you choose to cast a Spontaneous spell without expending fatigue, you must still roll to check for a botch, although the roll does not add to your Casting Total. Even if you have Mastered a spell, you must always roll at least one botch die.
 
 #### Unruly Air
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 The character has a penchant for stirring up situations, making pleasant events better and unpleasant ones worse. Whenever the character is in a social situation with multiple people, his slightest behavior will subtly push others to extreme behavior. He is either the life of the party, or its death, depending on the prevailing mood of the crowd. His influence is linked to his magical nature, so that others with Magic Resistance are not influenced by him.
 
 #### Unspecialized
-
-Minor, General
-
+*Minor, General*<br>
 The character does not have any specialties for any of her Abilities.
 
 #### Unstructured Caster
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 You have never quite mastered the intricacies of spellcasting. and are unable to perform Formulaic magic without extreme effort. You cast all Formulaic spells as though they were Ritual spells (including the need for vis), and you may not learn Ritual spells at all. You cast Spontaneous spells normally.
 
 #### Usurer
-
-Minor, Social Status
-
+*Minor, Social Status*<br>
 You often lend silver or other valuables to people at interest rates that many consider abusive. You get away with this somehow, possibly because you belong to a group that can avoid moral judgment for these actions, because you operate outside of the law, or perhaps because you lend a type of currency not accepted by the mundane population. You receive the equivalent of approximately ten pounds of silver each year from interest payments, though you may occasionally need to chase down debtors, and you have a poor reputation (Usurer) at level 4 within your community and the local region.
 
 #### Vendetta
-
-Major, Story
-
+*Major, Story*<br>
 The magus is engaged in one of House Verditius' vendettas, mostly likely carrying on his parens's vendetta against another Verditius magus. This vendetta stops just short of physical injury to him or the other. Neither of them will bring this feud to the Quaesitores, wishing to finish it themselves. The magus with whom he is feuding must be an NPC, who regularly takes some sort of action with which the character must contend. This Flaw is generally restricted to magi of House Verditius, as the custom of vendetta is limited to that House. Other characters should take Enemy or Feud to represent a similar situation.
 
 #### Vengeful Powers
-
-Major, Story, Tainted
-
+*Major, Story, Tainted*<br>
 The character has one or more non-Infernal Powers in which the Infernal realm has taken a personal interest. Whenever she uses one of these Powers in a way that is not sinful, it has an unpleasant side effect. This is always harmful, and often recognizably Infernal, and the severity varies depending upon the Power's application, so that extremely good works cause even more terrible evil. The effect is not obviously linked to the use of the Power, and in fact it may seem completely unrelated. It always manifests at about the same time as the use of the Power, however, though the character may not be aware of this. Some potential side effects might include:
 
 - Illness and disease among local people or animals.
@@ -7429,9 +7023,7 @@ The character may not know about these circumstances, but once she realizes the 
 Vengeful Powers may be taken as a Hermetic Flaw, as applicable to Hermetic magic. In that case, the effect triggers whenever the character performs magic that is without sin. It is more commonly associated with Supernatural Abilities, however.
 
 #### Viaticarus
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 At some point in the character's past, he was at death's door, and as a result a priest performed the sacrament of Extreme Unction. The purpose of this sacrament was to remit him of all venial sins, and prepare him for the journey beyond (the viaticum); but against all expectations, he survived. This leaves him in a spiritual no-man's land, not one of the dead, but neither wholly of the living. Because of this, he is immune to the temptations of demons, and therefore cannot be affected by their Obsession power; he simply does not register to them as a soul in need of corruption. However, his skin has an unusual pallor, and his eyes are sunken. People may smell a charnel odor about him. These effects are subtle at first, but as he ages, he gradually comes to resemble a corpse more and more, resulting in a penalty to all social interaction rolls equal to his Decrepitude score.
 
 He has difficulty crossing thresholds where unquiet spirits are not welcome; if a person with a (Realm) Lore of 1 or more has set up a traditional ward, such as a line of salt or an iron nail laid on the lintel, then he cannot enter the protected building or area. Further, although he does not have a Might score, he is repulsed by any magical warding that can keep out a creature with a Might score aligned to Corpus or Mentem (including the Aegis of the Hearth), regardless of its level or Penetration. However, both types of exclusion can be negated if he is invited to cross by the person who established the ward, or someone who lives within. He can still touch individuals with Magic Resistance, since he has no active power around him.
@@ -7439,23 +7031,15 @@ He has difficulty crossing thresholds where unquiet spirits are not welcome; if 
 If the character's status is known in the community in which he lives, he should take the Outcast Social Status Flaw.
 
 #### Visions
-
-Minor, Story, Supernatural
-
-You often see images related to emotionally or magically laden events. A vision might be of the past, a possible future, or a distant occurrence, and is often symbolic or confusing. Visions usually come to you at quiet times or in places connected with a powerful emotional or magical event, such as the site of a patricide or diabolic sacrifice. Your visions may warn you of dangers to come, or get you involved in matters you would otherwise have avoided.
-
-The visions come purely at the storyguide's discretion, and reveal only what he wants to reveal.
+*Minor, Story, Supernatural*<br>
+You often see images related to emotionally or magically laden events. A vision might be of the past, a possible future, or a distant occurrence, and is often symbolic or confusing. Visions usually come to you at quiet times or in places connected with a powerful emotional or magical event, such as the site of a patricide or diabolic sacrifice. Your visions may warn you of dangers to come, or get you involved in matters you would otherwise have avoided. The visions come purely at the storyguide's discretion, and reveal only what he wants to reveal.
 
 #### Vow
-
-Major or Minor, Personality
-
+*Major or Minor, Personality*<br>
 You have sworn to do something difficult, and breaking your vow is a serious matter. Example vows include never raising a weapon, never speaking, or living in poverty. If you do fail to uphold your vow, you must perform some kind of atonement, whether it be religious penance or coming to terms with your failure in some other way. A Vow that is a Major Flaw must be a vow to do something, rather than refrain from something, so that it can drive you to act.
 
 #### Vulnerable Casting
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Some magi are better able to withstand the Fatigue loss of casting spells, and some less so. If a maga has this Flaw, then whenever she is about to lose Fatigue from casting a spell, she loses 1 more Fatigue level than normal. If the spell would have been cast without Fatigue loss, then she still loses no Fatigue.
 
 A maga may have, or acquire, this Flaw more than once, losing 1 extra Fatigue level for each level of this Flaw. If she has Vulnerable Casting (2), then she loses 2 extra Fatigue levels whenever she casts a fatiguing spell.
@@ -7467,46 +7051,34 @@ The Flaw increases the severity of the Fatigue lost, in the exact manner of the 
 You may not start your character with both Vulnerable Casting and Withstand Casting, but the maga may acquire either in the course of play (from Initiation, Ordeals, or Twilight effects). In this case, apply the vulnerability first, then withstand the increased loss.
 
 #### Vulnerable Magic
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 The character's magic is automatically dispelled in certain uncommon circumstances. Examples include: when touching iron, when under the influence of the Divine, when crossing over running water, when his name is spoken three times, or when he is not touching the ground. This condition immediately ends the duration of a spell when it is applied to the target, or all of your active spells when applied to you.
 
 This Flaw may be taken multiple times, so long as a different condition is specified for each. It may not be combined with Restrictions or Necessary Conditions that have the same (or equivalent) conditions.
 
 #### Vulnerable to Folk Tradition
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 The magus's magic is susceptible to various folk-remedies for averting hostile spells. Any target who is aware that the magus has just used his magic may attempt a folk ritual such as making a sign against evil, or spitting, and so forth. This grants the target or targets a Magic Resistance equal to (5 x the target's Magic Lore), or 0 if the target does not have this Ability, against the magus's magic only. Furthermore, someone with Magic Lore may be able to devise a manner to break a lasting enchantment, such as sprinkling with salt or lying on an iron bed; this typically requires an Intelligence + Magic Lore roll against an Ease Factor of (9 + the spell's magnitude) or greater.
 
 #### Wanderlust
-
-Major, Story
-
+*Major, Story*<br>
 The character feels compelled to travel with a passion that is so strong that he cannot spend more than a season in the same place. The character can only spend two (nonconsecutive) seasons each year in the same area, and must spend the intervening seasons traveling to different locales — places he has never been. If for some reason he cannot travel, he will become very uncomfortable; this discomfort should cause stories in the same way as the travel would.
 
 #### Warped by Magic
-
-Minor, Supernatural
-
+*Minor, Supernatural*<br>
 The character's adventures have exposed him to powerful magical forces that have left a mark on him. He has five Warping Points and a Warping Score of 1, including a Minor Flaw (which is not balanced by a Virtue) that somehow reflects the source of the Warping. His encounters allow you to spend experience points on Magic Lore during character creation. A magus may take this Flaw to represent Warping gained before his apprenticeship. With the permission of the troupe, this Flaw may be modified to represent Warping from other Realms.
 
 #### Warped Magic
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Your magic is accompanied by some unpleasant side effect that always manifests itself the same way, but with increasing intensity according to the level of the spell. Examples include nearby items become hot or nearby plant matter becomes shriveled and wilted. This effect may cause trouble from time to time, but is usually just annoying.
 
 #### Warped Senses
-
-Minor, General
-
+*Minor, General*<br>
 The character has become overly sensitive to environmental conditions, which affects his behavior in certain uncommon circumstances. Some examples include:
 
 *Sensitive (Sense):* One of your senses is so sensitive that it is overwhelmed under circumstances that others find normal. If it is sight, normal daylight dazzles you. If it is hearing, sounds above normal speaking volume hurt your ears. If it is taste, only bland food is tolerable. If it is smell, strong odors, good or bad, are nauseating. You suffer a -2 penalty on all activities under relevant circumstances. (It is inadvisable to combine Sensitive Sight with Keen Vision, and Sensitive Hearing with Sharp Ears, and these are incompatible with Blind and Deaf, respectively.)
 
-Weak (Sense): One of your senses is so weak that it is useless under circumstances that others find normal. If it is sight, you can only see well in good illumination (e.g. broad daylight). If it is hearing, you can only hear sounds above normal speaking volume. If taste, only highly flavored food is palatable. If smell, you can only detect strong odors. You suffer a –2 penalty on all activities under relevant circumstances. (Weak Sight is incompatible with Sensitive Sight, Keen Vision, and Blind and you cannot take Weak Hearing with Sensitive Hearing, Sharp Ears, or Deaf.)
+*Weak (Sense):* One of your senses is so weak that it is useless under circumstances that others find normal. If it is sight, you can only see well in good illumination (e.g. broad daylight). If it is hearing, you can only hear sounds above normal speaking volume. If taste, only highly flavored food is palatable. If smell, you can only detect strong odors. You suffer a –2 penalty on all activities under relevant circumstances. (Weak Sight is incompatible with Sensitive Sight, Keen Vision, and Blind and you cannot take Weak Hearing with Sensitive Hearing, Sharp Ears, or Deaf.)
 
 *Sensitive to Cold:* You function normally at temperatures considerably above the norm for your part of the world. You lose 1 Fatigue level for every hour you spend in an environment two steps or more below your accustomed conditions on the Environmental Temperatures chart (see sidebar). Your responses to heat are reduced in intensity by 2 (page 407).
 
@@ -7515,35 +7087,23 @@ Weak (Sense): One of your senses is so weak that it is useless under circumstanc
 This is a common Flaw for characters who become Warped by a strong magic environment.
 
 #### Waster of Vis
-
-Major, Hermetic
-
-When you use raw vis you waste one guarter (rounded up) of the pawns you apply. The lost raw vis does not apply to the magical effect being enacted but does count toward the total number of botch dice you must roll if you roll a zero. You must use a third again as many pawns as usual when casting a ritual spell, and if you want to improve an Art score by studying raw vis, you must use a third again as many pawns as usual. This Flaw applies to all occasions on which you use vis, including certamen, laboratory work, and boosting penetration. Wasted pawns count toward the maximum number you can use at one time.
-
-For example, if you would normally use 12 pawns, you must use 16, and 4, one quarter of those you use, are wasted. If you would normally need 10 pawns, you must use 14, because 4 pawns are wasted.
+*Major, Hermetic*<br>
+When you use raw vis you waste one guarter (rounded up) of the pawns you apply. The lost raw vis does not apply to the magical effect being enacted but does count toward the total number of botch dice you must roll if you roll a zero. You must use a third again as many pawns as usual when casting a ritual spell, and if you want to improve an Art score by studying raw vis, you must use a third again as many pawns as usual. This Flaw applies to all occasions on which you use vis, including certamen, laboratory work, and boosting penetration. Wasted pawns count toward the maximum number you can use at one time. For example, if you would normally use 12 pawns, you must use 16, and 4, one quarter of those you use, are wasted. If you would normally need 10 pawns, you must use 14, because 4 pawns are wasted.
 
 #### Weak Characteristics
-
-Minor, General
-
+*Minor, General*<br>
 You have three fewer points to spend buying Characteristics than most characters. You may take this Flaw twice, leaving you with only one point to spend.
 
 #### Weak Enchanter
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Your Gift is ill attuned to creating enchanted devices. Halve your Lab Total whenever you create or investigate an enchanted item. If you have a Deficiency that counts as part of the Lab Total, apply the Deficiency first and then halve the remaining total.
 
 #### Weak Magic
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Your magic is particularly bad at penetrating Magic Resistance. You halve the normal Penetration Total for all spells, and only get half the normal benefit when instilling Penetration into an item. Note that you halve the Penetration Total, after subtracting the spell level and making any adjustments for the use of Arcane Connections. You do not halve the Casting Total and calculate Penetration from that.
 
 #### Weak Magic Resistance
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 Any form of Magic Resistance you generate is much weaker under relatively common circumstances which are fairly easy for an opponent to utilize, such as when you are wet or facing away from the caster of the spell. If the conditions are met, do not subtract the level of the effect from the casting total before calculating Penetration. You would be well advised to keep your weakness from being discovered by too many potential enemies.
 
 > #### Environmental Temperatures
@@ -7558,59 +7118,41 @@ Any form of Magic Resistance you generate is much weaker under relatively common
 > - Unnaturally cold
 
 #### Weak Parens
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Your parens was less powerful or a worse teacher than normal. You gain 60 fewer experience points and 30 fewer spell levels from apprenticeship, for a total of 180 experience points and 90 levels of spells.
 
 #### Weak Personality
-
-Minor, Personality
-
+*Minor, Personality*<br>
 This character doesn't feel strongly for or against anything and lacks the unique traits most people have to make them really stand out. Consequently, all Personality Traits must be between +1 and -1. When making personality rolls, treat any roll above 6 as merely 6. The character may have no other Personality Flaws or Virtues or Flaws that grant Personality Traits. Depending on the personality of the observer, he may seem a complete pushover with no opinion of his own, insensitive because he rarely shows strong emotion, or simply lacking in initiative to those seeking leadership and guidance. These elements result in a -1 or worse (at the storyguide's discretion) modifier in most social situations for obviously being a cold fish. Finally, he will never be known for his great loyalty or pious nature, and will have a hard time winning respect or getting promoted. His lack of enthusiasm for the Church in particular might be viewed as a lack of faith. On the plus side, he might occasionally be seen in a positive light since he never disagrees strongly.
 
 #### Weak Scholar
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 You don't understand laboratory guidance very well. You get a –6 penalty to Lab Totals when working from the Lab Texts of others, including when re-inventing spells.
 
 #### Weak Spontaneous Magic
-
-Major, Hermetic
-
+*Major, Hermetic*<br>
 You may not exert yourself when casting spontaneous magic, so you always divide your Casting Score by five. In stressful conditions you must still roll a stress die to see if you botch, but the die roll does not add to your casting total. You may still use ceremonial casting.
 
 This Flaw may be combined with Difficult Spontaneous Magic (page 126) to create a magus who cannot cast spontaneous magic at all.
 
 #### Weakness
-
-Major or Minor, Personality
-
+*Major or Minor, Personality*<br>
 You have a soft spot for some sort of object or person. In the face of this, all else is unimportant: promises are forgotten, duties neglected, and common sense cast to the winds. Examples include poets and storytellers, food, flattery, or a pretty face.
 
 #### Weak-Willed
-
-Minor, Personality
-
+*Minor, Personality*<br>
 You look to others for guidance rather than to yourself. What you need more than anything else is to find someone you can trust.
 
 #### Weird Magic
-
-Minor, Hermetic
-
+*Minor, Hermetic*<br>
 Your control over magic is somewhat loose, perhaps due to Twilight effects or idiosyncratic training. Roll one extra botch die when you roll a zero on stressed spell casting rolls, apart from your other botch dice. Botches from this die should be strange or bizarre rather than dangerous, and if the Weird Magic botch occurs along with a regular botch, the results could be truly spectacular.
 
 #### Witch Marks
-
-Minor, General, Tainted
-
+*Minor, General, Tainted*<br>
 The character has minor disfigurements that those skilled in folk lore recognize as belonging to diabolists. These marks can be hidden with clothing. Characters who are thought of as witches are blamed for misfortunes and may be hounded from towns or killed.
 
 #### Wrathful
-
-Major or Minor, Personality
-
+*Major or Minor, Personality*<br>
 You are prone to anger over the smallest issues, and your rage when you are thwarted in something major is terrible to behold.
 
 ---
@@ -11235,8 +10777,6 @@ When casting from a tablet, determine the magus's Casting Total according to the
 
 **CASTING TOTAL - SPELL LEVEL:**
 
-Magi can only author Casting Tablets for spells they have mastered (see page 225), although anyone can copy tablets written by others. A character spending a season as an author or copyist may create Laboratory Texts or Casting Tablets from the same pool of levels. Casting Tablets do not aid magi to learn spells the way Laboratory Texts do.
-
 |     |     |
 | --- | --- |
 | 0 or more | Spell cast, lose one Fatigue level. |
@@ -11244,6 +10784,8 @@ Magi can only author Casting Tablets for spells they have mastered (see page 225
 | −11 to −20 | Spell cast, lose three Fatigue levels. |
 | −21 to −30 | Spell cast. Gain a Warping point. Lose four Fatigue levels. |
 | -31 or less | Gain Warping points equal to the magnitude of the spell, lose five Fatigue levels. If the caster gains two or more Warping Points, he must check for Twilight. |
+
+Magi can only author Casting Tablets for spells they have mastered (see [page 225](#spell-mastery)), although anyone can copy tablets written by others. A character spending a season as an author or copyist may create Laboratory Texts or Casting Tablets from the same pool of levels. Casting Tablets do not aid magi to learn spells the way Laboratory Texts do.
 
 ### Translating Laboratory Texts
 
@@ -24735,7 +24277,7 @@ p168-170 p391
 | Carouse (Ability) | [161](#carouse) |
 | Casting Requisites | [311–312](#requisites) |
 | Casting Spells | [213–220](#casting-spells) |
-| Casting Tablet | [180](#casting-tablets) |
+| Casting Tablet | [180](#casting-tablets), [263](#casting-tablets-1) |
 | Casting Tools | [242](#enchant-casting-tools--minor-house-mystery-virtue) |
 | Castratus (Flaw) | [122](#castratus) |
 | Cathedral | [502](#structures) |
@@ -25835,9 +25377,6 @@ p168-170 p391
 | Soap Opera | [518](#soap-opera) |
 | Social Childhood | [48](#sample-childhoods) |
 | Social Contacts (Virtue) | [108](#social-contacts) |
-
-| **Entry** | **Page** |
-|-----------|----------|
 | Social Handicap (Flaw) | [145](#social-handicap) |
 | Social Status | [45](#virtues-and-flaws-1), [62](#social-status-virtues-and-flaws), [64](#social-status) |
 | &nbsp;&nbsp;By Culture | [65](#social-statuses-by-culture) |
@@ -25882,55 +25421,47 @@ p168-170 p391
 | Story Types | [517–518](#story-types) |
 | Stone | [402](#missile-weapons) |
 | Strength | [27](#strength-str) |
+| Stress Die | [7](#stress-die) |
+| Strong Angelic Heritage (Virtue) | [109](#strong-angelic-heritage) |
+| Strong Faerie Blood (Virtue) | [110](#strong-faerie-blood) |
+| Strong-Willed (Virtue) | [110](#strong-willed) |
+| Structure (Target) | [305](#target) |
+| Structures (The Church) | [502–503](#structures) |
+| Struggling (covenant situation) | [177](#struggling) |
+| Stuck in Your Ways (Flaw) | [145](#stuck-in-your-ways) |
+| Student of (Realm) (Virtue) | [110](#student-of-realm) |
+| Study Bonus (Virtue) | [110](#study-bonus) |
+| Study Requirement (Flaw) | [145](#study-requirement) |
+| Sub-Deacon | [500](#sacraments) |
+| Subtle Magic (Virtue) | [110](#subtle-magic) |
+| Sufi (Virtue) | [111](#sufi) |
+| Summae | [179](#library), [379](#summae) |
+| Summer | [175](#summer) |
+| Summon Animals (Ability) | [171](#summon-animals-1), [243](#summon-animals-2) |
+| Summon Animals (Virtue) | [111](#summon-animals) |
+| Summoning Spirits | [308](#summoning-spirits) |
+| Sun (Duration) | [304](#durations) |
+| Sundering, The | [11](#the-domination-of-house-tremere) |
+| Superiors (Hook) | [181–182](#minor-hooks) |
+| Supernatural Abilities | [159](#supernatural-abilities) |
+| &nbsp;&nbsp;Learning | [383](#learning-supernatural-abilities) |
+| Supernatural Beauty (Virtue) | [111](#supernatural-beauty) |
+| Supernatural Nuisance (Flaw) | [145](#supernatural-nuisance) |
+| Supernatural Virtues and Flaws | [64](#supernatural) |
+| Suppressed Gift (Flaw) | [146](#suppressed-gift) |
+| Surgical Empiricus (Flaw) | [146](#surgical-empiricus) |
+| Survival (Ability) | [171](#survival) |
+| Susceptibility to Divine Power (Flaw) | [146](#susceptibility-to-divine-power) |
+| Susceptibility to Faerie Power (Flaw) | [146](#susceptibility-to-faerie-power) |
+| Susceptibility to Infernal Power (Flaw) | [146](#susceptibility-to-infernal-power) |
+| Susceptibility to Sunlight (Flaw) | [146](#susceptibility-to-sunlight) |
+| Susceptibility to Warping (Flaw) | [146](#susceptibility-to-warping) |
+| Swim (Ability) | [171](#swim) |
+| Sympathetic Connections | [220](#sympathetic-connections) |
+| Tainted Offspring (Flaw) | [146](#tainted-offspring) |
+| Tainted Treasure (Virtue) | [111](#tainted-treasure) |
 
 ## Traditional Index (remained legacy not linked yet)
-
-Stress die .....................................7
-Strong Angelic Heritage 
-(Virtue) ....................................109
-Strong Faerie Blood (Virtue) ...110
-Strong-Willed (Virtue) ............110
-Structure (Target) ....................305
-Structures (The Church) ... 502-503
-Struggling 
-(covenant situation) ................177
-Stuck in Your Ways (Flaw) .....145
-Student of (Realm) (Virtue) ....110
-Study Bonus (Virtue) ...............110
-Study Requirement (Flaw) .......145
-Sub-Deacon .............................500
-Subtle Magic (Virtue) .............110
-Sufi (Virtue) ............................111
-Summae ...........................179, 379
-Summer ...................................175
-Summon Animals (Ability) ......171
-Summon Animals (Virtue) .......111
-Summoning Spirits ..................308
-Sun (Duration) ........................304
-Sundering, The ..........................11
-Superiors (Hook) ............ 181-182
-Supernatural Abilities ..............159
-Learning ...............................383
-Supernatural Beauty (Virtue) ...111
-Supernatural Nuisance (Flaw) ...145
-Supernatural Virtues and Flaws ...64
-Suppressed Gift (Flaw) ............146
-Surgical Empiricus (Flaw) ........146
-Survival (Ability) .....................171
-Susceptibility to 
-Divine Power (Flaw) ................146
-Susceptibility to 
-Faerie Power (Flaw) .................146
-Susceptibility to 
-Infernal Power (Flaw) ..............146
-Susceptibility to 
-Sunlight (Flaw) ........................146
-Susceptibility to 
-Warping (Flaw) .......................146
-Swim (Ability) .........................171
-Sympathetic Connections .......220
-Tainted Offspring (Flaw) ........146
-Tainted Treasure (Virtue) .......111
 
 Tainted Vis ............................. 422
 Tainted with Evil (Flaw) ......... 146
